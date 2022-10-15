@@ -1,6 +1,6 @@
 ## Welcome
 
-![](../images/lugares.jpg)
+![](../images/lugares.png)
 
 This website shows the documentation of my experience and journey in the Master of Design for Emergent Futures at IAAC.
 
