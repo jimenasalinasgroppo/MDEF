@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Jimena Salinas - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2021 "Student Name" - GNU Free Documentation License
+site_author: Jimena Salinas
+copyright: Copyleft 2022 "Jimena Salinas" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -31,11 +31,11 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://instagram.com/jimenasalinasg
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/jimenasalinasg"
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
@@ -43,12 +43,12 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: yellow
-    accent: purple
+    primary: indigo
+    accent: blue grey
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Montserrat
+    code: IBM Plex Mono
   icon:
     logo: material/memory
   favicon: images/favicon.svg
