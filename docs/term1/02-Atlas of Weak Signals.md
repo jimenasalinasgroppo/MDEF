@@ -13,4 +13,4 @@ My main weak signals are Non-heteropatriarchal innovation and Technology for equ
 
 At the present moment innovation needs to also tackle societal problems so ingrained and normalized in our social fabric as is violence against women in its multiple forms. I am curious to explore how experiments and prototypes can be conducted in prevention programs and also in other manifestations of gender violence that sit at the lowest part of the iceberg of violence that sometimes go unnoticed, such as stereotypes and sexist humor.
 
-![](../images/MT01/lug.jpg)
+![](../images/MT01/iceberg.jpg)
