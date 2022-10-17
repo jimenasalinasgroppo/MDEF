@@ -5,7 +5,7 @@ hide:
 
 # Bootcamp
 
-What is my fight?
+## What is my fight?
 
 This week has been an incredible starting point to begin to comprehend the way MDEF works, the collaborative networks that exist between IAAC and Elisava with other organizations in Poblenou and  Barcelona and the mindsets required to thrive in the program.
 
