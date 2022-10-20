@@ -40,12 +40,20 @@ extra:
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
-theme:
-  name: material
+    theme:
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: deep purple
-    accent: blue grey
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-5
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
   font:
     # See available fonts at https://fonts.google.com/
