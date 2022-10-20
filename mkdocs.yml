@@ -17,6 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - RtD: term1/03-Research through design.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
