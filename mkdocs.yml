@@ -44,7 +44,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: indigo
+    primary: deep purple
     accent: blue grey
   font:
     # See available fonts at https://fonts.google.com/
