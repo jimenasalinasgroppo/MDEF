@@ -46,7 +46,7 @@ theme:
 
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: deep purple
-    accent: teal
+    accent: cyan
 
     # Palette toggle for light mode
     - scheme: default
