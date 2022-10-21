@@ -14,7 +14,7 @@ This week we went in-depth in different ways to prototype. This was eye opening 
 ###The prototype as an experimental concept.
 
 Previously, I have done this type of prototyping by executing A/B tests to determine the best variables for the value proposition of a new service that offered couples counseling for men to reduce conflict. We wanted to learn which type of copy in a Facebook ad generated the highest conversion. We quickly learned that men joining the program were motivated to do so to reduce the number of fights and have happier relationships as opposed to directions that were more vague, offering a new journey or a new challenge. It was important to hit the right tone of voice and communicate the most appealing value proposition since we only had two months to recruit 1,500 men for our pilot service of the program. Without quick prototyping it would’ve been impossible to achieve this ambitious objective.
-![](../images/MT01/hep.jpeg.jpeg)
+![](../images/MT01/hep.jpeg)
 
 In 2017 me and my team had to define the value proposition and brand for a new education start-up focused on teaching digital skills to Latin American professionals. We quickly designed 3 different websites with opposing look and feels and showed the prototypes to real users. We gathered their reactions and went with the most liked visual direction that was more modern yet bold. The prototype allowed us to have a stronger point of view as to which was the communication path we had to follow. This was a starting point to creating the brand of Colectivo23, an edtech startup for Latin American professionals that now has over 5,000 alumni.
 
@@ -28,15 +28,14 @@ In 2015  I worked with a group of space and interaction designers from La Victor
 I was involved in the creation of a book designed to celebrate and honor a district in Lima called La Victoria. The concept of the book revolved around the past, present and future of the district and in the “future” section we built upon the district’s most pressing problems and imagined hypothetical scenarios where these problems are solved through innovation. We worked with an illustrator to define how these could look like.
 
 [A medium article we wrote about the creative process behind](https://medium.com/@la_victoria_lab/victorias-un-libro-para-celebrar-nuestros-primeros-cinco-a%C3%B1os-d2161e101cbd)
-![](../images/MT01/victorias1.jpeg)
-![](../images/MT01/victorias2.jpeg)
 
 Some questions we explored:
 
 - What if Gamarra (the textile hub) provided **last-mile delivery through accessible technology and created a textile fab lab** to collaborate with manufacturers, innovators and fashion stylists?
+![](../images/MT01/victorias1.jpeg)
 
 - What if we transformed the very dangerous area around the Matute stadium (football stadium) into an **active and family-friendly sports hub**?  
-
+![](../images/MT01/victorias2.jpeg)
 
 ###Some early experiments I can think of are:
 
