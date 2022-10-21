@@ -27,11 +27,12 @@ In 2015  I worked with a group of space and interaction designers from La Victor
 ###The prototype as a research archetype.
 I was involved in the creation of a book designed to celebrate and honor a district in Lima called La Victoria. The concept of the book revolved around the past, present and future of the district and in the “future” section we built upon the district’s most pressing problems and imagined hypothetical scenarios where these problems are solved through innovation. We worked with an illustrator to define how these could look like.
 
-[A medium article we wrote about the creative process behing](https://medium.com/@la_victoria_lab/victorias-un-libro-para-celebrar-nuestros-primeros-cinco-a%C3%B1os-d2161e101cbd)
-![](../images/MT01/victorias1.jpg)
-![](../images/MT01/victorias2.jpg)
+[A medium article we wrote about the creative process behind](https://medium.com/@la_victoria_lab/victorias-un-libro-para-celebrar-nuestros-primeros-cinco-a%C3%B1os-d2161e101cbd)
+![](../images/MT01/victorias1.jpeg)
+![](../images/MT01/victorias2.jpeg)
 
 Some questions we explored:
+
 - What if Gamarra (the textile hub) provided **last-mile delivery through accessible technology and created a textile fab lab** to collaborate with manufacturers, innovators and fashion stylists?
 
 - What if we transformed the very dangerous area around the Matute stadium (football stadium) into an **active and family-friendly sports hub**?  
