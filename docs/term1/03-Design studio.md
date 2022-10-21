@@ -14,7 +14,7 @@ This week we went in-depth in different ways to prototype. This was eye opening 
 ###The prototype as an experimental concept.
 
 Previously, I have done this type of prototyping by executing A/B tests to determine the best variables for the value proposition of a new service that offered couples counseling for men to reduce conflict. We wanted to learn which type of copy in a Facebook ad generated the highest conversion. We quickly learned that men joining the program were motivated to do so to reduce the number of fights and have happier relationships as opposed to directions that were more vague, offering a new journey or a new challenge. It was important to hit the right tone of voice and communicate the most appealing value proposition since we only had two months to recruit 1,500 men for our pilot service of the program. Without quick prototyping it would’ve been impossible to achieve this ambitious objective.
-![](../images/MT01/hep.jpeg)
+![](../images/MT01/hep.jpg)
 
 In 2017 me and my team had to define the value proposition and brand for a new education start-up focused on teaching digital skills to Latin American professionals. We quickly designed 3 different websites with opposing look and feels and showed the prototypes to real users. We gathered their reactions and went with the most liked visual direction that was more modern yet bold. The prototype allowed us to have a stronger point of view as to which was the communication path we had to follow. This was a starting point to creating the brand of Colectivo23, an edtech startup for Latin American professionals that now has over 5,000 alumni.
 
