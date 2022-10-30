@@ -13,8 +13,8 @@ After these two weeks I am inspired by the potential of combining the discipline
 
 **Some of my favorite moments from the past two weeks captured in photographs**
 
-![](../images/MT01/bio1.png)
-![](../images/MT01/bio2.png)
+![](../images/MT01/bio1.jpg)
+![](../images/MT01/bio2.jpg)
 ![](../images/MT01/bio3.jpg)
 
 ###Analyzing a news article and contrasting with the original cited scientific paper
