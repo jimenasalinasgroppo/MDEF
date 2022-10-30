@@ -43,5 +43,5 @@ Geddes, L. (2022, October 25). Communi-cat-ive: Cats attentive to owner’s voic
 **Scientific paper:**
 De Mozuon, C. (2022, August 1). Discrimination of cat‑directed speech from human‑directed speech in a population of indoor companion cats. Retrieved October 28, 2022, from https://link.springer.com/epdf/10.1007/s10071-022-01674-w?sharing_token=1BkvQ3Rs86RfT6QX6fW4Mfe4RwlQNchNByi7wbcMAY4iDVUMIJs8GRK99OYV0aoI0spjnagG9CizsSPPGN_r4KFh9wl7bR6oiaVs5MG0wNJ5LK2zeXb89Ox-U1z0sDfBVk-hXaBFOYx_G-wqgdkmMivkdD39b5PEnhcZPxzUVNA%3D
 
-Other references:
+**Other references:**
 https://phys.org/news/2022-02-dogs-owner-voice.html
