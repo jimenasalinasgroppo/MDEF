@@ -14,8 +14,11 @@ After these two weeks I am inspired by the potential of combining the discipline
 **Some of my favorite moments from the past two weeks captured in photographs**
 
 ![](../images/MT01/bio1.jpg)
+This experiment was a highlight for me because of the takeaway that using eyesight to determine pH (or any other measurement) will never be as effective as using a tool that provides an accurate numerological value.
 ![](../images/MT01/bio2.jpg)
+This experiment was a highlight for me from a visual standpoint and the inspiration you can get just by zooming in. Pictured above a human cell using my iPhone and a portable microscope. The result is very impressive considering the hands-on technology.
 ![](../images/MT01/bio3.jpg)
+This final picture is inspiring to me as it showcases how you can create bioplastics using regular kitchen tools. My group decided to add apple peel to the mix just to experiment how texture might change in cotnrast.
 
 ###Analyzing a news article and contrasting with the original cited scientific paper
 
@@ -32,3 +35,16 @@ Regarding the original scientific paper, I found that the conclusions are simila
 
 
 A good practice the journalist has done is link to the original scientific paper within the news article. The scientific paper was tested with a small cohort of 16 domestic cats. Explores human-animal relationship and compares and contrasts to baby-adult relationships. The exercise has allowed me to understand the importance of going back to the original source and trusting the scientific paper as opposed to the news article’s bold statements. Content-wise, the article poses interesting design questions and implications between human-animal bonds.
+
+### Bibliography
+
+News article:
+
+https://www.theguardian.com/lifeandstyle/2022/oct/25/communi-cat-ive-cats-attentive-to-owners-voice-research-finds
+
+Scientific paper:
+
+https://link.springer.com/epdf/10.1007/s10071-022-01674-w?sharing_token=1BkvQ3Rs86RfT6QX6fW4Mfe4RwlQNchNByi7wbcMAY4iDVUMIJs8GRK99OYV0aoI0spjnagG9CizsSPPGN_r4KFh9wl7bR6oiaVs5MG0wNJ5LK2zeXb89Ox-U1z0sDfBVk-hXaBFOYx_G-wqgdkmMivkdD39b5PEnhcZPxzUVNA%3D
+
+Other references:
+https://phys.org/news/2022-02-dogs-owner-voice.html
