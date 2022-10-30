@@ -13,12 +13,13 @@ After these two weeks I am inspired by the potential of combining the discipline
 
 **Some of my favorite moments from the past two weeks captured in photographs**
 
-![](../images/MT01/workspace.jpg)
-![](../images/MT01/workspace2.jpg)
+![](../images/MT01/bio1.jpg)
+![](../images/MT01/bio2.jpg)
+![](../images/MT01/bio3.jpg)
 
 ###Analyzing a news article and contrasting with the original cited scientific paper
 
-cientific papers and journals are a great source to get closer to scientific evidence, this interests me especially since lately I had previously been working with evidence-based means of generating impact or change in social science and am curious to learn more about how this can relate to biology as well.
+Scientific papers and journals are a great source to get closer to scientific evidence, this interests me especially since lately I had previously been working with evidence-based means of generating impact or change in social science and am curious to learn more about how this can relate to biology as well.
 
 
 The article I have chosen is from The Guardian, titled “Communi-cat-ive: cats attentive to owner’s voice, research finds”. I chose the subject matter because I was curious how this new piece of information could impact human-animal interactions. It argues that cats are able to tune into their human owner’s tone of voice to determine when they are being spoken to. The article does a good job in referring directly to the original research paper, a study done by university students at Paris Nanterre University.
