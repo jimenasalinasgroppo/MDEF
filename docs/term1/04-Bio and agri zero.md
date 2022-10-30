@@ -28,10 +28,12 @@ The article I have chosen is from The Guardian, titled “Communi-cat-ive: cats 
 
 The research, published in Animal Cognition, adds to mounting evidence that one-to-one relationships are important for cats and humans to form strong bonds. Previous research in the field specifically analyzes dogs and this is one of the first research focused entirely on cats.
 
+The scientific paper was tested with a small cohort of 16 domestic cats and explores human-animal relationship in comparison and contrast to baby-adult relationships. According to the news article, "they found that the cats were largely unresponsive to hearing a stranger’s voice calling their name, but when their owner did it, 10 of the 16 cats displayed a constellation of behaviours suggesting increased attentiveness." Because of the framing, rather than a scientific truth the article seems to refer to a rather preliminary and exploratory research that provokes interesting questions.
+
 Regarding the original scientific paper, I found that the conclusions established on the news article are similar. However, some observations I could make is that I think the sample the university students worked with is very small. They only studied 16 cats and the news article refers to the results as if they were long-established scientific truths. I would be curious to learn the results of this same research taken one step further, maybe outside academia or at a level beyond university research.
 
 
-A good practice the journalist has done is link to the original scientific paper within the news article. The scientific paper was tested with a small cohort of 16 domestic cats. Explores human-animal relationship and compares and contrasts to baby-adult relationships. The exercise has allowed me to understand the importance of going back to the original source and trusting the scientific paper as opposed to the news article’s bold statements. Content-wise, the article poses interesting design questions and implications between human-animal bonds.
+A good practice the journalist has done is link to the original scientific paper within the news article. I had no trouble reading the entire scientific paper, including their methodology, observations and conclusions. The exercise has allowed me to understand the importance of going back to the original source and trusting the scientific paper as opposed to the news article’s bold statements. Content-wise, the article poses interesting design questions and implications between human-animal bonds.
 
 ### Bibliography
 
