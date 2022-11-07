@@ -7,19 +7,21 @@ hide:
 
 ## My (non-living) companion
 
+![](../images/MT01/companion.jpg)
 
 **Family totem**
 The “family totem” is my response to finding myself physically distanced from my family.
 
-
-- how will you live together?
+- **how will you live together?**
 I will make a special shrine or dedicated space in my living room for it to be placed when I am not out and about. Whenever I leave my house, I will take it with me inside my purpose but allowing for its eyes (2 bottle caps)  to look into the outside world.
-- what does it notice?
+- **what does it notice?**
 The family totem notices my emotions whenever I miss my family and can tune into them and distract me by asking me to “feed it”, “decorate it” or just stare at it while thinking of my loved ones.
-- what were you thinking?
+- **what were you thinking?**
 While building it I was thinking of a way to reconnect with my family. Initially I was planning on creating some sort of viewfinder that could allow me to browse through pictures of them, then it evolved into some sort of “doll” I could care for as a replacement. I now believe its more of a symbolic totem that I should place in a special place to honor their place in my life.
-- why does it matter?
+- **why does it matter?**
 The family totem matters because it helped me reflect that rather than “replacing” who you miss it is best to honor the space they occupy. I think the fact that the totem is big in size and not as portable is a good example of this reflection. Another reflection I had while building the totem is that adding eyes or an outfit to it allowed me to create a stronger emotional connection with it. If I focused on perceiving it as “cute”, it helped bring me joy and turn a negative emotion into something more positive or at least nostalgic in a constructive manner.
+
+![](../images/MT01/companion2.jpg)
 
 **Evaluation**
 
