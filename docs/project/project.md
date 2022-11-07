@@ -5,4 +5,6 @@ hide:
 
 # Initial ideas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Take a look at my work-in-progress.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOjdqPU=/?moveToViewport=3180,-1712,4353,1935&embedId=56301764747" frameborder="0" scrolling="no" allowfullscreen></iframe>
