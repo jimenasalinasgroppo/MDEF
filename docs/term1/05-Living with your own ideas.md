@@ -7,7 +7,7 @@ hide:
 
 ## My (non-living) companion
 
-![](../images/MT01/companion.jpg)
+![](../images/MT01/companion2.jpg)
 
 **Family totem**
 The “family totem” is my response to finding myself physically distanced from my family.
@@ -21,7 +21,7 @@ While building it I was thinking of a way to reconnect with my family. Initially
 - **why does it matter?**
 The family totem matters because it helped me reflect that rather than “replacing” who you miss it is best to honor the space they occupy. I think the fact that the totem is big in size and not as portable is a good example of this reflection. Another reflection I had while building the totem is that adding eyes or an outfit to it allowed me to create a stronger emotional connection with it. If I focused on perceiving it as “cute”, it helped bring me joy and turn a negative emotion into something more positive or at least nostalgic in a constructive manner.
 
-![](../images/MT01/companion2.jpg)
+![](../images/MT01/companion.jpg)
 
 **Evaluation**
 
