@@ -7,6 +7,7 @@ hide:
 
 ## Forensic report
 
+![](../images/MT01/img3.gif)
 ![](../images/MT01/forensic.jpg)
 
 ##Week 1
@@ -25,6 +26,8 @@ During the second week we had to begin by tinkering with the components found in
 Our team was lucky in that it had 3 team members that had previous experience coding, using Arduino and setting up electronics. This meant that we could specialize in specific tasks to manage and distribute the use of time. While this also meant that there was little time for failure in the setting up of the electronics, I learned by observing attentively how my teammates used Arduino and played with the code to ensure the speed, pauses and movement were the correct ones for each of the artifacts we wanted to implement. One of the greatest challenges was in setting up the dependencies within our system. We wanted the pendulum and the robot to start moving at the same time as sound was detected in our sensing boards and this proved to be a challenge in the coding part.
 
 Finally, I had a lot of fun stepping out of my comfort zone by tinkering with electronic materials, looking at which motors and sensors could be reused for other purposes and contributing by actively documenting the final presentation and leading the video creation with the help of my team’s creativity in script writing and voice over recording.
+
+Overall, I have learned to take ownership of technology I would usually consider “useless” if not working properly for its original purpose. Hacking technology and tinkering with elements is an interesting way to play with the design process and be swept by what is right in front of you. I will try to apply tinkering to my designer toolkit. Another reflection I will carry with me after these two weeks is to ask more questions regarding hardware and technology, looking at the incentives behind design decisions related to fabrication, use of materials, longevity of the device itself. Some questions that emerged from disassembling the Eagle Eyes and transforming it into a “almost useless machine”: Why are we rewarded for purchasing a completely new product? Why is it cheaper to buy a new product if there is more material waste involved? How can we repurpose old technology and use its internal components for new purposes? What are interesting sensors found in everyday devices I already use? What are the political decisions found embedded in the devices I take for granted (i.e. my iPhone, my laptop, my blender)?
 
 Our final presentation can be found here
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQO_XSIxVUyx1t2SV1jZkZ3d_LaPaoD0acKGtcLQjWj1S_JzVHuQOAZpkNnTIJoewtk_96gw2rgTW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
