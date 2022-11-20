@@ -12,7 +12,8 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Master project:
-      - Initial ideas: project/project.md
+      - Initial ideas: project/01-Project.md
+      - Communication strategy: project/02-Communication strategy.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
@@ -20,7 +21,7 @@ nav:
           - Roles of prototyping: term1/03-Roles of prototyping.md
           - Bio and agri zero: term1/04-Bio and agri zero.md
           - Living with your own ideas: term1/05-Living with your own ideas.md
-          - Communication strategy: term1/06-Communication strategy.md
+          - Tech beyond myth: term1/06-Tech beyond myth.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
