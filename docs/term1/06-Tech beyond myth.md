@@ -19,6 +19,8 @@ One of the highlights of the first week was learning that the individual compone
 Link to original forensic report
 https://hackmd.io/FGIM55OESi-aVK3K8WSJNw?view
 
+![](../images/MT01/forensic2.jpeg)
+
 ## Week 2
 During the second week we had to begin by tinkering with the components found inside the Eagle eyes. Our group had fun proposing ideas and letting our judgment go during this stage of the creative process. We brainstormed and ideated ideas as wild as a robotic frog, a cyclops and a zombie. One of the team’s successes was in quickly aligning on a concept and building on top of it during the week. We had to let go of the urge to design in a linear way and try to think of ways to make the product useful. Instead, we had playful fun while making our robot look as aesthetic as possible and making our pendulum swing in a way that would make the movement more exaggerated to simulate a “real hypnosis session.”
 
