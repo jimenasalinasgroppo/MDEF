@@ -7,7 +7,7 @@ hide:
 
 ## Forensic report
 
-![](../images/MT01/img3.gif)
+![](../images/MT01/forensic.jpg)
 
 These past two weeks have been the most time consuming of the MDEF program but also the most hands-on. Our team “Eagle eyes” had to disassemble a video conference camera that tracks voice to follow participants in a physical space connected to a Zoom call. The device in itself is considerably a few years old. We forgot to test if the device itself worked because of the excitement of beginning to unscrew its components and seeing what was inside this specific “Black box”. We were very tempted to use a hammer and start breaking things apart but enjoyed the challenge of only using screwdrivers and disassembling it with patience and respecting the final form of each of its parts.
 
