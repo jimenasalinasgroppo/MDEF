@@ -5,10 +5,8 @@ hide:
 
 # Community Engagement
 
-## Reflections from learning from Holon
+## Reflections from learnings from Holon
 
-![](../images/MT01/img3.gif)
-![](../images/MT01/forensic.jpg)
 
 ##Week 1
 
