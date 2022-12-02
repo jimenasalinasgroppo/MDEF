@@ -20,7 +20,7 @@ Previously, I have done this type of prototyping by executing A/B tests to deter
 In 2017 me and my team had to define the value proposition and brand for a new education start-up focused on teaching digital skills to Latin American professionals. We quickly designed 3 different websites with opposing look and feels and showed the prototypes to real users. We gathered their reactions and went with the most liked visual direction that was more modern yet bold. The prototype allowed us to have a stronger point of view as to which was the communication path we had to follow. This was a starting point to creating the brand of [Colectivo23](https://www.colectivo23.com), an edtech startup for Latin American professionals that now has over 5,000 alumni.
 
 ###The prototype as a means of inquiry.
-In 2015  I worked with a group of space and interaction designers from La Victoria Lan and IDEO. We had to test on a 1:1 scale the service design of a new network of low cost high quality healthcare clinics in Peru. We used foam and cheap materials to simulate the different areas. We tested with real users (pregnant women) and helped them navigate the space while gathering their reactions. This prototype allowed us to test with real dimensions while still being low fidelity, cheap and quick to produce. We allowed users to walk freely around the space, move things around and quickly iterated our setup until we were more confident with our design direction.
+In 2015  I worked with a group of space and interaction designers from La Victoria Lab and IDEO. We had to test on a 1:1 scale the service design of a new network of low cost high quality healthcare clinics in Peru. We used foam and cheap materials to simulate the different areas. We tested with real users (pregnant women) and helped them navigate the space while gathering their reactions. This prototype allowed us to test with real dimensions while still being low fidelity, cheap and quick to produce. We allowed users to walk freely around the space, move things around and quickly iterated our setup until we were more confident with our design direction.
 ![](../images/MT01/aviva2.jpeg)
 ![](../images/MT01/aviva.jpeg)
 ![](../images/MT01/aviva1.jpeg)
@@ -51,7 +51,7 @@ I would love to integrate first person perspective and journal / document the wh
 
 - What hyperlocal communities in Barcelona are “gendered” (i.e. all male, all female, queer/only) and **what are their primary unattended needs**?
 
-- How does caregiving roles relate to Intimate Partner Violence? Building on that - **how does caregiving relate to domestic tasks and how can we redefine who is in charge of what in a household of the future**?
+- How do caregiving roles relate to Intimate Partner Violence? Building on that - **how does caregiving relate to domestic tasks and how can we redefine who is in charge of what in a household of the future**?
 
 - How is masculinity defined in queer spaces? What **aspects are those qualified as “toxic” and which of those in turn lead to increased or potential IPV**?
 
