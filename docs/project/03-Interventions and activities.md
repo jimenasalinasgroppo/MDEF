@@ -5,7 +5,7 @@ hide:
 
 # Interventions and activities
 
-## Intervention 1 - Mapping the ecosystem in Barcelona in regards to gender
+### Intervention 1 - Mapping the ecosystem in Barcelona in regards to gender
 
 Activities included:
 Interviewing key stakeholders (5)
@@ -23,6 +23,6 @@ This is my attempt to sketch out the ecosystem I have identified. This is not co
 
 <iframe src="https://embed.kumu.io/2ada9b57811a1dfb3751aeb3ab8bdfd1" width="940" height="600" frameborder="0"></iframe>
 
-## Activity 1 - Attending a masculinities workshop for Catalan Youth
+### Activity 1 - Attending a masculinities workshop for Catalan Youth
 
 I also attended a 5 session workshop for Catalan youth that revolved around masculinities. I was the only foreigner in the room but everyone was very welcoming. The group was half men and half women, mostly in their early twenties. Women that were attending were there for research purposes (university projects or because they work in psychology fields) while men had more open agendas just being willing to learn and access free education. Ismael, the workshop lead, was very good at creating an atmosphere of reflection and a safe space for everyone to talk about their prejudices, previous preconceptions and future reflections in this subject matter. It felt a very safe space to talk about subjects such as pornography, sexuality and romantic love.
