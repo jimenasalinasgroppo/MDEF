@@ -26,3 +26,25 @@ This is my attempt to sketch out the ecosystem I have identified. This is not co
 ### Activity 1 - Attending a masculinities workshop for Catalan Youth
 
 I also attended a 5 session workshop for Catalan youth that revolved around masculinities. I was the only foreigner in the room but everyone was very welcoming. The group was half men and half women, mostly in their early twenties. Women that were attending were there for research purposes (university projects or because they work in psychology fields) while men had more open agendas just being willing to learn and access free education. Ismael, the workshop lead, was very good at creating an atmosphere of reflection and a safe space for everyone to talk about their prejudices, previous preconceptions and future reflections in this subject matter. It felt a very safe space to talk about subjects such as pornography, sexuality and romantic love.
+
+### Intervention 2 - Midjourney and gender bias
+
+This week during the Extended Intelligences course they taught us about synthetic realities. One program that caught my attention was Midjourney and since it is a relatively new tool I wanted to test out if gender bias could be found embedded in the algorithm.
+
+To do so, I inputted different sentences to see if any emerging stereotypes showed up on the AI-generated images.
+- “a group of venture capitalists in an office”
+- “entrepreneurs in a brainstorming session”
+- “university graduate at a house party”
+- “university graduate holding diploma”
+- “taking care of household chores”
+- “intimate partner violence"
+
+Generated images:
+
+Analysis:
+- Women and men show equally in “party” settings
+- Women tend to show up more than men in student / education settings.
+- However, men tend to appear more in office-related settings
+- In household chores and IPV women are more protagonists. This correlates to real life and statistics, however can this also perpetuate stereotypes?
+
+[Read the whole story in this Medium article I wrote about this research.](https://medium.com/@jimena.salinasg/identifying-gender-bias-in-midjourney-fcf36240f464)
