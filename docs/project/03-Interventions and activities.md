@@ -39,12 +39,10 @@ To do so, I inputted different sentences to see if any emerging stereotypes show
 - “taking care of household chores”
 - “intimate partner violence"
 
-Generated images:
-
 Analysis:
 - Women and men show equally in “party” settings
 - Women tend to show up more than men in student / education settings.
 - However, men tend to appear more in office-related settings
 - In household chores and IPV women are more protagonists. This correlates to real life and statistics, however can this also perpetuate stereotypes?
 
-[Read the whole story in this Medium article I wrote about this research.](https://medium.com/@jimena.salinasg/identifying-gender-bias-in-midjourney-fcf36240f464)
+[Read the whole story in this Medium article I wrote about the research.](https://medium.com/@jimena.salinasg/identifying-gender-bias-in-midjourney-fcf36240f464)
