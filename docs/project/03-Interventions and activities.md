@@ -3,22 +3,26 @@ hide:
     - toc
 ---
 
-# Communication strategy
+# Interventions and activities
 
-## Communications strategy - outline and plan
-Below is the detailed plan and outline for my communications strategy. It includes target audience and main communication pieces.
+## Intervention 1 - Mapping the ecosystem in Barcelona in regards to gender
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWD-kFFSTZCJQ-FUt9BuMqar3mkXr9kQSFAhTCQQWNNDa-hxkVG9U4ouDWvwFWHB_qiFx85gF501tH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Activities included:
+Interviewing key stakeholders (5)
+- Shemakes (Fab lab project)
+- Femiñetas
+- Sexus
+- Loba Project (MDEF project)
+- Lina from Fab lab
 
-## Communication pieces
+My research started speaking to Lina, an audiovisual specialist at Fab Lab. Lina is very well-connected with the queer community in Barcelona and helped me sharing names of potential NGOs and organizations I could initially reach out to. While some of them did not reply back, I did some desktop research to understand what these initiatives did, what their approach was, what communities they chose to tackle and what their theory of change was.
 
-###Notion site
-All-in-one repository of my process for those who want to deep dive into my project.
-https://jimenasalinasmdef.addpotion.com/
+I was able to have conversations with Petra from Shemakes, Flor from Femiñetas, Ismael from Sexus and Paco from Loba Project. These conversations were very energizing but also intimidating to find out there is so much already being done in this territory in Barcelona. I also went to a conference organized by Plural, a center for masculinities funded by the Ayuntamiento of Barcelona.
 
-###Subscribe to my bimonthly newsletter
-Bimonthly email to subscribers interested in learning about my interventions and inspirations.
+This is my attempt to sketch out the ecosystem I have identified. This is not comprehensive but gives you some ideas of what it looks like.
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/jimenasalinasg" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jimenasalinasg', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<iframe src="https://embed.kumu.io/2ada9b57811a1dfb3751aeb3ab8bdfd1" width="940" height="600" frameborder="0"></iframe>
 
-Read the first edition of my [newsletter](https://docs.google.com/document/d/e/2PACX-1vTFxqyoZKZhfV6v15KufvhSesaEVhUOvcjvZoGPmoJSi-lZOjLY7wdMHIwT5uT0siOSxaXe53t2RM9t/pub)
+## Activity 1 - Attending a masculinities workshop for Catalan Youth
+
+I also attended a 5 session workshop for Catalan youth that revolved around masculinities. I was the only foreigner in the room but everyone was very welcoming. The group was half men and half women, mostly in their early twenties. Women that were attending were there for research purposes (university projects or because they work in psychology fields) while men had more open agendas just being willing to learn and access free education. Ismael, the workshop lead, was very good at creating an atmosphere of reflection and a safe space for everyone to talk about their prejudices, previous preconceptions and future reflections in this subject matter. It felt a very safe space to talk about subjects such as pornography, sexuality and romantic love.
