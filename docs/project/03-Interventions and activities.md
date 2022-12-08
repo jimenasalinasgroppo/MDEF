@@ -6,7 +6,7 @@ hide:
 # Communication strategy
 
 ## Communications strategy - outline and plan
-Below is the detailed plan and outline for my communications strategy. It includes target audience and main communication pieces. I prioritized engaging with peers working in innovation or in the gender-design space in Lima, Barcelona or other countries. The idea is to get them interested in my project, obtain feedback and map potential collaborations with them. This will also push me to develop a visual identity for the project that I can then use for engaging with other communities.
+Below is the detailed plan and outline for my communications strategy. It includes target audience and main communication pieces.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWD-kFFSTZCJQ-FUt9BuMqar3mkXr9kQSFAhTCQQWNNDa-hxkVG9U4ouDWvwFWHB_qiFx85gF501tH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
