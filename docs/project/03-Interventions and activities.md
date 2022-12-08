@@ -27,7 +27,17 @@ This is my attempt to sketch out the ecosystem I have identified. This is not co
 
 I also attended a 5 session workshop for Catalan youth that revolved around masculinities. I was the only foreigner in the room but everyone was very welcoming. The group was half men and half women, mostly in their early twenties. Women that were attending were there for research purposes (university projects or because they work in psychology fields) while men had more open agendas just being willing to learn and access free education. Ismael, the workshop lead, was very good at creating an atmosphere of reflection and a safe space for everyone to talk about their prejudices, previous preconceptions and future reflections in this subject matter. It felt a very safe space to talk about subjects such as pornography, sexuality and romantic love.
 
-### Intervention 2 - Midjourney and gender bias
+### Intervention 2 - Signing up for an all-women pointillism class at La Madriguera in Eixample
+
+I am very interested in illustration and pursue illustration as a side project. Part of the reason I chose Barcelona as a destination for my Master’s degree is because of La Madriguera. La Madriguera is Paula Bonet’s project where women meet to explore and play with art, illustration and engraving. A month ago I enrolled in a pointillism class with LaLauri, a Spanish artist I admire very much. My goal was to go back to drawing without an iPad, playing with my hands and understanding the role space and community played in these types of workshops.
+
+It was great to find out that many women had traveled from other regions of Spain to join the workshop in Barcelona. The structure of the workshop was highly focused on practical tools and exercises to play around and let go of expectations. The end results were incredible as with simple tips and tricks, Laura managed to get some amazing illustrations from the group.
+
+La Madriguera is also an interesting and safe space for women to discuss art and gender. There were many activist posters around regarding abortion rights and the space had to be initially a secret location because one particular man had consistently harassed the founder Paula. La Madriguera is now open to the public since the case went to a jury and the perpetrator got a jail sentence.
+
+After this workshop I was inspired to keep exploring illustration as a means to reflect on gender equality.
+
+### Intervention 3 - Midjourney and gender bias
 
 This week during the Extended Intelligences course they taught us about synthetic realities. One program that caught my attention was Midjourney and since it is a relatively new tool I wanted to test out if gender bias could be found embedded in the algorithm.
 
