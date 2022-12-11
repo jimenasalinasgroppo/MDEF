@@ -27,13 +27,12 @@ Another experiment I tried out this week was to visually map the Gender ecosyste
 
 <iframe src="https://embed.kumu.io/2ada9b57811a1dfb3751aeb3ab8bdfd1" width="940" height="600" frameborder="0"></iframe>
 
-**I particularly like how Kumu shows the interconnections between actors and how the movement makes it look like a living organism.**
-
-Deep diving on the collective intervention and how it relates to the tools learned in community engagement with Holon and Milena, I have outlined the following diagram below. I plan on working with Ariel who is interested in climate change perception and we plan on integrating both a gender and a climate change perspective to our project.
+>I particularly like how Kumu shows the interconnections between actors and how the movement makes it look like a living organism.**
 
 ---
 
 ##Double clicking on my intervention and potential nuances
+Deep diving on the collective intervention and how it relates to the tools learned in community engagement with Holon and Milena, I have outlined the following diagram below. I plan on working with Ariel who is interested in climate change perception and we plan on integrating both a gender and a climate change perspective to our project.
 
 - **Creative community:**
 School children in Poblenou and Badalona.
