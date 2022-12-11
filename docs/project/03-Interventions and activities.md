@@ -35,6 +35,10 @@ It was great to find out that many women had traveled from other regions of Spai
 
 La Madriguera is also an interesting and safe space for women to discuss art and gender. There were many activist posters around regarding abortion rights and the space had to be initially a secret location because one particular man had consistently harassed the founder Paula. La Madriguera is now open to the public since the case went to a jury and the perpetrator got a jail sentence.
 
+![](../images/MT01/point1.jpg)
+![](../images/MT01/point2.jpg)
+![](../images/MT01/point3.jpg)
+
 After this workshop I was inspired to keep exploring illustration as a means to reflect on gender equality.
 
 ### Intervention 3 - Midjourney and gender bias
