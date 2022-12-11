@@ -23,7 +23,7 @@ As an exercise for the class we attempted to map out the conflict related to our
 
 This was my first draft. Although it appears very incomplete I felt it was extremely useful in identifying non-human influences that may be found in the ecosystem and also the ways elements interrelate between each other as I plan to initially engage with children but may later reach out to other types of communities.
 
-Another experiment I tried out this week was to visually map the Gender ecosystem in Barcelona I was capturing for my personal project. I used kumu and this is what the end result looked like.
+Another experiment I tried out this week was to visually map the Gender ecosystem in Barcelona I was capturing for my personal project. I used Kumu and this is what the end result looked like.
 
 <iframe src="https://embed.kumu.io/2ada9b57811a1dfb3751aeb3ab8bdfd1" width="940" height="600" frameborder="0"></iframe>
 
