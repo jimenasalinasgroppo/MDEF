@@ -11,7 +11,7 @@ This week we focused on understanding and mapping all the agents involved in com
 
 We were provided with hands-on tools to set the stage when dealing with different stakeholders in the same room, each with their own hopes, fears and interests in relation to specific topics that are addressed. Another takeaway for me was that system maps do not attempt to be 100% comprehensive but rather a visual way to communicate complexity. This is why it is not necessary for them to be exhaustive.
 
-![](../images/MT01/ce2.jpeg)
+![](../images/MT01/ce2-min.jpeg)
 
 > Another highlight for me was the introduction to the “Group work card decks”. I chose the “Silence” card when instructed to pick one that resonated most with ourselves at the moment. It reminded me of an advice I was once given by a Project Lead when doing design research. She told me that when interviewing users one should not rush to fulfill the interview guide as quickly as possible but to allow for silence since this is usually when users would give the most interesting reflective and even unexpected answers. I now want to feel comfortable with silence as a design tool and will think of ways to incorporate it in my next interventions as an ally.
 
