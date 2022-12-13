@@ -5,7 +5,7 @@ hide:
 
 # Design studio
 
-## Roles of protoyping
+## Roles of prototyping
 
 This week we went in-depth in different ways to prototype. This was eye opening for me since my previous definition of prototyping used to be more linked to experimentation at the service of improving goods and services. Now I realize the power a more exploratory and open-ended approach to prototyping can have in the design process and the richness that can emerge out of this mindset.
 

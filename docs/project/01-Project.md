@@ -33,7 +33,7 @@ Depends on chosen community - but some metrics could be - increased number of ne
 
 **Outputs & Milestones - What tangible or intangible deliverables or interventions will I ship and when?**
 
-- **Ongoing communications stream** to keep key players and collaborators in the loop -- (i) Updated notion with all the repository, biweekly newsletter with over 100 subscribers, landing site for built products (in progress)
+- **Ongoing communications stream** to keep key players and collaborators in the loop -- (i) Updated notion with all the repository, (ii) biweekly newsletter with over 100 subscribers, (iii) landing site for built products (in progress)
 
 - **A series of interventions** - 1) co-creating with children in public spaces and academic institutions 2) detecting gender bias in synthetic realities, 4) using AI chatbot for healing from IPV (work-in-progress)
 
