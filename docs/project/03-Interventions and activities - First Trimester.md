@@ -10,9 +10,13 @@ hide:
 Activities included:
 Interviewing key stakeholders (5)
 - Shemakes (Fab lab project)
+
 - Femiñetas
+
 - Sexus
+
 - Loba Project (MDEF project)
+
 - Lina from Fab lab
 
 My research started speaking to Lina, an audiovisual specialist at Fab Lab. Lina is very well-connected with the queer community in Barcelona and helped me sharing names of potential NGOs and organizations I could initially reach out to. While some of them did not reply back, I did some desktop research to understand what these initiatives did, what their approach was, what communities they chose to tackle and what their theory of change was.
@@ -79,11 +83,16 @@ These were the stories we heard regarding the future with our cardboards as prom
 - “The worm teases the baby.” - 4 year old italian female in park near Raval
 - “Cars are bad for the future because of the gas, I prefer bikes, walking. The future with gas and cars is bad.” - Group of 7-10 year old girls and boys in a park near Raval. They said the future with pollution looks bad. They seem migrants, and are environmentally conscious. Had no adult supervision.
 - “In the future technology and contamination are everywhere.” “Barcelona has no space for animals, animals should be free not in zoos”. “Nature should have more space in the city” “Barcelona is not very accessible for handicapped people”. - 13-14 year olds girls and boys outside of school in Sant Antoni.
+
 **Some high level learnings from this first iteration:**
+
 **Location preference:** When engaging children in parks, it is hard to do so when they are currently playing since there are a lot of distractions in place. However, places of transit like streets or bus stops are not good because parents or teachers are more focused on mobility and getting their children safe and on time. Engaging teachers in public spaces is also not ideal since they are busy managing large groups of children and do not have the consent from the school or parents to agree to participate in the intervention. Larger groups in public spaces are also difficult to approach since they are focused on the school activity in hand. Street interventions also have a lot of elements of distraction so keeping activities short is essential.
+
 **Role of parents:** Parents act as both translators and facilitators for the exercise (for kids under 6 years old). In some cases they would translate from Catalan and Italian and help us engage children. When parents are present, it is best to approach them first.
+
 **Consent forms and confidentiality:** They didn’t ask for a consent form (even though we bought ones with us) and were ok with us participating as long as they mediated the exercise.
 Correct age for intervention: While it was interesting to engage with parents and their young children, children under ages of 6 were too young for the type of reflections we needed. They only interpreted quite literally the images we showed them and had a difficult time building stories.This intervention in particular is most suited for children age 10 and above, they have greater critical thinking skills and can more easily make the connections between elements. We still have doubts regarding the artistic style / aesthetic style of the images and if words might be a better prompt.
+
 **Role of weather and chosen time/date:** When weather is too cold, rainy or gray there are less children outside. This seems obvious but influences also the openness of parents and children to participate and engage.
 
 Overall, this intervention made us reflect as a team that it would be best for these types of prompts to engage with teenagers since they can interpret things more abstract and in a less literal manner.
@@ -91,7 +100,7 @@ Some other opportunity areas we identified are: What happens if we input the chi
 
 For schools, we intend on keeping our initial target of 6-9 years old and adapt the dynamic for their age and for the setting. We intend to use the Design Dialogues as a first iteration of our prototype using cut outs from old magazines and making 2 sets of groups for the images: one for climate change and one for gender equality. We feel this activity might be more suitable for teenagers and adults but we are interested to see how people engage with the collages and what types of stories they build out.
 
-![](../images/MT01/collage.jpg)
+![](../images/MT01/collage.jpeg)
 > Carolina's collage made during Design Dialogues. Features a look at ecofeminism, incorporating indigenous women.
 
 ### Intervention 5 - Using GTP3 to imagine alternative use cases of conversational AI with Wen
@@ -119,16 +128,16 @@ We published this version on [Behance](https://www.behance.net/gallery/159145315
 
 We also created this [Figma Landing site](https://www.figma.com/proto/xEz7jcxANz1CPGHMxk0K5P/AI-Chat-bot?node-id=27%3A2641&starting-point-node-id=27%3A2641) with all our initial learnings and this [Figma Prototype](https://www.figma.com/proto/xEz7jcxANz1CPGHMxk0K5P/AI-Chat-bot?node-id=10%3A1147&scaling=scale-down&page-id=1%3A3&starting-point-node-id=10%3A1147&show-proto-sidebar=1) with the most important screens.
 
-![](../images/MT01/ddialogues.jpg)
+![](../images/MT01/ddialogues.jpeg)
 > Wen during Design Dialogues showcasing a demo of our first prototype.
 
 **How I would iterate the product moving forward:**
 
 **From:**
-a tool for healing IPV by talking to someone you can’t talk to in real life
+A tool for healing IPV by talking to someone you can’t talk to in real life
 
 **to:**
-a tool for rehearsing hard conversations and detecting red flags and a tool to have conversations with yourself as a means of healing
+A tool for rehearsing hard conversations and detecting red flags and a tool to have conversations with yourself as a means of healing
 
 **Specific use cases:**
 - Handling break ups
