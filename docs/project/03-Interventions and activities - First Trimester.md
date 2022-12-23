@@ -63,7 +63,7 @@ Analysis:
 
 ### Intervention 4 - Crafting stories with children in parks
 
-For my first collective intervention I partnered with Ariel who was very interested in learning about youth perception in regards to climate change. We chose school children between 6 and 9 years old using collage as a tool to co-create postcards from the future with them and designed a first draft of the workshop which can be[read here](https://drive.google.com/file/d/15wzRoRQG4TzwFkWkO6J__ZdF39QAKUqz/view)
+For my first collective intervention I partnered with Ariel who was very interested in learning about youth perception in regards to climate change. We chose school children between 6 and 9 years old using collage as a tool to co-create postcards from the future with them and designed a first draft of the workshop which can be [read here](https://drive.google.com/file/d/15wzRoRQG4TzwFkWkO6J__ZdF39QAKUqz/view)
 
 Making the PDF was a forcing function for us to outline a first version of what the workshop would look like, define an age to collaborate with and think of the objectives of this intervention. Since the schools were finalizing their terms and could not give us a slot of time until January due to Holidays and end of year, we decided to test the intervention in parks and public spaces of Barcelona. We decided to start in a playground for children in el Raval, walk to La Rambla and then to la Superilla.
 
@@ -91,6 +91,9 @@ Some other opportunity areas we identified are: What happens if we input the chi
 
 For schools, we intend on keeping our initial target of 6-9 years old and adapt the dynamic for their age and for the setting. We intend to use the Design Dialogues as a first iteration of our prototype using cut outs from old magazines and making 2 sets of groups for the images: one for climate change and one for gender equality. We feel this activity might be more suitable for teenagers and adults but we are interested to see how people engage with the collages and what types of stories they build out.
 
+![](../images/MT01/collage.jpg)
+> Carolina's collage made during Design Dialogues. Features a look at ecofeminism, incorporating indigenous women.
+
 ### Intervention 5 - Using GTP3 to imagine alternative use cases of conversational AI with Wen
 
 Me and Wen were both interested in the potential uses of GPT3. Inspired by this twitter thread, we set out to figure out how to configure the chat for these cases and build a quick user flow for a potential product related to this. We partnered up to create a first draft of a user navigation flow, system architecture and user persona setting. This was built over two weeks with the purpose of having a prototype that we could show on the Design Dialogues.
@@ -112,9 +115,12 @@ Who should use this tool? Therapists? When?
 - How can we make this accessible and scalable without going through therapists?
 - How can we use this as a storytelling tool? Mimic potential realistic dialogue between two characters that share a past story?
 
-We published this version on Behance to get reactions from users online and recruited users on our social media.
+We published this version on [Behance](https://www.behance.net/gallery/159145315/UXR-Innerbot) to get reactions from users online and recruited users on our social media.
 
-We also created this Figma landing site with all our initial learnings and this Figma prototype with the most important screens.
+We also created this [Figma Landing site](https://www.figma.com/proto/xEz7jcxANz1CPGHMxk0K5P/AI-Chat-bot?node-id=27%3A2641&starting-point-node-id=27%3A2641) with all our initial learnings and this [Figma Prototype](https://www.figma.com/proto/xEz7jcxANz1CPGHMxk0K5P/AI-Chat-bot?node-id=10%3A1147&scaling=scale-down&page-id=1%3A3&starting-point-node-id=10%3A1147&show-proto-sidebar=1) with the most important screens.
+
+![](../images/MT01/ddialogues.jpg)
+> Wen during Design Dialogues showcasing a demo of our first prototype.
 
 **How I would iterate the product moving forward:**
 
@@ -132,4 +138,4 @@ a tool for rehearsing hard conversations and detecting red flags and a tool to h
 - Healing and asking for forgiveness to a younger self
 - Interactive journaling
 
-Before Design Dialogues I conducted 5 user tests with friends and family. You can check out the reactions here.
+Before Design Dialogues I conducted 5 user tests with friends and family. You can [check out the reactions here.](https://docs.google.com/document/d/18B8b1YKXKiXwLb5ueVRIeRh91F8mEEJ6Gj--qVKzsig/edit?usp=sharing)
