@@ -7,6 +7,8 @@ hide:
 
 This week was a journey in questioning my notions of linear time, my relationship with the environment and a way to nurture my curiosity in new books. The importance of embracing the future with “Critical hope” is the most important takeaway for me as optimism is something I have lately left out of my design practice and “degrowth” is another new concept that was introduced to me. The narratives of GDP growing as measures of success are not sustainable from a planetary perspective and we need to start designing narratives that stay away from greed, addiction and the myth of unlimited human wants.
 
+![](../images/MT02/billion.jpeg)
+
 ## Below are the three takeaways I mapped out during class:
 
 1. The importance of moving beyond user-centricity to planetary wellbeing. I have previously worked using user-centricity as the norm and the new “religion” in corporate environments. But user-centricity is highly flawed when you only design for one individual, the one with purchasing power and disregard how that will affect the rest of the ecosystem involved. Examples such as Rappi in Latin America leading to workers without any form of rights and dignified salaries and Airbnb gentrifying neighborhoods and not allowing for locals to live near to their workplaces.
@@ -32,6 +34,9 @@ For the group assignment we spent a whole day walking from Cosmocaixa Museum bac
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh-iCJGii6zHYRcIqGsjryyd88R9pQk-h5pSbr2NkLgoZpnZC-N77cgh8_q4E0TPQ89UbzRO5QHiaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Letter from your future self**
+
+![](../images/MT02/letter1.jpeg)
+![](../images/MT02/letter2.jpeg)
 
 > Transcript:
 Dear younger self,
