@@ -18,14 +18,13 @@ After the first trimester I had 3 theories of change I wanted to deep dive furth
 - **What if we imagined an automated chatbot that heals violent relationships and trauma?**
 I learned that healing using GPT3 can sit within ethical borders and it is best to use this technology for actual conversations that will indeed happen in the future. ie. Helping someone practice for a break-up conversation, using chat as a means to teach people about non-violent communication.
 
-These are 2 areas I will deep dive in this second trimester.
-
 - **What if we actively fought gender bias and harassment through machine generated imagery and words?**
 For this one, I wrote a medium article and shared it on my newsletter. While I feel it is a great opportunity area, I feel generating feminist data sets will be a bit too time-consuming considering the time frames of the Master so will put this one on hold.
 
 - **What if we co-created future visions on gender equality with children?** I will run a workshop with 75 9-year old children in a school in Badalona with Ariel and Wen. The objective is to use these imagined futures as a means to work towards those goals for the rest of my interventions.
 
 #Arising opportunity areas:
+These are 2 areas I will deep dive in this second trimester.
 
 **What if we co-created future visions on ecofeminism with migrant women?** This can shift power balance, allow them to discovery their voices and be an introduction towards developing a futures literacy muscle.
 
