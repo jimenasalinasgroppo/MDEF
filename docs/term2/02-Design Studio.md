@@ -15,9 +15,10 @@ During the first trimester, I set out to map the gender / innovation / tech ecos
 
 After the first trimester I had 3 theories of change I wanted to deep dive further in:
 
-- What if we imagined an automated chatbot that heals violent relationships and trauma?** I learned that healing using GPT3 can sit within ethical borders and it is best to use this technology for actual conversations that will indeed happen in the future. ie. Helping someone practice for a break-up conversation, using chat as a means to teach people about non-violent communication. These are 2 areas I will deep dive in this second trimester.**
-What if we actively fought gender bias and harassment through machine generated imagery and words? **For this one, I wrote a medium article and shared it on my newsletter. While I feel it is a great opportunity area, I feel generating feminist data sets will be a bit too time-consuming considering the time frames of the Master so will put this one on hold.**
-- What if we co-created future visions on gender equality with children? **I will run a workshop with 75 9-year old children in a school in Badalona. The objective is to use this imagined futures as a means to work towards those goals for the rest of my interventions.**
+- **What if we imagined an automated chatbot that heals violent relationships and trauma?**
+I learned that healing using GPT3 can sit within ethical borders and it is best to use this technology for actual conversations that will indeed happen in the future. ie. Helping someone practice for a break-up conversation, using chat as a means to teach people about non-violent communication. These are 2 areas I will deep dive in this second trimester.**
+What if we actively fought gender bias and harassment through machine generated imagery and words? For this one, I wrote a medium article and shared it on my newsletter. While I feel it is a great opportunity area, I feel generating feminist data sets will be a bit too time-consuming considering the time frames of the Master so will put this one on hold.
+- **What if we co-created future visions on gender equality with children?** I will run a workshop with 75 9-year old children in a school in Badalona with Ariel and Wen. The objective is to use these imagined futures as a means to work towards those goals for the rest of my interventions.
 
 #Arising opportunity areas:
 
@@ -25,7 +26,8 @@ What if we actively fought gender bias and harassment through machine generated 
 
 **What if we taught non-violent communication through micro digital stories for children?**
 
-**New project goals:**
+##New project goals
+
 While I feel my area of interest and weak signals have not changed, process-wise I am learning to flow more freely and let myself be swept away by potential collaborations that may emerge even if they don’t fit precisely into my original ideas. I also plan on using interventions as a way to gain insights rather than as a means to designing a final product or service.
 
 The interventions for the following month are as follows:
@@ -40,9 +42,13 @@ Iteration of Innerbot (from first trimester) and content curated by a Non Violen
 
 **Some scripts to explore:**
 - Rehearsing a couples’ negotiation
+
 - Talking about couple finances
+
 - Women asking for a raise
+
 - Simulating a break up
+
 - Helping fathers have healthy communication with their children
 
 For pushing this project forward my next steps will be contacting Taller Estampa for technical help and playing with chat GPT3 to emulate the scenarios. After having an initial prototype, I will seek the aid of a Nonviolent Communication expert and a GBV expert.
