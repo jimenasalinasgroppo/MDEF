@@ -26,25 +26,27 @@ For this one, I wrote a medium article and shared it on my newsletter. While I f
 #Arising opportunity areas:
 These are 2 areas I will deep dive in this second trimester.
 
-**What if we co-created future visions on ecofeminism with migrant women?** This can shift power balance, allow them to discovery their voices and be an introduction towards developing a futures literacy muscle.
+**What if we co-created future visions on ecofeminism with migrant women?** This can shift power balance, allow them to discover their voices and be an introduction towards developing a futures literacy muscle.
 
 **What if we taught non-violent communication through micro digital stories for children?**
 
 ##New project goals
 
-While I feel my area of interest and weak signals have not changed, process-wise I am learning to flow more freely and let myself be swept away by potential collaborations that may emerge even if they don’t fit precisely into my original ideas. I also plan on using interventions as a way to gain insights rather than as a means to designing a final product or service.
+While I feel my areas of interest and weak signals have not changed, process-wise I am learning to flow more freely and let myself be swept away by potential collaborations that may emerge even if they don’t fit precisely into my original ideas. I also plan on using interventions as a way to gain insights rather than as a means to designing a final product or service.
 
 The interventions for the following month are as follows:
 
 1. **Deep dive on collage-creation workshop with Ariel and Wen**
-My intention in this intervention is used the end results imagined by children as starting points for my experiments for a final project. What futures do children imagine in relation to gender equality and ecofeminism?
+My intention in this intervention is to use the end results imagined by children as starting points for my experiments for a final project. What futures do children imagine in relation to gender equality and ecofeminism?
 2. **Intervention with Carolina on futures literacy with migrant women.**
 We intend to give voice to women in vulnerable situations through a collage exercise to capture ancestral knowledge and think of ways of documenting beyond texts and verbal language.
 3. **Personal project - Online open-source glossary on gender-related terminology and/or micro digital storybooks to teach children Non-Violent Communication**
 4. **Personal project - AI chatbot to help men and women navigate difficult conversations**
+
 Iteration of Innerbot (from first trimester) and content curated by a Non Violent Communication expert.
 
 **Some scripts to explore:**
+
 - Rehearsing a couples’ negotiation
 
 - Talking about couple finances
