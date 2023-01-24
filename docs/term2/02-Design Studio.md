@@ -38,6 +38,10 @@ The interventions for the following month are as follows:
 
 1. **Deep dive on collage-creation workshop with Ariel and Wen**
 My intention in this intervention is to use the end results imagined by children as starting points for my experiments for a final project. What futures do children imagine in relation to gender equality and ecofeminism?
+
+Some emerging results from our first iteration in Badalona below.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCsmH_SjnIBAuwOatagBR0MqHWonFWqyWF6EM-KWvRnaQn73rRRN2PPkVqKCn-PLY6PoCH4_r-PCO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 2. **Intervention with Carolina on futures literacy with migrant women.**
 We intend to give voice to women in vulnerable situations through a collage exercise to capture ancestral knowledge and think of ways of documenting beyond texts and verbal language.
 3. **Personal project - Online open-source glossary on gender-related terminology and/or micro digital storybooks to teach children Non-Violent Communication**
