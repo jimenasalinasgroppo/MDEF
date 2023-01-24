@@ -51,7 +51,7 @@ We intend to give voice to women in vulnerable situations through a collage exer
 
 Iteration of Innerbot (from first trimester) and content curated by a Non Violent Communication expert.
 
-**Some scripts to explore:**
+**Some scripts to explore for chatbot:**
 
 - Rehearsing a couples’ negotiation
 
