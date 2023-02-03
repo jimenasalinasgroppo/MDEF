@@ -11,6 +11,10 @@ Today Victor told us about microchips and the specific parts behind it. The high
 
 ###**Micro challenge 1** Learning to activate music with a buzzer using our electronic kit.
 
+This was my first time operating Arduino by myself. In Tech beyond the myth I worked with experts on my team so I was in charge of the communications aspect. Wen lent me here Arduino Uno which was a great starting point because its especially designed to teach children in high school to approach Arduino.
+
+I started looking at open source libraries with different music tracks, such as Harry Potter, Ed Sheeran songs and The Pink Panther theme song.
+
 ## Week 1 - Day 2
 
 Today Eduardo taught us more about modelling and 3D models. He started by introducing terminology such as pixels vs vectors and going to basics allowed all of us to start with a clear mind.
