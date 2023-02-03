@@ -21,6 +21,8 @@ One of the technical highlights for me was learning the importance of reducing i
 
 I asked Chat GPT3 to parametrize a croissant since I have zero experience with modeling and 3D software besides 3Ds max when I was doing an animation class on product advertising.
 
+First I used Noun Project to look for 2D croissant vectors. I then looked for open Rhino libraries that would allow me to look for different croissant models. I downloaded one that looked the most simple and opened it up on Rhino.
+
 ###**Micro challenge 2.2** Create a 3D design based on algorithmic thinking of any object or concept you like.
 
-This was very exciting for me because I have zero experience modelling but the tools are very accesible.
+This was very exciting for me because I have zero experience modelling but the tools are very accesible. I was interested in exploring how to do 3D models of illustrations and deep dive on that a bit more. I really like the work of Cabeza Patata, an illustration collective that does 3D renderings of illustrations.
