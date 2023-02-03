@@ -19,3 +19,16 @@ Deliver compelling narratives, products and services at the service of solving i
 To unlock a gender-inclusive world that combats extractive capitalist mindsets.
 
 #My proposed brand kit below.
+
+- Colours
+- Fonts
+- Icon
+- Brand values
+
+#Minimum Viable Message
+
+I am co-creating future visions with childrens to combat ecoanxiety and incorporate gender inclusion.
+
+I am exploring ways to utilize AI to help women navigate salary negotiations to empower them financially and reduce Intimate Partner Violence.
+
+I am co-creating future visions on ecofeminism with migrant women to develop futures literacy skills. 
