@@ -14,9 +14,50 @@ Today Victor told us about microchips and the specific parts behind it. The high
 
 This was my first time operating Arduino by myself. In Tech beyond the myth I worked with experts on my team so I was in charge of the communications aspect. Wen lent me here Arduino Uno which was a great starting point because its especially designed to teach children in high school to approach Arduino.
 
-I started looking at open source libraries with different music tracks, such as Harry Potter, Ed Sheeran songs and The Pink Panther theme song. Marielle helped me iterate certain numbers on the code to get the code tu run properly on my computer. 
+I started looking at open source libraries with different music tracks, such as Harry Potter, Ed Sheeran songs and The Pink Panther theme song. Marielle helped me iterate certain numbers on the code to get the code tu run properly on my computer.
 
-> This is the code I inputted into Arduino.
+> This is the code I inputted into Arduino. Saving it for future documentation.
+// Copyright (c) 2022 HiBit <https://www.hibit.dev>
+// -------------------------------------------------#include "pitches.h" #define BUZZER_PIN 8
+int REST = 0;
+int melody[] = {
+  REST, REST, REST, NOTE_DS4,
+  NOTE_E4, REST, NOTE_FS4, NOTE_G4, REST, NOTE_DS4,
+  NOTE_E4, NOTE_FS4,  NOTE_G4, NOTE_C5, NOTE_B4, NOTE_E4, NOTE_G4, NOTE_B4,   
+  NOTE_AS4, NOTE_A4, NOTE_G4, NOTE_E4, NOTE_D4,
+  NOTE_E4, REST, REST, NOTE_DS4,
+    NOTE_E4, REST, NOTE_FS4, NOTE_G4, REST, NOTE_DS4,
+  NOTE_E4, NOTE_FS4,  NOTE_G4, NOTE_C5, NOTE_B4, NOTE_G4, NOTE_B4, NOTE_E5,
+  NOTE_DS5,   
+  NOTE_D5, REST, REST, NOTE_DS4,
+  NOTE_E4, REST, NOTE_FS4, NOTE_G4, REST, NOTE_DS4,
+  NOTE_E4, NOTE_FS4,  NOTE_G4, NOTE_C5, NOTE_B4, NOTE_E4,…
+[1:57 p. m., 2/2/2023] Jimena: 2, 16, 16, 16, 16,
+  4, 4,
+  4, 8, 8, 8, 8, 8, 8,
+  16, 8, 16, 8, 16, 8, 16, 8,   
+  16, 16, 16, 16, 16, 2
+};
+void setup()
+{
+  pinMode(BUZZER_PIN, OUTPUT);
+}
+void loop()
+{
+  int size = sizeof(durations) / sizeof(int);
+  for (int note = 0; note < size; note++) {
+    //to calculate the note duration, take one second divided by the note type.
+    //e.g. quarter note = 1000 / 4, eighth note = 1000/8, etc.
+    int duration = 1000 / durations[note];
+    tone(BUZZER_PIN, melody[note], duration);
+  //to distinguish the notes, set a minimum time between them.
+    //the note's duration + 30% seems to work well:
+    int pauseBetweenNotes = duration * 1.30;
+    delay(pauseBetweenNotes);
+      //stop the tone playing:
+    noTone(BUZZER_PIN);
+  }
+}
 
 ## Week 1 - Day 2
 
