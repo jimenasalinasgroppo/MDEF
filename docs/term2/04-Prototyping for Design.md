@@ -62,11 +62,11 @@ void loop()
 ![](../images/MT02/arduino1.jpg)
 > Computer screenshot trying to play around with the code.
 
-![](../images/MT02/IMG_8692.mov)
-> CExperiments with music playing with Arduino Uno.
+<iframe src="https://drive.google.com/file/d/1B-k_0CPGA_EUfufSy7-iKUgSR2F0h0jh/preview" width="640" height="480" allow="autoplay"></iframe>
+> Experiments with music playing with Arduino Uno.
 
-![](../images/MT02/IMG_8694.mov)
-> CExperiments with music playing with Arduino Uno.
+<iframe src="https://drive.google.com/file/d/10qI70r5I5w05KhABOjRGJ7F32T0jfZ_8/preview" width="640" height="480" allow="autoplay"></iframe>
+> Experiments with music playing with Arduino Uno.
 
 ## Week 1 - Day 2
 
