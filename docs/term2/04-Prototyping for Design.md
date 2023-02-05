@@ -59,6 +59,15 @@ void loop()
   }
 }
 
+![](../images/MT02/arduino1.jpg)
+> Computer screenshot trying to play around with the code.
+
+![](../images/MT02/IMG_8692.mov)
+> CExperiments with music playing with Arduino Uno.
+
+![](../images/MT02/IMG_8694.mov)
+> CExperiments with music playing with Arduino Uno.
+
 ## Week 1 - Day 2
 
 Today Eduardo taught us more about modelling and 3D models. He started by introducing terminology such as pixels vs vectors and going to basics allowed all of us to start with a clear mind.

@@ -19,14 +19,14 @@ Me, Ariel and Wen decided to experiment with orange peel during the second week 
 
 Process-wise, we decided to use a recipe that was compostable with the aim of creating flower pots that could then be re planted in soil and contribute to fertility. We used varying levels of water in our recipes to contrast what generated the most suitable texture. While the results weren't the most aesthetic we were pleased with the results and the possibility of creating your own compostable pots to replace plastic pots that do not biodegrade. As feedback, we received the suggestions of designing different sized pots for different stages of plant growth taking into account the most suitable nutrients and additives. We also were advised to use silicone moulds so the mix does not get stuck to the vase.
 
-![](..\docs\images\MT02\remixing4.jpg)
+![](../images/MT02/remixing4.jpg)
 
 > Our final curation of materials combining our experiments with orange-peel fed mycelium.
 
-![](../images/MT02/remixing2.jpeg)
+![](../images/MT02/remixing2.jpg)
 > Final decompostable pot made with dried orange peel.
 
-![](../images/MT02/remixing3.jpeg)
+![](../images/MT02/remixing3.jpg)
 > Final decompostable pot made with wet orange peel.
 
 Some follow up questions I have moving forward are: How long would it take for our pots to biodegrade? Will this compostable process truly be beneficial for plant growth and soil? What if plastic pots were completely replaced by biodegradable alternatives?
