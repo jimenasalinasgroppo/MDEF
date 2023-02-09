@@ -103,3 +103,9 @@ I also tried to input "3D render letter M" on stable diffusion to see how the AI
 <iframe src="https://drive.google.com/file/d/1wUheQw-FMzn4cT79XZlqX_pWJ67tQQ-C/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <div style="position: relative; padding-bottom: 64.63195691202873%; height: 0;"><iframe src="https://www.loom.com/embed/a7195a10f0344416b72c9196f8e5258a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+## Week 2 - Day 1
+
+Today we learned about laser cutting and vinyl cutting. What resonated with me most was the application of these techniques for building installations and communicating ideas in spaces. Using pens with the vinyl cutter was also incredible, a way to mix an analog and traditional technique with the digital.
+
+###**Micro challenge 3** Create a parametric model and print it.
