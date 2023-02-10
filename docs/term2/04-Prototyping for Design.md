@@ -113,7 +113,11 @@ To explore laser cutting press-fit for the first time I chose to build out of an
 
 What was hardest of the process was setting up the properties on the laser cut machine to have the correct scale, position the laser in the right corner and understanding the colors for engraving and cutting. I set up the file with Wen and Carolina and we needed to ask Eduardo and Josep for help a couple of times. We used some spare cardboard that had already been used for our initial prototypes before using a fancier cardboard for the end result.
 
+![](../images/MT02/cat2.jpeg)
+
 While testing out the final materials the press fit was right on point for the cat but not so much for the airplane I also printed out on cardboard. This was because the model was too small and the material was not rigid enough. For the future I would love to explore using laster cutting for exhibit design mixing engraving with cut parts using negative space for typography.
+
+![](../images/MT02/cat.jpeg)
 
 ###**Micro challenge 4** Arduino challenge
 xxxxxx
