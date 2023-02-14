@@ -131,3 +131,5 @@ We realized this task would take us much more time than we initially thought. I 
 We were able to connect the sensor to the light but were not able to modify the code correctly. Unfortunately this took us over 4 hours and we could not move forward to the further steps. However, as we were all initial users of Arduino we were very proud of our results.
 
 ![](../images/MT02/arduino3.jpeg)
+
+<iframe src="https://drive.google.com/file/d/1o328u2SyitJx4OLxxbWRUyOrb4B-2Kx-/preview" width="640" height="480" allow="autoplay"></iframe>
