@@ -154,7 +154,7 @@ The circuit:
 // constants won't change. They're used here to set pin numbers:
 const int buttonPin = 14;  // the number of the pushbutton pin
 const int ledPin = 13;    // the number of the LED pin
-[4:34 p. m., 10/2/2023] Jimena: const int buttonPin = 33;  // the number of the pushbutton pin
+const int buttonPin = 33;  // the number of the pushbutton pin
 const int ledPin = 13;    // the number of the LED pin
 const int ldrPin = A3;  
 int ldrValue = 0; // luminosity
@@ -184,7 +184,7 @@ void loop() {
 ![](../images/MT02/arduino3.jpeg)
 <iframe src="https://drive.google.com/file/d/1o328u2SyitJx4OLxxbWRUyOrb4B-2Kx-/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Week 3 - First Fab Lab challenge 
+## Week 3 - First Fab Lab challenge
 
 This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children's perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along a spectrum to show how we felt in regards to certain topics.
 
