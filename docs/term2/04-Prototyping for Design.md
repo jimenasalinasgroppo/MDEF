@@ -119,8 +119,13 @@ While testing out the final materials the press fit was right on point for the c
 
 ![](../images/MT02/cat.jpeg)
 
+## Week 2 - Day 2
+We learned about inputs and outputs from Victor. It was very inspiring to learn how sensors such as GPS actually work and to see the potential of using sensors in fields such as biology where electronics has not been very funded or investigated much before.
+
+I also enjoyed learning about DIY communities in Japan where making your own input and output systems is a great way to also combat private corporations using personal data for their own gain. Some questions asked during class that resonate with me: Why is Alexa so cheap if the investment for its development was so expensive? Answer: potentially they want to aim for the most quantity of Alexa's per household to gain our data and use that for profit.
+
 ###**Micro challenge 4** Arduino challenge
-For this challenge I came to IAAC with Carolina, Wen, Sami and Josephine. We tried to individually set up our Arduinos to either light up the LED with the switch and to use the sensor correctly on a separate board.
+For this challenge I came to IAAC with Carolina, Wen, Sami and Josephine on Friday. We tried to individually set up our Arduinos to either light up the LED with the switch and to use the sensor correctly on a separate board.
 
 We realized this task would take us much more time than we initially thought. I worked with Carolina trying to connect the switch to the LED light and were succesful for a period of time but then the Arduino stopped working. We tried plugging and re plugging everything but it didn't work again. Finally we got the board to keep working.
 
@@ -128,8 +133,18 @@ We realized this task would take us much more time than we initially thought. I 
 
 <iframe src="https://drive.google.com/file/d/1kGEJIMOf4V4TCAQaPAhjd-58WySkgSfi/preview" width="640" height="480" allow="autoplay"></iframe>
 
-We were able to connect the sensor to the light but were not able to modify the code correctly. Unfortunately this took us over 4 hours and we could not move forward to the further steps. However, as we were all initial users of Arduino we were very proud of our results.
+We were able to connect the sensor to the light but were not able to modify the code correctly. Unfortunately this took us over 4 hours and we could not move forward to the further steps. However, as we were all initial users of Arduino we were very proud of our results and we managed to get both the input and the output to work correctly.
+
+Some documentation below:
 
 ![](../images/MT02/arduino3.jpeg)
 
 <iframe src="https://drive.google.com/file/d/1o328u2SyitJx4OLxxbWRUyOrb4B-2Kx-/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Week 3 - First challenges
+
+This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children's perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along a spectrum to show how we felt in regards to certain topics.
+
+One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incoporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
+
+We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate  capabilities from them. 
