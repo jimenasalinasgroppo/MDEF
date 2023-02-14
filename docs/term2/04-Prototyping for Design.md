@@ -133,12 +133,55 @@ We realized this task would take us much more time than we initially thought. I 
 
 <iframe src="https://drive.google.com/file/d/1kGEJIMOf4V4TCAQaPAhjd-58WySkgSfi/preview" width="640" height="480" allow="autoplay"></iframe>
 
-We were able to connect the sensor to the light but were not able to modify the code correctly. Unfortunately this took us over 4 hours and we could not move forward to the further steps. However, as we were all initial users of Arduino we were very proud of our results and we managed to get both the input and the output to work correctly.
-
-Some documentation below:
-
+> This was the code we used to get the output to work correctly (LED light).
+/*
+ Button
+ Turns on and off a light emitting diode(LED) connected to digital pin 13,
+ when pressing a pushbutton attached to pin 2.
+The circuit:
+ - LED attached from pin 13 to ground through 220 ohm resistor
+ - pushbutton attached to pin 2 from +5V
+ - 10K resistor attached to pin 2 from ground
+ - Note: on most Arduinos there is already an LED on the board
+   attached to pin 13.
+ created 2005
+ by DojoDave <http://www.0j0.org>
+ modified 30 Aug 2011
+ by Tom Igoe
+ This example code is in the public domain.
+ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
+*/
+// constants won't change. They're used here to set pin numbers:
+const int buttonPin = 14;  // the number of the pushbutton pin
+const int ledPin = 13;    // the number of the LED pin
+[4:34 p. m., 10/2/2023] Jimena: const int buttonPin = 33;  // the number of the pushbutton pin
+const int ledPin = 13;    // the number of the LED pin
+const int ldrPin = A3;  
+int ldrValue = 0; // luminosity
+int start = 0;  // time starts counting
+bool prevstate; // variable to evaluate previous state of the measurement
+bool state;  // variable for assessing the status of point or dash
+int buttonState = 0;  // variable for reading the pushbutton status
+char punto = '.';
+char raya = '-';
+String letters[27]={
+".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--..",  
+};
+void setup() {
+ Serial.begin(9600);
+ // initialize the LED pin as an output:
+ pinMode(ledPin, OUTPUT);
+ // initialize the pushbutton pin as an input:
+ pinMode(buttonPin, INPUT);
+}
+void loop() {
+ // read the state of the pushbutton value:
+ buttonState = digitalRead(buttonPin);
+ // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+ if (buttonState == HIGH) {
+   // turn LED on:
+   digitalWrite(ledPin, HIGH);
 ![](../images/MT02/arduino3.jpeg)
-
 <iframe src="https://drive.google.com/file/d/1o328u2SyitJx4OLxxbWRUyOrb4B-2Kx-/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Week 3 - First challenges
@@ -147,4 +190,4 @@ This week I worked with Ariel and Wen to develop a physical product that would a
 
 One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incoporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
 
-We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate  capabilities from them. 
+We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
