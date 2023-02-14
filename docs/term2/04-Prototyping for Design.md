@@ -120,4 +120,12 @@ While testing out the final materials the press fit was right on point for the c
 ![](../images/MT02/cat.jpeg)
 
 ###**Micro challenge 4** Arduino challenge
-xxxxxx
+For this challenge I came to IAAC with Carolina, Wen, Sami and Josephine. We tried to individually set up our Arduinos to either light up the LED with the switch and to use the sensor correctly on a separate board.
+
+We realized this task would take us much more time than we initially thought. I worked with Carolina trying to connect the switch to the LED light and were succesful for a period of time but then the Arduino stopped working. We tried plugging and re plugging everything but it didn't work again. Finally we got the board to keep working.
+
+![](../images/MT02/arduino2.jpeg)
+
+We were able to connect the sensor to the light but were not able to modify the code correctly. Unfortunately this took us over 4 hours and we could not move forward to the further steps. However, as we were all initial users of Arduino we were very proud of our results.
+
+![](../images/MT02/arduino3.jpeg)
