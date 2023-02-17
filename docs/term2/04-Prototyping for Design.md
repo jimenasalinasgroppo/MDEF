@@ -190,4 +190,16 @@ This week I worked with Ariel and Wen to develop a physical product that would a
 
 One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incoporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
 
+My participation in the project was primarily in designing the concept and MVP in digital format, looking at how the user interaction would work inside a classroom and how would the use of the Perception Board work integrating the cards, questions and the x and y axis. I then designed the question cards, itrating the content itself so it would be more understandable by children. My role was also to help set up the laser cutting and help Ariel and Wen finalize Rhino file details and pasting the parts of the final piece together with glue.
+
 We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
+
+Some learnings that emerged from this week:
+- **Electronics require a lot of time and that should be reflected on the planning side of managing time.** Colored LED lights also use different resistors and when lighting up many LEDs on one same product the amount of power is something to take into account.
+- **When making different prototypes, take notes of changes in materials, design files and extra pieces you will need for next time.** For instance, by making the cardboard design we realized we need a card holder, some way to transport the board and a taller structure to hide the Arduino set up.
+- **Laser cutting is also very time-sensitive** Make sure that happens earlier on you work flow because laser cutting two wooden boards can take over an hour.
+- **Early alignment is key.** Had we not aligned on Tuesday on the output and key concept we would not have had time to fail early building the actual product and iterating.
+
+I am looking forward to using our Perception board with teenagers and seeing how this project can also evolve in designing DIY tools for teachers to facilitate participatory processes with children and teenagers.
+
+[Project repo](https://github.com/wenqianchua/microchallenge-01)
