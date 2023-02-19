@@ -124,10 +124,12 @@ We learned about inputs and outputs from Victor. It was very inspiring to learn 
 
 I also enjoyed learning about DIY communities in Japan where making your own input and output systems is a great way to also combat private corporations using personal data for their own gain. Some questions asked during class that resonate with me: Why is Alexa so cheap if the investment for its development was so expensive? Answer: potentially they want to aim for the most quantity of Alexa's per household to gain our data and use that for profit.
 
-###**Micro challenge 4** Arduino challenge
+The list of sensors and potential inputs was also very exhaustive and allwoed us as a group to push our thinking into what we can begin to monitor, especially for groups looking at collaboration with nature and water.
+
+###**Micro challenge 4** Arduino challenge inputs and outputs
 For this challenge I came to IAAC with Carolina, Wen, Sami and Josephine on Friday. We tried to individually set up our Arduinos to either light up the LED with the switch and to use the sensor correctly on a separate board.
 
-We realized this task would take us much more time than we initially thought. I worked with Carolina trying to connect the switch to the LED light and were succesful for a period of time but then the Arduino stopped working. We tried plugging and re plugging everything but it didn't work again. Finally we got the board to keep working.
+We realized this task would take us much more time than we initially thought. I worked with Carolina trying to connect the switch to the LED light and were succesful for a period of time but then the Arduino stopped working. We tried plugging and re plugging everything but it didn't work again. Finally we got the board to keep working and focused on integrating our output with the sensor Sami and Josephine had been working on. We had fun seeing how far we could go on connecting both systems.
 
 ![](../images/MT02/arduino2.jpeg)
 
@@ -186,14 +188,14 @@ void loop() {
 
 ## Week 3 - First Fab Lab challenge
 
-This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children's perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along a spectrum to show how we felt in regards to certain topics.
+This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children's perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along an x and y spectrum to show how we felt in regards to certain topics.
 
 ![](../images/MT02/pboard.jpeg)
 > We decided to go big on format to make it more accessible for children and to include emojis as a way to also start destigmatizing emotions.
 
 One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incoporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
 
-My participation in the project was primarily in designing the concept and MVP in digital format, looking at how the user interaction would work inside a classroom and how would the use of the Perception Board work integrating the cards, questions and the x and y axis. I then designed the question cards, itrating the content itself so it would be more understandable by children. My role was also to help set up the laser cutting and help Ariel and Wen finalize Rhino file details and pasting the parts of the final piece together with glue.
+My participation in the project was primarily in designing the concept and MVP in digital format, looking at how the user interaction would work inside a classroom and how would the use of the Perception Board work integrating the cards, questions and the x and y axis. I then designed the question cards, iterating the content itself so it would be more understandable by children. My role was also to help set up the laser cutting and help Ariel and Wen finalize Rhino file details and pasting the parts of the final piece together with glue.
 
 We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
 
@@ -201,12 +203,16 @@ We will test the product with the school we previously worked but this time with
 > What our final board looked like after connecting a circuit and coding Arduino for LED lights to switch on using a button.
 
 ![](../images/MT02/pboard3.jpeg)
-> What our product looked like after a hands-on week of a lot of iterations, learnings and testing out new things. 
+> What our product looked like after a hands-on week of a lot of iterations, learnings and testing out new things.
 
 Some learnings that emerged from this week:
+
 - **Electronics require a lot of time and that should be reflected on the planning side of managing time.** Colored LED lights also use different resistors and when lighting up many LEDs on one same product the amount of power is something to take into account.
-- **When making different prototypes, take notes of changes in materials, design files and extra pieces you will need for next time.** For instance, by making the cardboard design we realized we need a card holder, some way to transport the board and a taller structure to hide the Arduino set up.
-- **Laser cutting is also very time-sensitive** Make sure that happens earlier on you work flow because laser cutting two wooden boards can take over an hour.
+
+- **When making different prototypes, take notes of changes in materials, design files and extra pieces you will need for next time or round of iteration.** For instance, by making the cardboard design we realized we need a card holder to place all the cards inside, some way to transport the board to schools and a taller structure to hide the Arduino set up from children. We also want to explore using LED strips as opposed to LED bulbs.
+
+- **Laser cutting is also very time-sensitive** Make sure that happens earlier on you work flow because laser cutting two wooden boards can take over an hour between cutting time and setting up the file time.
+
 - **Early alignment is key.** Had we not aligned on Tuesday on the output and key concept we would not have had time to fail early building the actual product and iterating.
 
 I am looking forward to using our Perception board with teenagers and seeing how this project can also evolve in designing DIY tools for teachers to facilitate participatory processes with children and teenagers.
