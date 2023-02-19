@@ -103,7 +103,7 @@ For schools, we intend on keeping our initial target of 6-9 years old and adapt 
 ![](../images/MT01/collage.jpeg)
 > Carolina's collage made during Design Dialogues. Features a look at ecofeminism, incorporating indigenous women.
 
-### Intervention 5 - Using GTP3 to imagine alternative use cases of conversational AI with Wen
+### Intervention 5 - Using GPT3 to imagine alternative use cases of conversational AI with Wen
 
 Me and Wen were both interested in the potential uses of GPT3. Inspired by this twitter thread, we set out to figure out how to configure the chat for these cases and build a quick user flow for a potential product related to this. We partnered up to create a first draft of a user navigation flow, system architecture and user persona setting. This was built over two weeks with the purpose of having a prototype that we could show on the Design Dialogues.
 
