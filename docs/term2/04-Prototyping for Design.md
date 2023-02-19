@@ -188,11 +188,20 @@ void loop() {
 
 This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children's perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along a spectrum to show how we felt in regards to certain topics.
 
+![](../images/MT02/pboard.jpeg)
+> We decided to go big on format to make it more accessible for children and to include emojis as a way to also start destigmatizing emotions.
+
 One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incoporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
 
 My participation in the project was primarily in designing the concept and MVP in digital format, looking at how the user interaction would work inside a classroom and how would the use of the Perception Board work integrating the cards, questions and the x and y axis. I then designed the question cards, itrating the content itself so it would be more understandable by children. My role was also to help set up the laser cutting and help Ariel and Wen finalize Rhino file details and pasting the parts of the final piece together with glue.
 
 We will test the product with the school we previously worked but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
+
+![](../images/MT02/pboard2.jpeg)
+> What our final board looked like after connecting a circuit and coding Arduino for LED lights to switch on using a button.
+
+![](../images/MT02/pboard3.jpeg)
+> What our product looked like after a hands-on week of a lot of iterations, learnings and testing out new things. 
 
 Some learnings that emerged from this week:
 - **Electronics require a lot of time and that should be reflected on the planning side of managing time.** Colored LED lights also use different resistors and when lighting up many LEDs on one same product the amount of power is something to take into account.
