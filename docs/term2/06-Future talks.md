@@ -45,3 +45,19 @@ Some personal reflections that emerged as a result of this Future Talks:
 [Frederick's Design and Oppression community, inspired by Paulo Freire theory](https://www.designeopressao.org/designs-of-the-oppressed/)
 
 [Design Justice](https://designjustice.org/)
+
+## Julia Ballesteros and Milena Rosés
+
+This Future Talks revolved around radical situatedness and reflecting how to choose an alternative paths to building our own career and connecting back with our knowledge on ourselves we have acquired from the first Trimester.
+
+One interesting reflection Mariana brought to the table is that the word radical comes from the word "root" so looking at where things come from from an introspection point of view is important and also when dealing with materials and interventions.
+
+Radical situatedness is a way to depart from traditional paths and to rethink and step back. Julia and Milena's story was very inspiring looking at ways to go back to their home town, start conversations from scratch and explore materials with a local point of view. Their proposal is not a regular ceramics studio because it looks at where material comes from and co-designs with the local community and also the local geography.
+
+Some questions this conversation sparked:
+
+- What does radical situatedness look like when working with digital interventions?
+
+- How can we leverage local knowledge when designing with communities?
+
+- What is an alternative path I can take in my personal journey to connect with my own roots? 
