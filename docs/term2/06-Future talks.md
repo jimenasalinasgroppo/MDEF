@@ -7,7 +7,7 @@ hide:
 
 ## General reflections
 
-Reflection will go here.
+Future Talks have been an interesting space to have a conversation with design practitioners, mostly from Academia and understand what their perspective on design is. One of the most important topics discussed is the importance of first person perspective and embracing subjectivity into the design process. Oppression has also been an important subject matter in the Future Talks and is an interesting build on first person perspective since we can't exclude our personal politics in whatever we design and as designers we need to be mindful of this types of influences and relations when working with others and especially communities.
 
 ## Audrey Desjardins
 
@@ -17,7 +17,7 @@ More than the research topic, I was also interested in the conversation afterwar
 
 Another important point the conversation raised was made by Marielle about the priviledge of picking a theme such as travelling in a van as Academia and it got me thinking of how culture and in which part of the world you are designing influences the urgency of your subject matter and allows you to focus more on the future. When designing in Peru and Latin America urgency and the present is always at the forefront and the future and the planet is secondary. This is not something to be judged but something to be understood.
 
-[ARticle Audrey shared on Design Research as Psychotherapy](https://www.researchgate.net/profile/Tad-Hirsch/publication/339844239_Practicing_Without_a_License_Design_Research_as_Psychotherapy/links/5e68d0f992851c7ce05b4834/Practicing-Without-a-License-Design-Research-as-Psychotherapy.pdf)
+[Article Audrey shared on Design Research as Psychotherapy](https://www.researchgate.net/profile/Tad-Hirsch/publication/339844239_Practicing_Without_a_License_Design_Research_as_Psychotherapy/links/5e68d0f992851c7ce05b4834/Practicing-Without-a-License-Design-Research-as-Psychotherapy.pdf)
 
 ## Laura Forlano
 
@@ -26,3 +26,21 @@ Building on the subject of first person perspective, we heard the work of Laura 
 A tool that I will try to incorporate in my work moving forward are **vignettes**. Trying to capture specific or unique moments that resonate with you personally that can then become design input. She mentioned that when a key moment occurs she takes notes, writes basic details to jog her memory and then writes up the vignette to make sense of the story. Some stylist examples, writing vignettes as diary entries, i.e. "it was 5:03 am when ..."
 
 ## Frederick Van Amstel
+
+Frederick's Future Talks was one of our first Master approximations to understanding **diseño libre** and how oppression and design interact. His work attempts to incorporate the indigenous perspective into design and looking at how colonialism impacts relationships starting with our human body. Another important point of his conversation is how we cannot exclude politics from design and just by working in an open source, open data manner we are making a political standpoint.
+
+One of the talking points that was interesting from this Future Talks was how Frederick mentioned that in Europe he is perceived as an immigrant latino man even though he is Dutch Brazilian. This also spoke to me because priviledge is contextual to geography and how humans perceive you in regards to your accent, skin tone and racial features.
+
+Some personal reflections that emerged as a result of this Future Talks:
+
+- How can we collaborate with indigenous communities without extracting knowldge and falling into colonial ways of relating?
+
+- How do our bodies relate to oppression? What exercises can we use with our bodies to acknowledge this?
+
+- How can we discuss politics intersecting with design in different scenarios without creating a threatening environment?
+
+
+**Links from the conversation**
+[Frederick's Design and Oppression community, inspired by Paulo Freire theory](https://www.designeopressao.org/designs-of-the-oppressed/)
+
+[Design Justice](https://designjustice.org/)
