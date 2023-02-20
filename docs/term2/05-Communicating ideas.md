@@ -10,7 +10,7 @@ Our first session with Kate was very energizing and a good way to take a moment 
 ## First session - Outlining mision, vission and values
 
 **Purpose statement**
-Design gender-inclusive futures through open data, participatory processes and new narratives.
+Design gender-inclusive futures through open data, participatory processes and creation of new narratives.
 
 Design gender-inclusive futures by designing for root causes, with care and for real human behaviors.
 
@@ -28,8 +28,8 @@ I tried to align the visual language with my purpose, mission and vision using p
 
 #Minimum Viable Message
 
-I am co-creating future visions with children to gather their perceptions and attitudes in regards to gender equality through participatory design.
+- I am co-creating future visions with children to gather their perceptions and attitudes in regards to gender equality through participatory design.
 
-I am exploring ways to utilize AI to help women navigate salary negotiations and empower them financially to reduce Intimate Partner Violence.
+- I am exploring ways to utilize AI to help women navigate salary negotiations and empower them financially to reduce Intimate Partner Violence.
 
-I am co-creating future visions on ecofeminism with migrant women to develop futures literacy skills.
+- I am co-creating future visions on ecofeminism with migrant women to develop futures literacy skills.
