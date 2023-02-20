@@ -41,6 +41,7 @@ Some personal reflections that emerged as a result of this Future Talks:
 
 
 **Links from the conversation**
+
 [Frederick's Design and Oppression community, inspired by Paulo Freire theory](https://www.designeopressao.org/designs-of-the-oppressed/)
 
 [Design Justice](https://designjustice.org/)
