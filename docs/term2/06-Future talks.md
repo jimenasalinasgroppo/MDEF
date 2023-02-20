@@ -60,4 +60,4 @@ Some questions this conversation sparked:
 
 - How can we leverage local knowledge when designing with communities?
 
-- What is an alternative path I can take in my personal journey to connect with my own roots? 
+- What is an alternative path I can take in my personal journey to connect with my own roots?
