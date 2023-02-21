@@ -162,6 +162,6 @@ Inclusion (ie. Sports for all ages and all genders)
 Freedom (ie. Abolishing zoos)
 Diversity (ie. New species, interspecies schools)
 
->ou can check the attached presentation here with our group findings.
+>You can check the attached presentation here with our group findings.
 
 We received the feedback from faculty to make the workshop more participatory in the sense that children are given increased agency, new facilitation roles and we let go of control to see where the activity takes us and how this can influence their imagined futures. We will also talk to a school psychologist for a future iteration. Ask ourselves, how can this feel co-created rather than imposed?
