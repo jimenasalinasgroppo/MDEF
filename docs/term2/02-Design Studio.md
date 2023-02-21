@@ -64,3 +64,104 @@ Iteration of Innerbot (from first trimester) and content curated by a Non Violen
 - Helping fathers have healthy communication with their children
 
 For pushing this project forward my next steps will be contacting Taller Estampa for technical help and playing with chat GPT3 to emulate the scenarios. After having an initial prototype, I will seek the aid of a Nonviolent Communication expert and a GBV expert.
+
+# Intervention 1 Second Trimester- Imagining futures with children
+
+##Workshop plan
+We will do a school intervention with 75 9-year old children in Sant Andreu school in Badalona. The activity is divided into 3 classes of approx. 20 children (75 children in total). For us to implement this workshop we had to leverage the trust Xavi and Fab Lab team had already created with schools in Badalona and had to email the Principal and key coordinators for over 2 months. It is hard to schedule activities with children since they need to be integrated into key dates of the academic calendars.
+
+##Co-creation process
+For the co-creation process, we first built on the findings from the public parks interventions and design dialogues from Trimester I. Mariana gave us some insights and guidelines to approach the intervention in this second round.
+
+We visited the school on Wednesday to co-create with the tutor and ask her relevant content questions, how the exercise fits with the regular curricula and what we can change to create more engagement with the children. We decided to ask children more specific questions - i.e. how do you imagine zoos of the future? or parks of the future? or schools of the future? or sports of the future? as opposed to a general “How do you imagine the future?” question. This specificity will help them be much more concrete with their answers which is rich input for us as designers.
+
+As mentioned above, trust building with schools was done through Xavi’s Fab Lab network and took a couple of months to actually schedule the activity. Since schools have to provide a uniform experience for all children in one grade, we needed to replicate the activity with all 75 students and had to run a pretty big pilot. We decided to start off with only one class and then iterate the activity for the remaining 2 classes.
+
+##1st intervention with 24 children
+**Location:** Collegio Sant Andreu, Badalona
+**Date:** January 20th, 2023
+**Grade:** Second grade, primary schools
+**Age:** 8-9 years old
+**Class size:** 24 children
+
+The workshop lasted 45 minutes. The teachers were very open to what we proposed and actually felt they couldn’t interrupt our session. Children were very happy and motivated by our presence. We documented photos, videos and voice recordings but were careful to take pictures of their individual faces because of child protection laws.
+
+One thing we noticed we could improve was help teachers feel more involved with the activity. We felt that teachers felt they could take a break and rest from their busy schedules but were also very interested and curious of the content. Incorporating teachers more actively can be something we can improve later on.
+
+In preparation for the activity, we designed a short presentation that would serve as an introduction (who we are, our backgrounds, where we come from and introduction to climate change and gender equality). You can check the attached presentation here with our group findings and you can hear some of their stories from this session here.
+
+##Mapped improvements for next iterations:
+- Show collage cutouts later since children are easily distracted. Once they saw the collage cut outs they stopped thinking of the futures and focused more on the images themselves.
+
+- Spend a bit more time on introduction, asking them questions about the topic area and having a horizontal conversation.
+
+- They are very young so they are more interested in animals than in humans.
+
+- They do not comprehend very much gender inequality. It is a very complex subject for them so it would be best to talk about inclusion in general.
+
+- Teachers are willing to do more activities with them and use innovative tools in their classes. This can also be an opportunity to onboard teachers on new tools and exercises.
+
+- Teachers want to participate too! and design their futures. First teacher imagined a school with modular furniture that quickly transformed into different settings for diverse learning styles.
+
+- Children are happy to help us imagine futures and enthusiastic about welcoming new people into their classrooms.
+
+##Childrens’ imagined futures grouped thematically:
+- **Parks:** New animal species. Animals, fruits and no cars so animals are not scared, vet in parks. Pokemons are part of parks.
+
+- **Schools:** Poor children are fed in schools, bread to feed everyone in schools.
+
+- **Zoos:** Punishing people that kill animals by making them go to jail, animal protection. No zoos, animals free to roam around. People in charge of animal rescue. Animals are trained to become stronger so we can live with wild animals and feed them, live with them without killing others. Where you can be friends with animals and they are not hunted.
+
+- **Sports:** Each person chooses their uniform, their way to express themselves. In one same area all sports can be held in the same area, it can be transformed for different sports.
+
+##Emerging insights from this first intervention:
+- Better futures for children are more inclusive futures and non-humans are very included.
+
+- Mindful of eating, nourishment, especially for poor children.
+
+- Children imagine better futures in regards to inclusion more than inequality, ie. letting all animals be in a zoo, letting everyone participate in sports, no uniforms, letting everyone express themselves freely.
+
+- Sidenote: Children associate “poor” people with racial diversity. Children have a hard time also reflecting on their own school experience and prefer to design for children from lower income families.
+
+##My personal takeaways on how this intervention relates to emerging visions on gender equality:
+Children have a hard time imagining gender equality since they are unaware of how society impacts human beings differently according to gender.
+However children can imagine and imagine a world with more inclusion.
+This looks like olympics and soccer matches for all ages and all genders, where uniform is a personal choice of expression.
+
+##Some visions children imagined:
+Household tasks are distributed equally
+Interspecies schooling
+Housing for everyone
+Places of repair and healing in public spaces
+This allows us to build a future where preservation and care are pillars in equality and inclusion.
+
+##2nd intervention with 50 children
+**Location:** Collegio Sant Andreu, Badalona
+**Date:** January 27th, 2023
+**Grade:** Second grade, primary schools
+**Age:** 8-9 years old
+**Class size:** 50 children (2 classes)
+
+The workshop will be almost identical with the previous one with some changes. The children will imagine future scenarios on topics related to climate change and gender equity. They will be making a collage of the future scenario in different settings, for example: future for the park, for the school, sports, etc. based on the theme we selected.
+
+For this second iteration of intervention with children, we decided to not show the collage cut outs from the start and to let the children spend more time ideating and focusing on crafting more compelling stories. We allowed them to use color pencils and crayons and not to focus on using cut outs from magazines.
+
+##This second iteration gave us the following results:
+After we introduced the collage cut outs, no children used the cut outs anymore. We realized they were more distracting than adding to the experience. What you show at first is crucial for children since it is what they will focus their attention on.
+Children spent more time collaborating and listening to their peers when they didn’t have distracting elements.
+
+The end stories were more reflexive and of higher quality this time around. With the collage in the first iteration, they struggled incorporating all the elements and with no collages being shown, they could focus on their stories and adding details to the stories.
+Question for future iterations: If we choose not to use collage anymore, what would be the minimum viable prompts we would need to give children for better stories and more engagement? Is the template with the backdrop enough or is there any other element we can incorporate that adds to the experience?
+
+##Some insights from the second iteration:
+- Content-wise, children are overall optimistic and positive about the future.
+
+- Some emerging themes from this session:
+Redistribution of wealth (ie. feeding the poor, free housing for the poor)
+Inclusion (ie. Sports for all ages and all genders)
+Freedom (ie. Abolishing zoos)
+Diversity (ie. New species, interspecies schools)
+
+>ou can check the attached presentation here with our group findings.
+
+We received the feedback from faculty to make the workshop more participatory in the sense that children are given increased agency, new facilitation roles and we let go of control to see where the activity takes us and how this can influence their imagined futures. We will also talk to a school psychologist for a future iteration. Ask ourselves, how can this feel co-created rather than imposed?
