@@ -146,7 +146,7 @@ This allows us to build a future where preservation and care are pillars in equa
 <iframe src="https://drive.google.com/file/d/1pZM9j4HIuR60JDaCzX0uBr50ZseyZjDQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 - [PDF we shared with teachers to schedule the activity.](https://drive.google.com/file/d/15wzRoRQG4TzwFkWkO6J__ZdF39QAKUqz/view?usp=share_link)
-- [Learnings from doing a first prototype in parks.] (https://drive.google.com/file/d/1ftk1MGdBgBFSiJCTD-5RFohZCD5CJkSt/view?usp=share_link)
+- [Learnings from doing a first prototype in parks.](https://drive.google.com/file/d/1ftk1MGdBgBFSiJCTD-5RFohZCD5CJkSt/view?usp=share_link)
 
 ##2nd intervention with 50 children
 
