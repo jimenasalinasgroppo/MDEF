@@ -185,6 +185,6 @@ Inclusion (ie. Sports for all ages and all genders)
 Freedom (ie. Abolishing zoos)
 Diversity (ie. New species, interspecies schools)
 
-**Some emerging results from the second iteration in Badalona in the following link.** (https://docs.google.com/presentation/d/1FiELWKOhSUin_vXvCO1yJs08Tfgk6alYPw7RD3eBG5M/mobilepresent?slide=id.g1fc3f272b64_0_5)
+- [Some emerging results from the second iteration in Badalona in the following link.](https://docs.google.com/presentation/d/1FiELWKOhSUin_vXvCO1yJs08Tfgk6alYPw7RD3eBG5M/mobilepresent?slide=id.g1fc3f272b64_0_5)
 
 We received the feedback from faculty to make the workshop more participatory in the sense that children are given increased agency, new facilitation roles and we let go of control to see where the activity takes us and how this can influence their imagined futures. We will also talk to a school psychologist for a future iteration. Ask ourselves, how can this feel co-created rather than imposed?
