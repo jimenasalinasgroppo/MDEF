@@ -218,3 +218,9 @@ Some learnings that emerged from this week:
 I am looking forward to using our Perception board with teenagers and seeing how this project can also evolve in designing DIY tools for teachers to facilitate participatory processes with children and teenagers.
 
 [Project repo](https://github.com/wenqianchua/microchallenge-01)
+
+## Week 3 - Day 1
+We started this week with an introduction by Eduardo on 3D printing and 3D scanning technologies. We were exposed to a recap of the history of 3D printing and given an overview of different ways to engage with 3D technology nowadays. We were also provided with actionable tips to 3D scan ourselves using software that is freely available and understanding what we can do with 3D scanned data (i.e. understand volume of material we require after 3D scan).
+
+###**Micro challenge 5** 3D printing and scanning
+xxxx
