@@ -131,10 +131,15 @@ However children can imagine and imagine a world with more inclusion.
 This looks like olympics and soccer matches for all ages and all genders, where uniform is a personal choice of expression.
 
 ##Some visions children imagined:
-Household tasks are distributed equally
-Interspecies schooling
-Housing for everyone
-Places of repair and healing in public spaces
+
+- Household tasks are distributed equally
+
+- Interspecies schooling
+
+- Housing for everyone
+
+- Places of repair and healing in public spaces
+
 This allows us to build a future where preservation and care are pillars in equality and inclusion.
 
 > Some emerging results from our first iteration in Badalona below.
