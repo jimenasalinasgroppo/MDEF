@@ -260,6 +260,8 @@ We were selected to Fem Fabrik but were asked to clarify a bit more our intentio
 ###Workshop prep
 We made collaborative Google Slides files to crowdsource images for the collage then prepared the file for printing at Elisava. We used bond paper and tried to align aesthetically all the images while allowing for randomness in the content area to emerge. We also curated 5 different poems from female authors that would be talking points to start discussing ecofeminism.
 
+![](../images/MT02/mamasqueleen1.jpeg)
+
 We sent our workshop structure to Karin via email to gather her reactions. You can read the workshop structure here.
 
-![](../images/MT02/mamasqueleen1.jpeg)
+[This document reflects our workshop structure.](https://docs.google.com/document/d/1gp5axbDmoieLNq_LkXEXzMSlXDVORx4qOH6loN1W1M0/edit?usp=sharing)
