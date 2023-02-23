@@ -243,6 +243,11 @@ Potential of future literacy and collage being a third / fourth / fifth language
 *Diary entry:*
 >“We arrived on time this time and introduced ourselves to the whole group. They were reading a short story collectively and I was surprised by the trust and humor of the environment. Karin is very good at asking questions and getting the women interested in the texts they are reading.”
 
+![](../images/MT02/mamasqueleen2.jpeg)
+
+![](../images/MT02/mamasqueleen3.jpeg)
+
+
 ###Applying to Fem Fabrik
 We co-created a workshop with Carolina and are applying to Fem Fabrik in La Clandestina to see if we can showcase the end result of our workshop with Mamas que leen in a full-day event held for women artists on Saturday 11th of March.
 
@@ -250,7 +255,11 @@ Our shift in the workshop design is to use inputs from female poets that also al
 
 We were selected to Fem Fabrik but were asked to clarify a bit more our intentions. We will be given a 1x1 exhibit space and we are thinking of adapting the format of the fanzine to fit the vertical space we have been assigned. We also need to verify with Karin, founder of Mamás que leen, if our participation is ok by her.
 
+![](../images/MT02/HISTORIAS .JPG)
+
 ###Workshop prep
 We made collaborative Google Slides files to crowdsource images for the collage then prepared the file for printing at Elisava. We used bond paper and tried to align aesthetically all the images while allowing for randomness in the content area to emerge. We also curated 5 different poems from female authors that would be talking points to start discussing ecofeminism.
 
 We sent our workshop structure to Karin via email to gather her reactions. You can read the workshop structure here.
+
+![](../images/MT02/mamasqueleen1.jpeg)
