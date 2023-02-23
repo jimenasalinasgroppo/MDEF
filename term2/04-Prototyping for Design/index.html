@@ -639,8 +639,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#micro-challenge-6-xxxx" class="md-nav__link">
-    Micro challenge 6 XXXX
+  <a href="#micro-challenge-6-connecting-arduino-to-wifi-server" class="md-nav__link">
+    Micro challenge 6 Connecting Arduino to wifi server
   </a>
   
 </li>
@@ -849,8 +849,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#micro-challenge-6-xxxx" class="md-nav__link">
-    Micro challenge 6 XXXX
+  <a href="#micro-challenge-6-connecting-arduino-to-wifi-server" class="md-nav__link">
+    Micro challenge 6 Connecting Arduino to wifi server
   </a>
   
 </li>
@@ -1073,9 +1073,108 @@ void loop() {
 <h3 id="micro-challenge-5-3d-printing-and-scanning"><strong>Micro challenge 5</strong> 3D printing and scanning<a class="headerlink" href="#micro-challenge-5-3d-printing-and-scanning" title="Permanent link">&para;</a></h3>
 <p>xxxx</p>
 <h2 id="week-3-day-2">Week 3 - Day 2<a class="headerlink" href="#week-3-day-2" title="Permanent link">&para;</a></h2>
-<p>Today&rsquo;s class Victor shared information about the origin of the internet and helped debunk myths about how the &ldquo;cloud&rdquo; works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like. </p>
-<h3 id="micro-challenge-6-xxxx"><strong>Micro challenge 6</strong> XXXX<a class="headerlink" href="#micro-challenge-6-xxxx" title="Permanent link">&para;</a></h3>
-<p>xxxx</p>
+<p>Today&rsquo;s class Victor shared information about the origin of the internet and helped debunk myths about how the &ldquo;cloud&rdquo; works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like.</p>
+<h3 id="micro-challenge-6-connecting-arduino-to-wifi-server"><strong>Micro challenge 6</strong> Connecting Arduino to wifi server<a class="headerlink" href="#micro-challenge-6-connecting-arduino-to-wifi-server" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p>This is the code I inputted into Arduino #include <WiFi.h> #include <PubSubClient.h>
+const char* ssid = &ldquo;Iaac-Wifi&rdquo;;
+const char* password = &ldquo;EnterIaac22@&rdquo;;
+WiFiClient wifiClient;
+const char* mqttBroker = &ldquo;172.16.10.224&rdquo;;
+const char* mqttClientName = &ldquo;jimena&rdquo;;
+const char* topicToSub = &ldquo;teamx/in&rdquo;;
+const char* topicToPub = &ldquo;teamx/out&rdquo;;
+PubSubClient mqttClient(wifiClient);
+const int buttPin = 6;
+bool buttState;
+void mqttConnect() {
+  while (!mqttClient.connected()) {
+    Serial.print(&ldquo;Attempting MQTT connection&hellip;&rdquo;);
+    if (mqttClient.connect(mqttClientName)) {
+      Serial.println(&ldquo;connected&rdquo;);
+      mqttClient.publish(&ldquo;hello&rdquo;, mqttClientName);
+      // Topic(s) subscription
+      mqttClient.subscribe(topicToSub);
+    } else {
+      Serial.print(&ldquo;failed, rc=&rdquo;);
+      Serial.print(mqttClient.state());
+      Serial.println(&rdquo; try again in 5 seconds&rdquo;);
+      delay(5000);
+    }
+  }
+}
+void callback(char* topic, byte* message, unsigned int length) {<br />
+  String receivedMsg;
+  for (int i = 0; i &lt; length; i++) {
+     receivedMsg += (char)message[i];
+  }
+  Serial.print(&ldquo;Message arrived on topic: &ldquo;);
+  Serial.print(topic);
+  Serial.print(&ldquo;. Message: &ldquo;);
+  Serial.println(receivedMsg);
+  if (String(topic) == topicToSub) {
+    // Add here the code to act on input --------------
+    // Arduino String obejct reference :
+    // <a href="https://www.arduino.cc/reference/en/language/variables/data-types/stringobject/">https://www.arduino.cc/reference/en/language/variables/data-types/stringobject/</a>
+    if (receivedMsg == (&ldquo;1&rdquo;)) {
+      Serial.println(&ldquo;on&rdquo;);
+      digitalWrite(LED_BUILTIN, HIGH);
+    } else if (receivedMsg == &ldquo;0&rdquo;) {
+      Serial.println(&ldquo;off&rdquo;);
+      digitalWrite(LED_BUILTIN, LOW);
+    }
+    //-------------------------------------------------
+  }
+}
+void setup() {<br />
+  Serial.begin(115200);
+  // Connect to wifi
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(&ldquo;.&rdquo;);
+  }
+  Serial.print(&ldquo;Connected to &ldquo;);
+  Serial.println(ssid);
+  Serial.print(&ldquo;IP address: &ldquo;);
+  Serial.println(WiFi.localIP());
+  // MQTT setup
+  mqttClient.setServer(mqttBroker, 1883);
+  mqttClient.setCallback(callback);
+  // Led setup
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+unsigned long lastMsg = 0;
+char msg[50];
+void loop() {
+  // Check the current button state
+  bool currentState = digitalRead(buttPin);
+  // Check if we are still connected to the MQTT broker
+  if (!mqttClient.connected()) {
+    mqttConnect();
+  }
+  // Let PubSubClient library do his magic
+  mqttClient.loop();
+  // Add your publish code here --------------------
+  // OPTION 1 &ndash; Publish based on events
+  if (currentState != buttState) {
+      buttState = currentState;  <br />
+      snprintf (msg, 50, &ldquo;%i&rdquo;, buttState);    <br />
+      mqttClient.publish(topicToPub, msg);
+  }
+  // OPTION 2 &ndash; Publish based on Timer
+  // Only publish every 5 seconds
+  unsigned long now = millis();
+  if (now - lastMsg &gt; 5000) {<br />
+    lastMsg = now;
+    snprintf (msg, 50, &ldquo;%ld - hello again!&rdquo;, now);
+    Serial.print(&ldquo;Publish message: &ldquo;);
+    Serial.println(msg);<br />
+    mqttClient.publish(topicToPub, msg);
+  }
+  //-----------------------------------------------
+}</p>
+</blockquote>
                 
                   
                     
