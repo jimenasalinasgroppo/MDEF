@@ -224,3 +224,9 @@ We started this week with an introduction by Eduardo on 3D printing and 3D scann
 
 ###**Micro challenge 5** 3D printing and scanning
 xxxx
+
+## Week 3 - Day 2
+Today's class Victor shared information about the origin of the internet and helped debunk myths about how the "cloud" works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like. 
+
+###**Micro challenge 6** XXXX
+xxxx
