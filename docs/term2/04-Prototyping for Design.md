@@ -223,12 +223,18 @@ I am looking forward to using our Perception board with teenagers and seeing how
 We started this week with an introduction by Eduardo on 3D printing and 3D scanning technologies. We were exposed to a recap of the history of 3D printing and given an overview of different ways to engage with 3D technology nowadays. We were also provided with actionable tips to 3D scan ourselves using software that is freely available and understanding what we can do with 3D scanned data (i.e. understand volume of material we require after 3D scan).
 
 ###**Micro challenge 5** 3D printing and scanning
-xxxx
+For this challenge I chose to 3D print a pencil holder looking at 3D libraries available online with files ready for printing. I chose Thingverse because it had a variety of options and I was looking to print something functional that I would intentionally use at home and would therefore not be wasteful.
+
+I then had to install Windows 3D viewer to be able to preview the files and make modifications so it could be printed at IAAC.
+
+For 3D scanning I used the app ... xxxx
 
 ## Week 3 - Day 2
 Today's class Victor shared information about the origin of the internet and helped debunk myths about how the "cloud" works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like.
 
 ###**Micro challenge 6** Connecting Arduino to wifi server
+
+For this micro challenge I worked with Ariel trying to set up the Arduino to the server. We inputted the code listed below.
 
 > This is the code I inputted into Arduino #include <WiFi.h> #include <PubSubClient.h>
 const char* ssid = "Iaac-Wifi";
@@ -328,3 +334,5 @@ void loop() {
   }
   //-----------------------------------------------
 }
+
+One of the challenges we had was connecting to the correct Wifi and the correct IP address. We had to iterate the numbers to get the correct numbers a couple of times and the code wouldn't run. We were then successful in connecting and created a channel called "Ariel".
