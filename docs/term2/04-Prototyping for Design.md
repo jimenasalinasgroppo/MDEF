@@ -250,7 +250,7 @@ For printing, we did a first try with Wen and Sami and we had help from someone 
 ![](../images/MT02/3dprint1.jpeg)
 > Waiting for the ring to print.
 
-For 3D scanning I used the app Polycam.
+For 3D scanning I used the app Polycam. I realized early on that the ring's size is too small for scanning so I tried scanning the ring with my hand to be able to get a correct scan.
 
 ## Week 3 - Day 2
 Today's class Victor shared information about the origin of the internet and helped debunk myths about how the "cloud" works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like.
