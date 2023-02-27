@@ -242,7 +242,15 @@ I then had to install Windows 3D viewer to be able to preview the files and make
 ![](../images/MT02/3dscan4.jpeg)
 > It was more time-efficient with only 7 minutes to print.
 
-For 3D scanning I used the app ... xxxx
+For printing, we did a first try with Wen and Sami and we had help from someone from Fab Lab. We had to change the temperature to 215 from 200 degrees celsius and change the quality from Low to Standard. This allowed us to print correctly.
+
+![](../images/MT02/3dprint.jpeg)
+> We set up the printer using Auto settings.
+
+![](../images/MT02/3dprint1.jpeg)
+> Waiting for the ring to print.
+
+For 3D scanning I used the app Polycam.
 
 ## Week 3 - Day 2
 Today's class Victor shared information about the origin of the internet and helped debunk myths about how the "cloud" works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like.
