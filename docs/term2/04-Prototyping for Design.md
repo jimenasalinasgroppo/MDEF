@@ -225,7 +225,22 @@ We started this week with an introduction by Eduardo on 3D printing and 3D scann
 ###**Micro challenge 5** 3D printing and scanning
 For this challenge I chose to 3D print a pencil holder looking at 3D libraries available online with files ready for printing. I chose Thingverse because it had a variety of options and I was looking to print something functional that I would intentionally use at home and would therefore not be wasteful.
 
+![](../images/MT02/3dscan.jpeg)
+> I first started looking up for vases online that had organic shapes in the edges.
+
 I then had to install Windows 3D viewer to be able to preview the files and make modifications so it could be printed at IAAC. I installed Cura on my computer following the Fab Lab Video were Julia shows the instructions on how to 3D print. I sliced my original pencil holder but it showed 3 hours to print so I iterated to picking another easier and smaller object. I chose a ring.
+
+![](../images/MT02/3dscan1.jpeg)
+> I first started looking up for vases online that had organic shapes in the edges.
+
+![](../images/MT02/3dscan2.jpeg)
+> I first started looking up for vases online that had organic shapes in the edges.
+
+![](../images/MT02/3dscan3.jpeg)
+> I first started looking up for vases online that had organic shapes in the edges.
+
+![](../images/MT02/3dscan4.jpeg)
+> I first started looking up for vases online that had organic shapes in the edges.
 
 For 3D scanning I used the app ... xxxx
 
