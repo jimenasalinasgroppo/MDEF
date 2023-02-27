@@ -225,7 +225,7 @@ We started this week with an introduction by Eduardo on 3D printing and 3D scann
 ###**Micro challenge 5** 3D printing and scanning
 For this challenge I chose to 3D print a pencil holder looking at 3D libraries available online with files ready for printing. I chose Thingverse because it had a variety of options and I was looking to print something functional that I would intentionally use at home and would therefore not be wasteful.
 
-I then had to install Windows 3D viewer to be able to preview the files and make modifications so it could be printed at IAAC.
+I then had to install Windows 3D viewer to be able to preview the files and make modifications so it could be printed at IAAC. I installed Cura on my computer following the Fab Lab Video were Julia shows the instructions on how to 3D print. I sliced my original pencil holder but it showed 3 hours to print so I iterated to picking another easier and smaller object. I chose a ring.
 
 For 3D scanning I used the app ... xxxx
 
@@ -235,6 +235,9 @@ Today's class Victor shared information about the origin of the internet and hel
 ###**Micro challenge 6** Connecting Arduino to wifi server
 
 For this micro challenge I worked with Ariel trying to set up the Arduino to the server. We inputted the code listed below.
+
+![](../images/MT02/network1.jpeg)
+> We embedded the code listed below.
 
 > This is the code I inputted into Arduino #include <WiFi.h> #include <PubSubClient.h>
 const char* ssid = "Iaac-Wifi";
@@ -336,3 +339,9 @@ void loop() {
 }
 
 One of the challenges we had was connecting to the correct Wifi and the correct IP address. We had to iterate the numbers to get the correct numbers a couple of times and the code wouldn't run. We were then successful in connecting and created a channel called "Ariel".
+
+![](../images/MT02/network2.jpeg)
+> We were successful in connecting.
+
+![](../images/MT02/network.jpeg)
+> This is what the connections looked like from afar.
