@@ -231,16 +231,16 @@ For this challenge I chose to 3D print a pencil holder looking at 3D libraries a
 I then had to install Windows 3D viewer to be able to preview the files and make modifications so it could be printed at IAAC. I installed Cura on my computer following the Fab Lab Video were Julia shows the instructions on how to 3D print. I sliced my original pencil holder but it showed 3 hours to print so I iterated to picking another easier and smaller object. I chose a ring.
 
 ![](../images/MT02/3dscan1.jpeg)
-> I first started looking up for vases online that had organic shapes in the edges.
+> I then opened the file on Ultimaker cura.
 
 ![](../images/MT02/3dscan2.jpeg)
-> I first started looking up for vases online that had organic shapes in the edges.
+> I had to iterate the chosen file because of its size. To print this file it would take 4 hours 27 minutes.
 
 ![](../images/MT02/3dscan3.jpeg)
-> I first started looking up for vases online that had organic shapes in the edges.
+> This ring was the chosen alternative.
 
 ![](../images/MT02/3dscan4.jpeg)
-> I first started looking up for vases online that had organic shapes in the edges.
+> It was more time-efficient with only 7 minutes to print.
 
 For 3D scanning I used the app ... xxxx
 
