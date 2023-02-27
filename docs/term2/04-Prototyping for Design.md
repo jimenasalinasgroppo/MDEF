@@ -344,4 +344,4 @@ One of the challenges we had was connecting to the correct Wifi and the correct 
 > We were successful in connecting.
 
 ![](../images/MT02/network.jpeg)
-> This is what the connections looked like from afar.
+> Some messages we received from Victor.
