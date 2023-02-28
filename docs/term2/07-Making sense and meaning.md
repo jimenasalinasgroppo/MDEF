@@ -4,6 +4,7 @@ hide:
 ---
 
 # Making sense and meaning
+During these seminars we were challenged to xxxxx
 
 ## Essay
 
