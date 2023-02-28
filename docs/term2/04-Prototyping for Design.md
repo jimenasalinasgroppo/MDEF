@@ -250,12 +250,12 @@ For printing, we did a first try with Wen and Sami and we had help from someone 
 ![](../images/MT02/3dprint1.jpeg)
 > Waiting for the ring to print.
 
-![](../images/MT02/ring1.jpeg)
+![](../images/MT02/ring2.jpeg)
 > Printed ring.
 
 For 3D scanning I used the app Polycam. I realized early on that the ring's size is too small for scanning so I tried scanning the ring with my hand to be able to get a correct scan.
 
-![](../images/MT02/ring2.jpeg)
+![](../images/MT02/ring1.jpeg)
 > Failed scan of the ring after several attempts and trying out different apps.
 
 This is my end result. It was a failure because it is too small and I tried adding a big object underneath but was still unable to properly scan.
