@@ -250,7 +250,20 @@ For printing, we did a first try with Wen and Sami and we had help from someone 
 ![](../images/MT02/3dprint1.jpeg)
 > Waiting for the ring to print.
 
+![](../images/MT02/ring1.jpeg)
+> Printed ring.
+
 For 3D scanning I used the app Polycam. I realized early on that the ring's size is too small for scanning so I tried scanning the ring with my hand to be able to get a correct scan.
+
+![](../images/MT02/ring2.jpeg)
+> Failed scan of the ring after several attempts and trying out different apps.
+
+This is my end result. It was a failure because it is too small and I tried adding a big object underneath but was still unable to properly scan.
+
+So instead I tried 3D scanning a bigger different object to see if I would be successful this time around.
+
+<iframe src="https://drive.google.com/file/d/1nDOwZ5aHmfpCwS8ViRLM8cgDA6FaKES8/preview" width="640" height="480" allow="autoplay"></iframe>
+> I then tried scanning my water bottle and camera bag. Because of the bigger size, I got a much closer scan.
 
 ## Week 3 - Day 2
 Today's class Victor shared information about the origin of the internet and helped debunk myths about how the "cloud" works or how servers and data is actually stored physically and mostly in California. What resonated with me most were examples such as Gemini network or Proton email that helped me broaden my horizons as to what safe navigation or data sharing can look like.
@@ -368,3 +381,9 @@ One of the challenges we had was connecting to the correct Wifi and the correct 
 
 ![](../images/MT02/network.jpeg)
 > Some messages we received from Victor.
+
+## Week 4 - Day 1
+xxxxxx
+
+###**Micro challenge 7** XXXX
+xxxxxx
