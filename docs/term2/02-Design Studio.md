@@ -274,6 +274,7 @@ We sent our workshop structure to Karin via email to gather her reactions. You c
 We held the first session of the 2-day workshop today. We used the session to build trust and introduce the subject matter on ecofeminism. The session involved introducing the them then reading out loud 4 different poems from The Intersectional Environmentalist, Rupi Kaur and Maya Angelou. There was some area for improvement and some highlights listed below.
 
 **Highlights:**
+
 - It was great to build on existing behaviors, such as reading texts out loud
 
 - Showing vulnerability ourselves and personal stories is key to creating a safe space.
