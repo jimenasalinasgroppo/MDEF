@@ -267,8 +267,11 @@ We sent our workshop structure to Karin via email to gather her reactions. You c
 [This document reflects our workshop structure.](https://docs.google.com/document/d/1gp5axbDmoieLNq_LkXEXzMSlXDVORx4qOH6loN1W1M0/edit?usp=sharing)
 
 ###Workshop - 2 sessions
+
 **Workshop day 1 - February 23rd**
+
 **Participants:** 9 women
+
 2 volunteers + Karin (Javiera and Maria Jose)
 
 We held the first session of the 2-day workshop today. We used the session to build trust and introduce the subject matter on ecofeminism. The session involved introducing the them then reading out loud 4 different poems from The Intersectional Environmentalist, Rupi Kaur and Maya Angelou. There was some area for improvement and some highlights listed below.
@@ -305,11 +308,33 @@ Tomorrow I am looking forward to getting our hands dirty and making the collages
 
 **24th February Second day collage creation**
 
+**Workshop day 2 - February 24th**
+
+**Participants:** 6 women
+
+1 volunteer
+
 Today was the second day of the collage creation workshop at Mamás que Leen. We felt much more confident and less nervous this second time even though we had a few material constraints (forgot to bring more scissors, didn’t cut the paper that we were using as base previously). The women also felt much more comfortable participating (one chose to carry on learning Spanish) and the other 6 attendants joined the collage creation. None of them had ever done a collage before and it felt like the appropriate art technique to imagine futures and relations with words. Each woman picked a set of 2 words from the poems we had read out loud the previous day. Some word combinations that were chosen “tranqulidad + calma”, “poder + cuidado”, “abuelos amor”.
 
 Carolina spoke a blend of Portuguese + Spanish and to me that also set the perfect tone since we wanted to create a space of vulnerability, showing how we are all migrants in Spain and how we are all here to learn. We struggled with the space setting since we didn’t want to be placed in a hierarchically higher position than them. Quite the contrary, we wanted to learn from them and hear what they had to say.
 
 They started cutting some of the images they picked and with very little needed guidance they each made their own collage. It was beautiful to see their creations. They also were very happy to learn that we would scan them and place the collages in a fanzine.
+
+These are the words each participant chose:
+
+- Karin (fundadora) - Esfuerzo, cambios
+
+- Khadiza - Tierra, poder
+
+- Souad - Abuela, ciudado, amor
+
+- Lina - Poder, Protección, Placer, Capacidad, Comenzar, Poder
+
+- Kazi Sonia Alam - Poder, Cuidado
+
+- Kulwinder Kaur - Plantas y jardín
+
+- Bouchra - tranquilidad y paz
 
 [Materials we printed and used](https://docs.google.com/presentation/d/1ajoNcLoOjwBly_cq1mJWg2CRuoH_6qn41NJln3d8HXY/edit?usp=sharing)
 
