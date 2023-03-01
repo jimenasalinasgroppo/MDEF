@@ -311,6 +311,8 @@ Carolina spoke a blend of Portuguese + Spanish and to me that also set the perfe
 
 They started cutting some of the images they picked and with very little needed guidance they each made their own collage. It was beautiful to see their creations. They also were very happy to learn that we would scan them and place the collages in a fanzine.
 
+[Materials we printed and used](https://docs.google.com/presentation/d/1ajoNcLoOjwBly_cq1mJWg2CRuoH_6qn41NJln3d8HXY/edit?usp=sharing)
+
 [Documented audio files from both days.](https://drive.google.com/drive/folders/1jg9AJ1SIIFjpF2CnD4D3k0jryACqunLk?usp=share_link)
 
 ![](../images/MT02/mmql.jpeg)
