@@ -265,3 +265,65 @@ We made collaborative Google Slides files to crowdsource images for the collage 
 We sent our workshop structure to Karin via email to gather her reactions. You can read the workshop structure here.
 
 [This document reflects our workshop structure.](https://docs.google.com/document/d/1gp5axbDmoieLNq_LkXEXzMSlXDVORx4qOH6loN1W1M0/edit?usp=sharing)
+
+###Workshop - 2 sessions
+**Workshop day 1 - February 23rd**
+**Participants:** 9 women
+2 volunteers + Karin (Javiera and Maria Jose)
+
+We held the first session of the 2-day workshop today. We used the session to build trust and introduce the subject matter on ecofeminism. The session involved introducing the them then reading out loud 4 different poems from The Intersectional Environmentalist, Rupi Kaur and Maya Angelou. There was some area for improvement and some highlights listed below.
+
+**Highlights:**
+- It was great to build on existing behaviors, such as reading texts out loud
+
+- Showing vulnerability ourselves and personal stories is key to creating a safe space.
+
+- Building trust to later ask them to write words on their own maternal tongues was also important.
+
+- Creating poems that are short and easy to understand is key.
+
+- Karin’s role is vital. She already has trust with them and can dig deeper or get them to participate more.
+
+- There were some very deep discussions around etymologies of words, such as “capullo” or “kaur”. Everyone sharing how they say specific words in their own maternal tongue was also a special moment in the dynamic.
+
+- They’ve never done collage before so they are looking forward to the crafts moment.
+
+One personal learning for me was to not over plan the actual workshop and allow for improvisation and for things not being perfect. While this is our first collage intervention we still have time to do a different version with the same community and they are not expecting perfection out of our workshop with them. They are valuing the time and effort we are investing in them and the possibility of learning a new craft and that is something we should honor.
+
+**Improvements:**
+- Space arrangement. We did not have the time or freedom to make a circular space.
+
+- Asking them how they are feeling didn’t work because of the space arrangement and also felt forced.
+
+- We could’ve explained what is a collage earlier on for greater clarity.
+
+- We needed to print more copies of the poems so they could take home.
+
+Tomorrow I am looking forward to getting our hands dirty and making the collages.
+
+**24th February Second day collage creation**
+
+Today was the second day of the collage creation workshop at Mamás que Leen. We felt much more confident and less nervous this second time even though we had a few material constraints (forgot to bring more scissors, didn’t cut the paper that we were using as base previously). The women also felt much more comfortable participating (one chose to carry on learning Spanish) and the other 6 attendants joined the collage creation. None of them had ever done a collage before and it felt like the appropriate art technique to imagine futures and relations with words. Each woman picked a set of 2 words from the poems we had read out loud the previous day. Some word combinations that were chosen “tranqulidad + calma”, “poder + cuidado”, “abuelos amor”.
+
+Carolina spoke a blend of Portuguese + Spanish and to me that also set the perfect tone since we wanted to create a space of vulnerability, showing how we are all migrants in Spain and how we are all here to learn. We struggled with the space setting since we didn’t want to be placed in a hierarchically higher position than them. Quite the contrary, we wanted to learn from them and hear what they had to say.
+
+They started cutting some of the images they picked and with very little needed guidance they each made their own collage. It was beautiful to see their creations. They also were very happy to learn that we would scan them and place the collages in a fanzine.
+
+Documented audio from both days.
+Some photos of the intervention.
+
+Karin the founder gave us tulips as a gift for doing the workshop and each participant wrote out our names in their mother tongue. We honestly felt so grateful and that we were receiving much more than we were giving to them. For me it was one of those moments were I felt blessed to be part of something and that I would be willing to repeat this activity even if I were not part of MDEF.
+
+When we were walking back home, me and Carolina talked about this feeling of us receiving so much more than we gave and also how these communities that are bottom up are usually much more generous than other more formal ones. We questioned how we can design experiences or interventions where the facilitators (us) are not gaining more out of the exchange. This may benefit our academic careers and help us generate design knowledge, but what we have given to them is enough? We personally feel we are gaining more. Carolina put down our thoughts quite beautifully on her Instagram story.
+
+> Mamas que leen is an association that teaches immigrant women in
+El Raval how to read and write in Spanish. We did a co-design exercise on the connection between nature and women. A moment to defy the status quo of the daily life and imagine ecofeminist futures.
+We learned much more from them than they learned from us. The exchange was not equal. And we are trying to learn how we can build spaces where the exchange of knowledge draws from both sides equally (facilitator and participants). In the photo I am in a different baseline, we tried to diffuse this physical difference (that so often penetrates the perception of someone) by sitting down during the workshop and sharing our own experiences on the different topics. Our role there was not the role of the teacher. It was not easy as the structures of a hierarchy based education (top-down) are deeply infiltrated into everything, from mindsets, table arrangements to available space to freely move and defy stillness.
+We were struggling to adapt our methods to a space that was created for strict teaching structures. By trying to imagine this new futures we were seeing the present struggles more thoughtfully.
+
+To me one of the takeaways was also how to honor that beautiful space that is Mamás que Leen. If we were to turn this into a language learning app all the beauty and meaningfulness of the space would be lost. I think the women there value the horizontal space with other women, the cultural and language exchange and also the rich debates they have on topics related to feminism, women’s rights, sexual education. I was pleasantly surprised as to how Karin talks with ease about these subjects with them without imposing her point of view and how these important subjects emerge just on day-to-day Spanish lessons. I hope Mamás que leen continues as a space next trimester to see how our intervention can evolve. Me and Carolina were also discussing how we are both interesting in the financial side of supporting these organizations. Can we find ways to help Karin find volunteers? Can we amplify the stories of these women and in turn help them generate financial funds to keep going?
+
+###FemFabrik
+Me and Carolina started working on the exhibition for FemFabrik. We wanted to give space to the collages and not to overdesign what is around them. We designed a mock up of what the structure would look like and using Fab lab materials (cardbooard and vinyl cutting).
+
+This is what our design looks like.
