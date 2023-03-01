@@ -292,6 +292,7 @@ We held the first session of the 2-day workshop today. We used the session to bu
 One personal learning for me was to not over plan the actual workshop and allow for improvisation and for things not being perfect. While this is our first collage intervention we still have time to do a different version with the same community and they are not expecting perfection out of our workshop with them. They are valuing the time and effort we are investing in them and the possibility of learning a new craft and that is something we should honor.
 
 **Improvements:**
+
 - Space arrangement. We did not have the time or freedom to make a circular space.
 
 - Asking them how they are feeling didn’t work because of the space arrangement and also felt forced.
