@@ -383,7 +383,7 @@ One of the challenges we had was connecting to the correct Wifi and the correct 
 > Some messages we received from Victor.
 
 ## Week 4 - Day 1
-Today Oscar showed us different ways to code a LED light using the ESP32 feather board. Also integrating pre existing libraries to generate different non-uniform ways to make the LED light blink. The class was very practical. We also learned about MQTT-Broker servers and did a collective exercise of synchronizing our LED lights.
+Today Oscar showed us different ways to code a LED light using the ESP32 feather board. Also integrating pre existing libraries to generate different non-uniform ways to make the LED light blink. The class was very practical. We also learned about MQTT-Broker servers and did a collective exercise of synchronizing our LED lights. Another concept that brought my attention was "Raspberry pi" (Single Board Computer), which is a very simple computer or a more complex Arduino.
 
 ###**Micro challenge 7** XXXX
 xxxxxx
