@@ -309,8 +309,13 @@ Carolina spoke a blend of Portuguese + Spanish and to me that also set the perfe
 
 They started cutting some of the images they picked and with very little needed guidance they each made their own collage. It was beautiful to see their creations. They also were very happy to learn that we would scan them and place the collages in a fanzine.
 
-Documented audio from both days.
-Some photos of the intervention.
+[Documented audio files from both days.](https://drive.google.com/drive/folders/1jg9AJ1SIIFjpF2CnD4D3k0jryACqunLk?usp=share_link)
+
+![](../images/MT02/mmql.jpeg)
+
+![](../images/MT02/mmql1.jpeg)
+
+![](../images/MT02/mmql2.jpeg)
 
 Karin the founder gave us tulips as a gift for doing the workshop and each participant wrote out our names in their mother tongue. We honestly felt so grateful and that we were receiving much more than we were giving to them. For me it was one of those moments were I felt blessed to be part of something and that I would be willing to repeat this activity even if I were not part of MDEF.
 

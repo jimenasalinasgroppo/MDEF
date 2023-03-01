@@ -383,7 +383,7 @@ One of the challenges we had was connecting to the correct Wifi and the correct 
 > Some messages we received from Victor.
 
 ## Week 4 - Day 1
-xxxxxx
+Today Oscar showed us different ways to code a LED light using the ESP32 feather board. Also integrating pre existing libraries to generate different non-uniform ways to make the LED light blink. The class was very practical. We also learned about MQTT-Broker.
 
 ###**Micro challenge 7** XXXX
 xxxxxx
