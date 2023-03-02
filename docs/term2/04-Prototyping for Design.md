@@ -393,5 +393,11 @@ This is our class with the lights off synching our Arduino LED lights together.
 ![](../images/MT02/leds.jpeg)
 > To me this was a very compelling and easy to understand step by step to using LEDs. During the microchallenge, we incorporated LEDs and had a hard time just turning them on in the most basic function.
 
+<iframe src="https://drive.google.com/file/d/1lZoKBQThtYoYVjHknKmPBWkmZRpmmNTA/preview" width="640" height="480" allow="autoplay"></iframe>
+> LED light slowly burning.
+
+<iframe src="https://drive.google.com/file/d/1Cc5l2Oxb43Y6dX0g5hqeNdXkqsLtzpFH/preview" width="640" height="480" allow="autoplay"></iframe>
+> Synched LED lights being operated through server.
+
 ## Week 4 - Day 2
 Edu gave a lecture on CNC machines and types of motors. We were given tips on how to manage the files, how to operate the machine and how to deal with the material and cutting with the tool. We also learned about processes such as nesting that avoids material waste (using online programs such as svgnest). He also deep dived on security and how this is vital when working with CNC.
