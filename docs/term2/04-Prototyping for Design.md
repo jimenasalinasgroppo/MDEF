@@ -387,3 +387,11 @@ Today Oscar showed us different ways to code a LED light using the ESP32 feather
 
 ###**Micro challenge 7** Synching LED lights through Arduino Server
 During the class, we learned different modes of turning on LED lights such as blink and candle.
+
+This is our class with the lights off synching our Arduino LED lights together.
+
+![](../images/MT02/leds.jpeg)
+> To me this was a very compelling and easy to understand step by step to using LEDs. During the microchallenge, we incorporated LEDs and had a hard time just turning them on in the most basic function.
+
+## Week 4 - Day 2
+Edu gave a lecture on CNC machines and types of motors. We were given tips on how to manage the files, how to operate the machine and how to deal with the material and cutting with the tool. We also learned about processes such as nesting that avoids material waste (using online programs such as svgnest). He also deep dived on security and how this is vital when working with CNC.
