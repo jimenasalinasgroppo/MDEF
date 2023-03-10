@@ -57,3 +57,5 @@ I asked chat GPT to simulate a debate between Raj Patel, Gregory Bateson and a h
 > **Gregory Bateson:** I agree that we should be rethinking design systems to better serve people and the planet. We should also be looking for ways to make design systems more responsive to changing circumstances and to feedback from users so that they can be more effective in meeting the needs of those they are designed to serve. We should also be looking for ways to make design systems more equitable and inclusive, so that all users have access to the same resources and opportunities.
 
 > **Masters Design Student:** I agree that we should be reimagining design systems to better serve people and the planet. We could look to nature for inspiration and design systems that are holistically integrated and self-sustaining. We should also be looking for ways to make design systems more creative, innovative, and adaptive. We should also ensure that design systems are accessible and equitable, so that everyone can benefit from their use.
+
+*1960 words*
