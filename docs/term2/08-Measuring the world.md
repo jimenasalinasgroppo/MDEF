@@ -8,6 +8,9 @@ Measuring the world seminar was very hands-on to begin to comprehend data captur
 
 ## Group Assignment - Sparking curiosity
 
-As a group, we were interested in curiosity as an overarching theme but had trouble translating such a broad abstract concept into a tangible indicator that we could measure in only two days.
+As a group, we were interested in curiosity as an overarching theme but had trouble translating such a broad abstract concept into a tangible indicator that we could measure in only two days. While we started with sparking curiosity as a concept, during the process we realzied that curiosity is sometimes very used for phishing and scamming as human curiosity is used as a way to get data without a person's consent.
 
-This was our sensemaking journal. https://hackmd.io/6pe4C8EkSCmeJyPlKlmLGQ?both
+![](../images/MT02/compliment.jpeg)
+> People are willing to scan QR codes, despite the risks, for just a free compliment.
+
+[This was our sensemaking journal.](https://hackmd.io/6pe4C8EkSCmeJyPlKlmLGQ?both)
