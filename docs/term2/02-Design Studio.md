@@ -90,7 +90,11 @@ The workshop lasted 45 minutes. The teachers were very open to what we proposed 
 
 One thing we noticed we could improve was help teachers feel more involved with the activity. We felt that teachers felt they could take a break and rest from their busy schedules but were also very interested and curious of the content. Incorporating teachers more actively can be something we can improve later on.
 
-In preparation for the activity, we designed a short presentation that would serve as an introduction (who we are, our backgrounds, where we come from and introduction to climate change and gender equality). You can check the attached presentation here with our group findings and you can hear some of their stories from this session here.
+In preparation for the activity, we designed a short presentation that would serve as an introduction (who we are, our backgrounds, where we come from and introduction to climate change and gender equality).
+
+- [You can check the attached presentation here with our group findings](https://docs.google.com/presentation/d/1Hkj7H9bcod0-XRHAT7gP9X1Z5cYaU7jsKe10Cn9XK0s/edit?usp=sharing)
+
+- [You can hear some of their stories from this session here.](https://drive.google.com/file/d/1pZM9j4HIuR60JDaCzX0uBr50ZseyZjDQ/view)
 
 ###Mapped improvements for next iterations:
 - Show collage cutouts later since children are easily distracted. Once they saw the collage cut outs they stopped thinking of the futures and focused more on the images themselves.
@@ -361,3 +365,126 @@ To me one of the takeaways was also how to honor that beautiful space that is Ma
 Me and Carolina started working on the exhibition for FemFabrik. We wanted to give space to the collages and not to overdesign what is around them. We designed a mock up of what the structure would look like and using Fab lab materials (cardbooard and vinyl cutting).
 
 This is what our design looks like.
+
+###Material prep for Fem Fabrik
+We experienced a few setbacks during the production and set up of our exhibition because there was an error in scheduling MDEF courses that week. This meant we were only left with Friday afternoon for laser cutting, vinyl cutting and printing. While we were initially frustrated, we managed to iterate the design, set up the files in Rhino and have everything ready for the event.
+
+###Fem Fabrik - March 11th
+On Saturday morning we arrived to have all the materials set up during the event. It was sunny and windy, which meant we struggled with setting up the exhibit space but were finally successful. I found it was a very inspiring event, focused on women and non-binary humans. The energy felt alive in the event and many assistants reached out to us to find out more about the interventions. They also found the collages to be quite beautiful. This was a key moment for us to share back our reactions from the intervention and also help Mamas que Leen reach a bigger audience. We shared photos with Mamas que leen so they could also share on their own social media channels.
+The main takeaway of the event for me was that this intervention was the only one that addressed women in vulnerable situations and from non European countries. The assistants to the event we talked to were intrigued by the collage results and also started a debate about women’s rights in the SWANA region. Representing the voices of all women is important, especially of those that  cannot afford the time and space to attend these types of events. We were particularly cautious of not making our voices be more important than those of las “Mamás que leen”, which is why the collages were at the forefront of the exhibition space.
+
+[See a compilation of the collages in PDF.](https://drive.google.com/file/d/1sg5YMHlFUE_KE6EyM3hACHNTY3WaRrgy/view)
+
+[We also made them mobile phone wallpapers.](https://drive.google.com/drive/u/1/folders/1h_Xs0n1CqAxntPi2sAohTZ6JyfLRnilF)
+
+##Other activities explored - NonViolent Communication course, salary negotiation experiment and Bologna’s Children Book Fair
+
+###NonViolent Communication Course at Horta Guinardó
+On January 10th I attended a Non Violent Communication Course I found through Meetup. My intention was to know more about the methodology and engage with experts that could help me develop a chatbot that uses GPT-3 to heal violent relationships and trauma. I was surprised at the amount of men that were there hoping to have healthier relationships not only with their partners but in general.
+
+Mixed crowd, 30-40 range
+Conducted by expert on NVC and on hiking (2 people)
+!5 people attended
+Mixed backgrounds, some were football coaches, consultants. There were 2 men willing to unlearn biases and willing to manage their tempers.
+They organize 2 day retreats in nature
+
+**Workshop takeaways:**
+
+- Content itself - very useful and interesting tips to apply in daily life
+
+- Importance of relation to nature when wanting to unlearn violence
+
+- Importance of finding strategies that best suit yourself
+
+- Amount of people interested and willing to learn more, older age too
+
+- Naming emotions as an exercise and exerting control over your own reactions as one of the keys to Non Violent Communication.
+
+- More space and time needed for more depth.
+
+###Exploring GPT3 to combat gender inequality (healing trauma and salary negotiations)
+For this exploration I will be working with Paula. Paula is an amazing Design Lead with background in political sciences that has worked in initiatives to prevent sexual harassment and to financially empower women through microloans. We will be playing remotely with Chat GPT3 to explore alternative uses of this technology and suggest how this technology can also be better used, considering ethical constraints.
+
+I had a co-creating design session with Paula on February 3rd. We are interested in developing some type of product with a gender lens.
+[You can check out this initial presentation with our emerging ideas.](https://docs.google.com/presentation/d/1hbo4nS5ldI8cpnK8bcHrbeUeCQLgpOQ4y1B9_5J9UEg/edit)
+
+
+We explored using chat GPT3 for rehearsing important conversations. Some initial learnings from our exploration:
+
+- Chat GPT3 is not good at providing information beyond what is inputted.
+Does not offer skills for managing conversations
+
+- Some interesting findings when inputting CVs with job descriptions
+
+- Can write cover letters
+
+- Can outline talking points to make a convincing argument
+
+- Focus on salary negotiations might be a good starting point considering limitations of the tool
+
+- You can input performance reviews, emails from bosses, chat conversations
+
+We will launch a quick survey to gather ideas on what makes a good salary negotiation.
+
+For the survey, I designed an airtable form linked to an airtable gallery card view to enable users to submit answers but also to openly visualize other users’ responses. This is a first probe to see if people are willing to share salary increases publicly and openly, and to see if this is a tool they may also use in these types of negotiations. After publicly sharing the link on Linkedin, with personal colleagues and with communities of designers in Latin America, our next iteration will be to recommend Chat GPT3 use cases to have actual conversations around salary increase with their employers.
+
+Even though in my conversation with Tomas he mentioned to just deploy fast and maybe move on to a new experiment, I feel there is potential in these types of tools around salary negotiations, transparency and the potential for financial power being transferred back to women.
+
+**What do next steps for this look like?**
+
+- Measure traction of surveys and analyze patterns in data (what makes a good salary negotiation?)
+
+- Share GPT3 tools with community
+
+[You can see the results we got in this table.](https://www.google.com/url?q=https://airtable.com/shrmLGTJ1Wn4UMbAV/tblzaZkrZ4ZTHuwR6&sa=D&source=docs&ust=1678669313607413&usg=AOvVaw31eNB5fLmw47-1DwelgDlqw)
+
+**The release of the survey allowed me to craft these early insights:**
+
+- A lot of women realized they had never negotiated a salary before so they could not answer the survey.
+
+- Many men and women are scared of answering surveys because they might lose their job if the employer finds out.
+
+- Salary negotiation is not only taboo but is also penalized.
+
+- Women that did fill out the form had to design “hacks” to get their salary to be fair and readjusted. i.e. talk about type of contract, ask current employees on Linkedin.
+
+- Companies lie during the process and don’t disclose salaries.
+
+**Some opportunity areas:**
+
+- Design for hacks?
+
+- While tech can help, negotiating salaries has to do with managing culture, making allies and engaging key people in the org to support your raise.
+
+I chose to keep this intervention on standby to focus on the other two, but I may resume it in the last trimester.
+
+###Bologna Book Fair
+As an early activity to explore my interest in children’s books as a means to actively imagine the future with them, I attended the Bologna Book Fair with Wen as illustrators from March 6th to 8th. We also participated by submitting our personal illustrations on the Virtual Illustrators Wall. However, our focus was to be absorbed by the event itself and understand the publishing side of the business and get familiar with editorials all over the world.
+
+**Some emerging learnings for me were:**
+
+- The emerging genre of silent books (or wordless books)
+
+- Visual narratives that need no translators as they are designed to be understood without the use of words. Beautiful concept when thinking of imaging futures beyond language.
+
+- Emotional regulation and soft skills as key themes
+
+- Children are being actively taught to cope with difficult emotions and are no longer taboo. Alzheimers, depression, grief, war and even rape are some of the subject matters for children’s books. This was surprising to me because when I was younger these are topics that maybe TV shows for teenagers would target but never a cultural product designed for children.
+
+- Women’s representation - As the event coincided with March 8th, there was a dedicated section devoted to engaging women in publishers and representing women in different lenses.
+
+- LGBTQ representation, gender fluidity. These concepts are no longer taboo in certain European countries, though not the case for Asian, Easter and Latin American countries.
+
+- Using children’s books to talk about tough subjects, build bridges beyond language, engage children with the full human experience.
+
+###Exploring alternative represents
+Having absorbed the content from the Futures Talks, as well as my interventions for this second trimester, I feel an overall arch that unites these is using futures literacy with an ecofeminist lens. Solving gender inequalities is actually one of the most effective ways to help combat global warming, and notions of femininity and how it links to our perception of the Earth also relates to how we as humans are damaging the environment. It is quite difficult to separate these concepts and while I was initially not particularly interested in focusing on environment and ecologies, I have found myself immersed in this subject.
+In relation to the ways of drifting, I feel this Trimester I have had an expansive and a probing approach. Expansive because I have deliberately linked all my interventions to gender equality and probing because I have also allowed myself to flow and find interconnections with my classmates, even pushing some interventions that are more artistic (like the one I did with Carolina and Mamás que Leen).
+
+Due to this shift in my thinking, I have outlined an alternative present below.
+
+**Present continuities**
+Citizens in Barcelona like myself (and especially younger generations and migrants) don’t have allocated time, space or skills to actively imagine future scenarios that are optimistic and also daring. Crafting futures is typically reserved to spaces dominated by capitalist logics of extraction and exclusively reserved to privileged humans that have the space and time to monetize efforts to predict the future, without taking into consideration planetary wellbeing  (ecologies) or even the desire and needs of minorities (or feminist perspectives).
+
+**Alternative present**
+Citizens in Barcelona like myself (and especially younger generations and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective. Building futures is an active ongoing exercise that exists in education spaces, inside homes and in social gatherings through collage creation, story building and participatory games that welcome differences of perception and thought. This helps combat echo chambers and filter bubbles since the futures are created welcoming and exploring the complex nuances of difference of thought.

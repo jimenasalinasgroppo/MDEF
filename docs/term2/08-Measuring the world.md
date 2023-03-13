@@ -14,9 +14,11 @@ As a group, we were interested in curiosity as an overarching theme but had trou
 
 Critically evaluating what we did as a group, we realized that curiosity can take many angles and while we tried to focus on boredom and how that can trigger curiosity, we also realized that many angles of curiosity are not being measured by our chosen data collection methods.
 
-We got the feedback that we should've measured the amount of QR clicks relative to amount of humans in the space and also some interesting reflecctions regarding the need for boredom to trigger curiosity. One of my personal takeaways was Guillem's push that measuring data in situated educational contexts can just be triggers to sparking conversations around the subject and have interesting spaces of discussion.
+We got the feedback that we should've measured the amount of QR clicks relative to amount of humans in the space and also some interesting reflecctions regarding the need for boredom to trigger curiosity. One of my personal takeaways was Guillem's push that measuring data in situated educational contexts can just be triggers to sparking conversations around the subject and have interesting spaces of discussion. An interesting exploration was also playing around with Raspberry pi and being able to set it up to observe passersby.
 
 ![](../images/MT02/compliment.jpeg)
 > People are willing to scan QR codes, despite the risks, for just a free compliment.
+
+![](../images/MT02/pi.png)
 
 [This was our sensemaking journal.](https://hackmd.io/6pe4C8EkSCmeJyPlKlmLGQ?both)
