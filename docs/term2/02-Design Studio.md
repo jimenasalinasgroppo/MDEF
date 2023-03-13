@@ -197,13 +197,13 @@ We received the feedback from faculty to make the workshop more participatory in
 ###Perception Board (developed during First Fab Lab Challenge)
 This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children’s perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along an x and y spectrum to show how we felt in regards to certain topics.
 
-![](../images/MT02/pboard2.jpg)
+![](../images/MT02/pboard2.jpeg)
 
 We decided to go big on format to make it more accessible for children and to include emojis as a way to also start destigmatizing emotions.
 
 One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incorporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
 
-![](../images/MT02/pboard3.jpg)
+![](../images/MT02/pboard3.jpeg)
 
 We will test the product with the school we previously worked with but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
 
