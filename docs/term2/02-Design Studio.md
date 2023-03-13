@@ -477,7 +477,7 @@ As an early activity to explore my interest in children’s books as a means to 
 
 - Using children’s books to talk about tough subjects, build bridges beyond language, engage children with the full human experience.
 
-###Exploring alternative represents
+##Exploring alternative represents
 Having absorbed the content from the Futures Talks, as well as my interventions for this second trimester, I feel an overall arch that unites these is using futures literacy with an ecofeminist lens. Solving gender inequalities is actually one of the most effective ways to help combat global warming, and notions of femininity and how it links to our perception of the Earth also relates to how we as humans are damaging the environment. It is quite difficult to separate these concepts and while I was initially not particularly interested in focusing on environment and ecologies, I have found myself immersed in this subject.
 In relation to the ways of drifting, I feel this Trimester I have had an expansive and a probing approach. Expansive because I have deliberately linked all my interventions to gender equality and probing because I have also allowed myself to flow and find interconnections with my classmates, even pushing some interventions that are more artistic (like the one I did with Carolina and Mamás que Leen).
 
