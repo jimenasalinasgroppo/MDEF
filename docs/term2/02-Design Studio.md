@@ -178,6 +178,7 @@ After we introduced the collage cut outs, no children used the cut outs anymore.
 Children spent more time collaborating and listening to their peers when they didn’t have distracting elements.
 
 The end stories were more reflexive and of higher quality this time around. With the collage in the first iteration, they struggled incorporating all the elements and with no collages being shown, they could focus on their stories and adding details to the stories.
+
 Question for future iterations: If we choose not to use collage anymore, what would be the minimum viable prompts we would need to give children for better stories and more engagement? Is the template with the backdrop enough or is there any other element we can incorporate that adds to the experience?
 
 ###Some insights from the second iteration:
@@ -373,6 +374,10 @@ We experienced a few setbacks during the production and set up of our exhibition
 On Saturday morning we arrived to have all the materials set up during the event. It was sunny and windy, which meant we struggled with setting up the exhibit space but were finally successful. I found it was a very inspiring event, focused on women and non-binary humans. The energy felt alive in the event and many assistants reached out to us to find out more about the interventions. They also found the collages to be quite beautiful. This was a key moment for us to share back our reactions from the intervention and also help Mamas que Leen reach a bigger audience. We shared photos with Mamas que leen so they could also share on their own social media channels.
 The main takeaway of the event for me was that this intervention was the only one that addressed women in vulnerable situations and from non European countries. The assistants to the event we talked to were intrigued by the collage results and also started a debate about women’s rights in the SWANA region. Representing the voices of all women is important, especially of those that  cannot afford the time and space to attend these types of events. We were particularly cautious of not making our voices be more important than those of las “Mamás que leen”, which is why the collages were at the forefront of the exhibition space.
 
+![](../images/MT02/ffabrik.jpg)
+
+![](../images/MT02/ffabrik1.jpg)
+
 [See a compilation of the collages in PDF.](https://drive.google.com/file/d/1sg5YMHlFUE_KE6EyM3hACHNTY3WaRrgy/view)
 
 [We also made them mobile phone wallpapers.](https://drive.google.com/drive/u/1/folders/1h_Xs0n1CqAxntPi2sAohTZ6JyfLRnilF)
@@ -387,6 +392,9 @@ Conducted by expert on NVC and on hiking (2 people)
 !5 people attended
 Mixed backgrounds, some were football coaches, consultants. There were 2 men willing to unlearn biases and willing to manage their tempers.
 They organize 2 day retreats in nature
+
+![](../images/MT02/nvc.jpeg)
+![](../images/MT02/nvc1.jpeg)
 
 **Workshop takeaways:**
 
@@ -407,7 +415,6 @@ For this exploration I will be working with Paula. Paula is an amazing Design Le
 
 I had a co-creating design session with Paula on February 3rd. We are interested in developing some type of product with a gender lens.
 [You can check out this initial presentation with our emerging ideas.](https://docs.google.com/presentation/d/1hbo4nS5ldI8cpnK8bcHrbeUeCQLgpOQ4y1B9_5J9UEg/edit)
-
 
 We explored using chat GPT3 for rehearsing important conversations. Some initial learnings from our exploration:
 
