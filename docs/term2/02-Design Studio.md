@@ -194,7 +194,36 @@ Diversity (ie. New species, interspecies schools)
 
 We received the feedback from faculty to make the workshop more participatory in the sense that children are given increased agency, new facilitation roles and we let go of control to see where the activity takes us and how this can influence their imagined futures. We will also talk to a school psychologist for a future iteration. Ask ourselves, how can this feel co-created rather than imposed?
 
-## Second Trimester Intervention 2 - Exploring futures literacy with Mamás que leen
+###Perception Board (developed during First Fab Lab Challenge)
+This week I worked with Ariel and Wen to develop a physical product that would allow us to engage with children’s perceptions in relation to 3 different fields: climate change, gender equality and mental health. We were inspired by analog data visualizations and an exercise we did with Holon during the Community Engagement week where we had to physically move our body along an x and y spectrum to show how we felt in regards to certain topics.
+
+![](../images/MT02/pboard2.jpg)
+
+We decided to go big on format to make it more accessible for children and to include emojis as a way to also start destigmatizing emotions.
+
+One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incorporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
+
+![](../images/MT02/pboard3.jpg)
+
+We will test the product with the school we previously worked with but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
+
+One of the highlights for me was how fast we aligned on the subject matter and concept of the proposal. As early feedback we were suggested to incorporate electronics to our product that would be fabricated mostly using laser cutting. We used the first day to brainstorm some ideas that would not be time consuming and would above all be very meaningful for both the product and the facilitation behind it.
+
+We will test the product with the school we previously worked with but this time with older children since the exercise requires more cognitive skills and debate capabilities from them.
+
+**Some learnings that emerged from this week:**
+
+- Electronics require a lot of time and that should be reflected on the planning side of managing time. Colored LED lights also use different resistors and when lighting up many LEDs on one same product the amount of power is something to take into account.
+
+- When making different prototypes, take notes of changes in materials, design files and extra pieces you will need for next time or round of iteration. For instance, by making the cardboard design we realized we need a card holder to place all the cards inside, some way to transport the board to schools and a taller structure to hide the Arduino set up from children. We also want to explore using LED strips as opposed to LED bulbs.
+
+- Laser cutting is also very time-sensitive. Make sure that happens earlier on you work flow because laser cutting two wooden boards can take over an hour between cutting time and setting up the file time.
+
+- Early alignment is key. Had we not aligned on Tuesday on the output and key concept we would not have had time to fail early building the actual product and iterating.
+
+I am looking forward to using our Perception board with teenagers and seeing how this project can also evolve in designing DIY tools for teachers to facilitate participatory processes with children and teenagers. These types of tools can be easily scaled to schools and taught to teachers to implement in classrooms. We hope this can be a low-tech analog way of fighting back filter bubbles in digital social media, allowing and welcoming difference of thought.
+
+## Intervention 2 Second Trimester - Exploring futures literacy with Mamás que leen
 
 ###Workshop plan
 We started with the initial idea of using collage as a means to empower migrant women and explore futures literacy as a skillset that can be actively developed.
@@ -435,6 +464,8 @@ We will launch a quick survey to gather ideas on what makes a good salary negoti
 
 For the survey, I designed an airtable form linked to an airtable gallery card view to enable users to submit answers but also to openly visualize other users’ responses. This is a first probe to see if people are willing to share salary increases publicly and openly, and to see if this is a tool they may also use in these types of negotiations. After publicly sharing the link on Linkedin, with personal colleagues and with communities of designers in Latin America, our next iteration will be to recommend Chat GPT3 use cases to have actual conversations around salary increase with their employers.
 
+![](../images/MT02/negociacion.png)
+
 Even though in my conversation with Tomas he mentioned to just deploy fast and maybe move on to a new experiment, I feel there is potential in these types of tools around salary negotiations, transparency and the potential for financial power being transferred back to women.
 
 **What do next steps for this look like?**
@@ -468,6 +499,8 @@ I chose to keep this intervention on standby to focus on the other two, but I ma
 ###Bologna Book Fair
 As an early activity to explore my interest in children’s books as a means to actively imagine the future with them, I attended the Bologna Book Fair with Wen as illustrators from March 6th to 8th. We also participated by submitting our personal illustrations on the Virtual Illustrators Wall. However, our focus was to be absorbed by the event itself and understand the publishing side of the business and get familiar with editorials all over the world.
 
+![](../images/MT02/bologna.jpeg)
+
 **Some emerging learnings for me were:**
 
 - The emerging genre of silent books (or wordless books)
@@ -495,3 +528,5 @@ Citizens in Barcelona like myself (and especially younger generations and migran
 
 **Alternative present**
 Citizens in Barcelona like myself (and especially younger generations and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective. Building futures is an active ongoing exercise that exists in education spaces, inside homes and in social gatherings through collage creation, story building and participatory games that welcome differences of perception and thought. This helps combat echo chambers and filter bubbles since the futures are created welcoming and exploring the complex nuances of difference of thought.
+
+![](../images/MT02/alternativepresent.jpg)
