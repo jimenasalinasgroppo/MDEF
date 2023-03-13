@@ -529,4 +529,4 @@ Citizens in Barcelona like myself (and especially younger generations and migran
 **Alternative present**
 Citizens in Barcelona like myself (and especially younger generations and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective. Building futures is an active ongoing exercise that exists in education spaces, inside homes and in social gatherings through collage creation, story building and participatory games that welcome differences of perception and thought. This helps combat echo chambers and filter bubbles since the futures are created welcoming and exploring the complex nuances of difference of thought.
 
-![](../images/MT02/alternativepresent.jpg)
+![](../images/MT02/alternativepresent.jpeg)
