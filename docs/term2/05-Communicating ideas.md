@@ -33,3 +33,11 @@ I tried to align the visual language with my purpose, mission and vision using p
 - I am exploring ways to utilize AI to help women navigate salary negotiations and empower them financially to reduce Intimate Partner Violence.
 
 - I am co-creating future visions on ecofeminism with migrant women to develop futures literacy skills.
+
+#Mapping stakeholders and prioritizing messages
+After the second session of Communicating ideas, I acknowledged the importance of not only sitting back conceptually on what I want to communicate but to actively do so and taking into consideration that involving some actors is more important and even urgent.
+
+Below is my initial draft at having an organized communication strategy and plan. I decided to prioritize my 2 main interventions: (1) designing futures with children using participatory tools and (2) ecofeminism collages with Mamás que leen.
+
+![](../images/MT02/Alternative present (2).jpg)
+![](../images/MT02/Alternative present (3).jpg)
