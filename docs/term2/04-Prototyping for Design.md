@@ -402,4 +402,9 @@ This is our class with the lights off synching our Arduino LED lights together.
 ## Week 4 - Day 2
 Edu gave a lecture on CNC machines and types of motors. We were given tips on how to manage the files, how to operate the machine and how to deal with the material and cutting with the tool. We also learned about processes such as nesting that avoids material waste (using online programs such as svgnest). He also deep dived on security and how this is vital when working with CNC.
 
-Our plan is to use the CNC machine as an "add-on" to our Perception Board. The board needs a small table that allows children to view it standing up, so we will use our wood material to execute this complementary table. 
+Our plan is to use the CNC machine as an "add-on" to our Perception Board. The board needs a small table that allows children to view it standing up, so we will use our wood material to execute this complementary table.
+
+## Week 5 - Second Fab Lab challenge
+This week I worked with Wen and Ariel on designing a complementary product that would amplify the experience of using our Perception Board. While we haven't had the time and space to test with school students, we still wanted to iterate on the experience to test with both teachers and students during the Third Trimester.
+
+For this challenge, we had to incorporate 3D printing, CNC and sensors. This is why we designed a **Speaker Mic** that would have the objective of helping define who speaks during a classroom session and can design a small ritual around that moment.
