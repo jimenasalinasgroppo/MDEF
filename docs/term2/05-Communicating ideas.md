@@ -37,7 +37,10 @@ I tried to align the visual language with my purpose, mission and vision using p
 ## Second session - Mapping stakeholders and prioritizing messages
 After the second session of Communicating ideas, I acknowledged the importance of not only sitting back conceptually on what I want to communicate but to actively do so and taking into consideration that involving some actors is more important and even urgent.
 
-Below is my initial draft at having an organized communication strategy and plan. I decided to prioritize my 2 main interventions: (1) designing futures with children using participatory tools and (2) ecofeminism collages with Mamás que leen.
+Below is my initial draft at having an organized communication strategy and plan. I decided to prioritize my 2 main interventions:
+
+(1) designing futures with children using participatory tools
+(2) ecofeminism collages with Mamás que leen.
 
 ![](../images/MT02/Alternative present (3).jpg)
 > This exercise made me aware that the most important stakeholders to keep on the loop are not big populations or groups but the founders of the organizations or the directors of the schools we are collaborating with. This is because they have decision making power and need to stay on the loop of what we are building and our results.
