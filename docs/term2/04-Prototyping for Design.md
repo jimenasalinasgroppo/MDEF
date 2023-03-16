@@ -404,6 +404,13 @@ Edu gave a lecture on CNC machines and types of motors. We were given tips on ho
 
 Our plan is to use the CNC machine as an "add-on" to our Perception Board. The board needs a small table that allows children to view it standing up, so we will use our wood material to execute this complementary table.
 
+###**Micro challenge 8** Using CNC to build a card holder
+Me and Ariel and Wen had aligned on that we wanted to build a card holder out of CNC to use with our Perception Board during the Second Fab Lab Challenge. While the card holder is a complementary accesory to the overall experience, we felt the holder could really add comfort to children while interacting with our device.
+
+![](../images/MT02/cnc3.jpeg)
+![](../images/MT02/cnc.jpeg)
+![](../images/MT02/cnc1.jpeg)
+
 ## Week 5 - Second Fab Lab challenge
 This week I worked with Wen and Ariel on designing a complementary product that would amplify the experience of using our Perception Board. While we haven't had the time and space to test with school students, we still wanted to iterate on the experience to test with both teachers and students during the Third Trimester.
 
