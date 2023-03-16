@@ -430,3 +430,5 @@ Some learnings during this challenge listed below:
 - **While most processes are digitally fabricated, manual work is very important for incorporating systems and to make sure final adjustments are done correctly.** We had to sand manually, put nails on the 3D printed microphone and make a cardboard box by hand to make sure everything worked correctly at the end.
 
 - **Testing with users the finaly system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
+
+- **Incorporate electronics meaningfully.** While we can be very drawn to using electronics playfully and introducing a lot of sensors, we chose to make the interaction as simple as possible. This is because using the board in itself is quite complex for  children and electronics should help them understand what action is required from them.
