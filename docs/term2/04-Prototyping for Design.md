@@ -422,6 +422,7 @@ This week I worked with Wen and Ariel on designing a complementary product that 
 For this challenge, we had to incorporate 3D printing, CNC and sensors. This is why we designed a **Speaker Mic** that would have the objective of helping define who speaks during a classroom session and can design a small ritual around that moment.
 
 ![](../images/MT02/cncfinal.jpeg)
+![](../images/MT02/luz.jpeg)
 
 Some learnings during this challenge listed below:
 
