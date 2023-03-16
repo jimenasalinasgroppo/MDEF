@@ -432,3 +432,5 @@ Some learnings during this challenge listed below:
 - **Testing with users the finaly system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
 
 - **Incorporate electronics meaningfully.** While we can be very drawn to using electronics playfully and introducing a lot of sensors, we chose to make the interaction as simple as possible. This is because using the board in itself is quite complex for  children and electronics should help them understand what action is required from them.
+
+[Project repo](https://github.com/jimenasalinasgroppo/microchallenge-02)
