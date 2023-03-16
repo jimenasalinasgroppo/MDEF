@@ -405,13 +405,28 @@ Edu gave a lecture on CNC machines and types of motors. We were given tips on ho
 Our plan is to use the CNC machine as an "add-on" to our Perception Board. The board needs a small table that allows children to view it standing up, so we will use our wood material to execute this complementary table.
 
 ###**Micro challenge 8** Using CNC to build a card holder
-Me and Ariel and Wen had aligned on that we wanted to build a card holder out of CNC to use with our Perception Board during the Second Fab Lab Challenge. While the card holder is a complementary accesory to the overall experience, we felt the holder could really add comfort to children while interacting with our device.
+Me and Ariel and Wen had aligned on that we wanted to build a card holder out of CNC to use with our Perception Board during the Second Fab Lab Challenge. While the card holder is a complementary accesory to the overall experience, we felt the holder could really add comfort to children while interacting with our device and help them focus on the question being discussed.
+
+For the fabrication process, we had Edu's help with the set up of the CNC machine ensuring the thickness of the material (wood) and exporting the file to a code the CNC machine could read.
 
 ![](../images/MT02/cnc3.jpeg)
+
 ![](../images/MT02/cnc.jpeg)
+
+We had to sand the final card holder.
 ![](../images/MT02/cnc1.jpeg)
 
 ## Week 5 - Second Fab Lab challenge
 This week I worked with Wen and Ariel on designing a complementary product that would amplify the experience of using our Perception Board. While we haven't had the time and space to test with school students, we still wanted to iterate on the experience to test with both teachers and students during the Third Trimester.
 
 For this challenge, we had to incorporate 3D printing, CNC and sensors. This is why we designed a **Speaker Mic** that would have the objective of helping define who speaks during a classroom session and can design a small ritual around that moment.
+
+![](../images/MT02/cncfinal.jpeg)
+
+Some learnings during this challenge listed below:
+
+- **Fabrication processes take a lot of time.** During challenges and when working with time constraints, it is best to align fast and then iterate and add more complex systems to the design. Only the 3D printing took over 18 hours.
+
+- **While most processes are digitally fabricated, manual work is very important for incorporating systems and to make sure final adjustments are done correctly.** We had to sand manually, put nails on the 3D printed microphone and make a cardboard box by hand to make sure everything worked correctly at the end.
+
+- **Testing with users the finaly system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
