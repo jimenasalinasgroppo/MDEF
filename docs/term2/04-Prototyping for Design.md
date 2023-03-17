@@ -407,13 +407,14 @@ Our plan is to use the CNC machine as an "add-on" to our Perception Board. The b
 ###**Micro challenge 8** Using CNC to build a card holder
 Me and Ariel and Wen had aligned on that we wanted to build a card holder out of CNC to use with our Perception Board during the Second Fab Lab Challenge. While the card holder is a complementary accesory to the overall experience, we felt the holder could really add comfort to children while interacting with our device and help them focus on the question being discussed.
 
-For the fabrication process, we had Edu's help with the set up of the CNC machine ensuring the thickness of the material (wood) and exporting the file to a code the CNC machine could read.
+For the fabrication process, we had Edu's help with the set up of the CNC machine ensuring the thickness of the material (wood) and exporting the file to a code the CNC machine could read. For this exploration it was interesting to choose thick wood with carvings instead of thinner wood with press fit.
 
 ![](../images/MT02/cnc3.jpeg)
 
 ![](../images/MT02/cnc.jpeg)
 
-We had to sand the final card holder.
+We had to sand the final card holder. We were told by Edu that we had to sand for quite a while until the surface was smooth.
+
 ![](../images/MT02/cnc1.jpeg)
 
 ## Week 5 - Second Fab Lab challenge
@@ -426,12 +427,14 @@ For this challenge, we had to incorporate 3D printing, CNC and sensors. This is 
 
 Some learnings during this challenge listed below:
 
-- **Fabrication processes take a lot of time.** During challenges and when working with time constraints, it is best to align fast and then iterate and add more complex systems to the design. Only the 3D printing took over 18 hours.
+- **Fabrication processes take a lot of time and efficient time planning is mandatory.** During challenges and when working with time constraints, it is best to align fast and then iterate and add more complex systems to the design. Only the 3D printing took over 18 hours.
 
 - **While most processes are digitally fabricated, manual work is very important for incorporating systems and to make sure final adjustments are done correctly.** We had to sand manually, put nails on the 3D printed microphone and make a cardboard box by hand to make sure everything worked correctly at the end.
 
-- **Testing with users the finaly system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
+- **Testing with users the final system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
 
 - **Incorporate electronics meaningfully.** While we can be very drawn to using electronics playfully and introducing a lot of sensors, we chose to make the interaction as simple as possible. This is because using the board in itself is quite complex for  children and electronics should help them understand what action is required from them.
+
+- **Building fast allows you to gain a full picture of the system** We were happy to see how our Board was nicely integrated at the end with all the elements. This weeks allow us to move forward and not think too much on the design. This I feel was good because it helped us think of the system as a whole and integrating it as fast as possible.
 
 [Project repo](https://github.com/jimenasalinasgroppo/microchallenge-02)
