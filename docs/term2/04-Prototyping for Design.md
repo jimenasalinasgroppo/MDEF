@@ -435,6 +435,6 @@ Some learnings during this challenge listed below:
 
 - **Incorporate electronics meaningfully.** While we can be very drawn to using electronics playfully and introducing a lot of sensors, we chose to make the interaction as simple as possible. This is because using the board in itself is quite complex for  children and electronics should help them understand what action is required from them.
 
-- **Building fast allows you to gain a full picture of the system** We were happy to see how our Board was nicely integrated at the end with all the elements. This weeks allow us to move forward and not think too much on the design. This I feel was good because it helped us think of the system as a whole and integrating it with the user experience as fast as possible.
+- **Building fast allows you to gain a full picture of the system** We were happy to see how our Board was nicely integrated at the end with all the elements. This weeks allow us to move forward and not think too much on the design. This I feel was good because it helped us think of the system as a whole and integrating it with the user experience as fast as possible. One of the feedback we received from Santi was that our classmates gathered around when we showed our artifact which we can take as a positive signal that high school students might be equally as engaged.
 
 [Project repo](https://github.com/jimenasalinasgroppo/microchallenge-02)
