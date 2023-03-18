@@ -223,6 +223,28 @@ We will test the product with the school we previously worked with but this time
 
 I am looking forward to using our Perception board with teenagers and seeing how this project can also evolve in designing DIY tools for teachers to facilitate participatory processes with children and teenagers. These types of tools can be easily scaled to schools and taught to teachers to implement in classrooms. We hope this can be a low-tech analog way of fighting back filter bubbles in digital social media, allowing and welcoming difference of thought.
 
+### Incorporating a Speaker Mic to the Perception Board
+This week I worked with Wen and Ariel on designing a complementary product that would amplify the experience of using our Perception Board. While we haven't had the time and space to test with school students, we still wanted to iterate on the experience to test with both teachers and students during the Third Trimester.
+
+For this challenge, we had to incorporate 3D printing, CNC and sensors. This is why we designed a **Speaker Mic** that would have the objective of helping define who speaks during a classroom session and can design a small ritual around that moment.
+
+![](../images/MT02/cncfinal.jpeg)
+![](../images/MT02/luz.jpeg)
+
+Some learnings during this challenge listed below:
+
+- **Fabrication processes take a lot of time and efficient time planning is mandatory.** During challenges and when working with time constraints, it is best to align fast and then iterate and add more complex systems to the design. Only the 3D printing took over 18 hours.
+
+- **While most processes are digitally fabricated, manual work is very important for incorporating systems and to make sure final adjustments are done correctly.** We had to sand manually, put nails on the 3D printed microphone and make a cardboard box by hand to make sure everything worked correctly at the end.
+
+- **Testing with users the final system is equally as important**. While these production weeks focused on fabrication help us design the system, it is also important to go back to our communities and test the product and system with them. We are planning on going back to classrooms to test both the perception board and our speaker mics.
+
+- **Incorporate electronics meaningfully.** While we can be very drawn to using electronics playfully and introducing a lot of sensors, we chose to make the interaction as simple as possible. This is because using the board in itself is quite complex for  children and electronics should help them understand what action is required from them.
+
+- **Building fast allows you to gain a full picture of the system** We were happy to see how our Board was nicely integrated at the end with all the elements. This weeks allow us to move forward and not think too much on the design. This I feel was good because it helped us think of the system as a whole and integrating it with the user experience as fast as possible. One of the feedback we received from Santi was that our classmates gathered around when we showed our artifact which we can take as a positive signal that high school students might be equally as engaged.
+
+[Project repo](https://github.com/jimenasalinasgroppo/microchallenge-02)
+
 ## Intervention 2 Second Trimester - Exploring futures literacy with Mamás que leen
 
 ###Workshop plan
@@ -280,7 +302,6 @@ Potential of future literacy and collage being a third / fourth / fifth language
 ![](../images/MT02/mamasqueleen2.jpeg)
 
 ![](../images/MT02/mamasqueleen3.jpeg)
-
 
 ###Applying to Fem Fabrik
 We co-created a workshop with Carolina and are applying to Fem Fabrik in La Clandestina to see if we can showcase the end result of our workshop with Mamas que leen in a full-day event held for women artists on Saturday 11th of March.
@@ -348,7 +369,7 @@ Tomorrow I am looking forward to getting our hands dirty and making the collages
 
 1 volunteer
 
-Today was the second day of the collage creation workshop at Mamás que Leen. We felt much more confident and less nervous this second time even though we had a few material constraints (forgot to bring more scissors, didn’t cut the paper that we were using as base previously). The women also felt much more comfortable participating (one chose to carry on learning Spanish) and the other 6 attendants joined the collage creation. None of them had ever done a collage before and it felt like the appropriate art technique to imagine futures and relations with words. Each woman picked a set of 2 words from the poems we had read out loud the previous day. Some word combinations that were chosen “tranqulidad + calma”, “poder + cuidado”, “abuelos amor”.
+Today was the second day of the collage creation workshop at Mamás que Leen. We felt much more confident and less nervous this second time even though we had a few material constraints (forgot to bring more scissors, didn’t cut the paper that we were using as base previously). The women also felt much more comfortable participating (one chose to carry on learning Spanish) and the other 6 attendants joined the collage creation. None of them had ever done a collage before and it felt like the appropriate art technique to imagine futures and relations with words. Each woman picked a set of 2 words from the poems we had read out loud the previous day. Some word combinations that were chosen “tranquilidad + calma”, “poder + cuidado”, “abuelos amor”.
 
 Carolina spoke a blend of Portuguese + Spanish and to me that also set the perfect tone since we wanted to create a space of vulnerability, showing how we are all migrants in Spain and how we are all here to learn. We struggled with the space setting since we didn’t want to be placed in a hierarchically higher position than them. Quite the contrary, we wanted to learn from them and hear what they had to say.
 
