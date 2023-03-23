@@ -245,6 +245,28 @@ Some learnings during this challenge listed below:
 
 [Project repo](https://github.com/jimenasalinasgroppo/microchallenge-02)
 
+###Design Dialogues Term 2
+I used the Design Dialogues space during March 22nd as a way to gather feedback primarily on the Perception Board and the Speaker Mic. Overall we were prompted to go test with students because while we may be receiving helpful suggestions, we will never know how they react to the product until we test it out on a classroom. Some of the feedback we received listed below:
+
+- Circularity and sustainability are topics teachers want and need to address in today’s classroom
+
+- Try product with smaller groups (max. 10 students)
+
+- The future is fluid so make sure prompts are flexible and do not reflect a particular political point of view
+
+- Maybe think of narratives rather than solutions
+
+- Pointers may be personalized by the children themselves before using them
+
+- How do we incorporate principles of Non Violent Communication into the process of using the tools we designed? i.e.  Respect everyone’s turn
+
+- Explore “urgent” and “relevant” as dimensions for the board
+
+- Change the design of the board to make it more transport-friendly (i.e. foldable Monopoly board)
+
+![](../images/MT02/dialogues1.jpeg)
+![](../images/MT02/dialogues2.jpeg)
+
 ## Intervention 2 Second Trimester - Exploring futures literacy with Mamás que leen
 
 ###Workshop plan
