@@ -37,6 +37,11 @@ nav:
           - Measuring the world: term2/08-Measuring the world.md
           - El Hierro Research Trip: term2/09-El Hierro Research Trip.md
 
+      - Term 3:
+          - Design studio: term3/01-Design studio.md
+          - Distributed Design: term3/02-Distributed Design.md
+          - Prototyping For Design: term3/03-Prototyping For Design.md
+
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
