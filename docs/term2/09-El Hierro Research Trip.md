@@ -22,4 +22,15 @@ As we move through our daily lives, we rarely take the time to appreciate the sp
 
 So let us take the time to look up and down, to appreciate the ceilings and floors that surround us. Let us explore the textures and patterns of the ground beneath our feet and the artistic expression of the ceilings above us. By doing so, we open ourselves up to a whole new world of possibilities and perspectives.
 
+###First draft video
+
+For this first draft, I chose to explore the concept in reel format.
+
 <iframe src="https://drive.google.com/file/d/19dcC7ZE1qAgxBejuk_hU5MIccf2F_akr/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+###Final video
+
+For the final video I chose to have two horizontal strips showing the up and down of each geographical setting we explored during our visit to El Hierro. Final result is shown below.
+
+<iframe src="https://drive.google.com/file/d/1n64y_h-QgFpyU1j9bcAfM_fevZXJzRt7/preview" width="640" height="480" allow="autoplay"></iframe>
