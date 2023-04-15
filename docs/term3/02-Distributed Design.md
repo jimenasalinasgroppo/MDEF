@@ -12,7 +12,8 @@ During the first three hour seminar we learned about the updated Mushroom model,
 
 Starting with such a complex product from the start allowed us to have an orderly understanding of the potential impact chat GPT-4 can have not only on users but also to begin to comprehend the power structures that exist in the use of this product. An interesting point that arose in the conversation is how investors and tech leaders are asking for a six month hold on the development of this technology to begin to understand its impact since it is a technology that is rapidly evolving with little understanding of how it can impact industries or even the education sector.
 
-![](../images/MT02/dd1.jpeg)
+![](../images/MT03/dd1.jpeg)
+![](../images/MT03/dd3.jpeg)
 
 **Learning Skils**
 Which skills did I need during the activity and how can I translate into something useful for me and my future?
@@ -32,7 +33,7 @@ In this exercise I played the role of jotting down everyone’s opinion. Being t
 ##Day 2 - Reflection tree
 During this second session we looked at impact with more nuance and complexity, starting to understand why it is necessary in the first place and also broadening our definition of what impact can look like. It was interesting to consider diverse angles, some more social (human) and others more related to sustainability and incorporating non-human actors.
 
-![](../images/MT02/rt.jpeg)
+![](../images/MT03/rt.jpeg)
 
 **Learning Skils**
 Which skills did I need during the activity and how can I translate into something useful for me and my future?
@@ -52,7 +53,7 @@ Yes, I think also contrasting my viewpoint with Marc, who is working with cerami
 **Day 3- Values**
 This final seminar of Distributed Design we made some time to philosophize on specific values we wanted to prioritize. I chose to focus on “Justice” as I was particularly interested in how it is a complex value that seeks to balance accountability with forgiveness and also poses interesting questions around repair, reparations and compensations. I chose this value also because I feel it is important when working with gender-based violence to also find ways to assist survivors and seek some form of justice (if such concept even exists).
 
-![](../images/MT02/dd2.jpeg)
+![](../images/MT03/dd2.jpeg)
 
 **Learning Skils**
 Which skills did I need during the activity and how can I translate into something useful for me and my future?
