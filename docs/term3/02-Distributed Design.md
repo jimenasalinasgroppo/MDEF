@@ -33,6 +33,8 @@ In this exercise I played the role of jotting down everyone’s opinion. Being t
 ##Day 2 - Reflection tree
 During this second session we looked at impact with more nuance and complexity, starting to understand why it is necessary in the first place and also broadening our definition of what impact can look like. It was interesting to consider diverse angles, some more social (human) and others more related to sustainability and incorporating non-human actors.
 
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVMURNReQ=/?pres=1&frameId=3458764551541391901&embedId=992964804879" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ![](../images/MT03/rt.jpeg)
 
 **Learning Skils**
@@ -50,7 +52,7 @@ Did the role I played influence my opinion?
 
 Yes, I think also contrasting my viewpoint with Marc, who is working with ceramics, helped us have an external viewpoint from someone who is not in the day to day of our Perception Board Project. This was particularly useful since he made a good pushback to evaluate how we can “walk our talk”, using ecology-based principles even in the product we are making children interact with.
 
-**Day 3- Values**
+##Day 3- Values
 This final seminar of Distributed Design we made some time to philosophize on specific values we wanted to prioritize. I chose to focus on “Justice” as I was particularly interested in how it is a complex value that seeks to balance accountability with forgiveness and also poses interesting questions around repair, reparations and compensations. I chose this value also because I feel it is important when working with gender-based violence to also find ways to assist survivors and seek some form of justice (if such concept even exists).
 
 ![](../images/MT03/dd2.jpeg)
