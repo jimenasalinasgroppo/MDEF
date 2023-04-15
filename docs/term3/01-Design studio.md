@@ -15,4 +15,4 @@ In parallel, I would also like to work with Carolina to explore ecofeminism from
 
 This is our first draft of the workshop we are planning to run with students as part of MDEFest.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTnoWGXKWFEidj8gr-W80uHqfFx8JMGQiWabJ8JkS-fBV-OkktcvmB8a37PqePBlrGG0dcGJ5LYtivo/pub?embedded=true"></iframe>
+[First draft here](https://docs.google.com/document/d/1oL71yZQzWA71ws4Rr8KWr7-Eeh0ljLj6PJy49fh3j8g/edit?usp=sharing)
