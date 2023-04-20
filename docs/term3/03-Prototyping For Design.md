@@ -16,3 +16,5 @@ One of the questions this module sparked for me was how can we introduce robots 
 During this session Victor introduced us to the software of Blender. I had previously used Blender for a prototyping for design challenge but was unaware of many of its benefits and also did not know that it is open source.
 
 We were introduced in depth to its history, the concept of software libre and open and how the product has evolved in the past years.
+
+As Blender is a tool focused on animation it is not necessarily the right tool always. However, Victor showed how he used Blender applied to Romi, a project focused on the south of France and north of Spain using tools for farmer hackers.
