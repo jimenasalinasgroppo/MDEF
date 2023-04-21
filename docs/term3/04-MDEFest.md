@@ -10,5 +10,7 @@ During this first session we were introduced to what is MDEFest and what events 
 
 Me, Wen and Ariel plan to work together for MDEFest since we want to push our Perception Board further and run an interactive workshop with children, co-creating with private schools.
 
-##Week 1 Day 2 - xxxx
-xxxx
+##Week 1 Day 2 - Mapping stakeholders
+For this session we mapped out collectively the stakeholders we should engage with and the level of involvement for each.
+
+We also deep dived on a concept festival. Me, Wen and Ariel came up with the concept of "Little Big Futures", a festival that targets children's perceptions of the future mainly in schools in Barcelona but that can also evolve to public exhibits in open spaces.
