@@ -14,3 +14,7 @@ Me, Wen and Ariel plan to work together for MDEFest since we want to push our Pe
 For this session we mapped out collectively the stakeholders we should engage with and the level of involvement for each.
 
 We also deep dived on a concept festival. Me, Wen and Ariel came up with the concept of "Little Big Futures", a festival that targets children's perceptions of the future mainly in schools in Barcelona but that can also evolve to public exhibits in open spaces.
+
+In this Miro board you can find our first draft.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMVMmtdU=/?moveToViewport=-4524,-2835,18880,8155&embedId=36789642039" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
