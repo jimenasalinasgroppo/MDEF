@@ -21,4 +21,6 @@ We were introduced in depth to its history, the concept of software libre and op
 
 As Blender is a tool focused on animation it is not necessarily the right tool always. However, Victor showed how he used Blender applied to Romi, a project focused on the south of France and north of Spain using tools for farmer hackers. This real-life example helped contextualize the tool to design settings.
 
+As such, the class underscored how knowing and using tools like Blender can be a valuable asset for designers in their work.
+
 ![](../images/MT03/blender.jpeg)
