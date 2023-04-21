@@ -16,3 +16,5 @@ In parallel, I would also like to work with Carolina to explore ecofeminism from
 This is our first draft of the workshop we are planning to run with students as part of MDEFest.
 
 [First draft here](https://docs.google.com/document/d/1oL71yZQzWA71ws4Rr8KWr7-Eeh0ljLj6PJy49fh3j8g/edit?usp=sharing)
+
+Our next steps will be to co-create design sessions with Fab Lab team working with K-12 schools and school teachers. 
