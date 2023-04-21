@@ -8,7 +8,7 @@ hide:
 ##Day 1 - Robots
 During this class we were introduced to the topic of robots, specifically looking at robotic arms. I was sick for this session but looking through the class documentation what stood out for me was exploring all the possibilities related to the use of this technology and how robots can be used for many different purposes.
 
-I also played around with the Rhino plug in to see the simulation of the robotic arm. It was interesting to see how the joints indicate the type of movement the robot makes and my understanding of types of movements by robots is now expanded. I also learned that Rhino and Grasshopper are tools that help simulate how specific robots (like robotic arms) can move.
+I also played around with the Rhino plug in to see the simulation of the robotic arm. It was interesting to see how the joints indicate the type of movement the robot makes and my understanding of types of movements by robots is now expanded. I also learned that Rhino and Grasshopper are tools that help simulate how specific robots (like robotic arms) can move. I prepped a Rhino file with a group from the class using Grasshopper using the plug ins that are found in the class documentation.
 
 One of the questions this module sparked for me was how can we introduce robots to solutions to human problems beyond engineering and manufacturing? I know robots help with assembly line of manufacturing, such as cutting wood.
 
