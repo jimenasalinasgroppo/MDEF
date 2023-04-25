@@ -3,15 +3,15 @@
 ![](../images/jimena.jpg)
 
 **Updated bio**
-Design Lead pushing futures literacy through a systemic and ecofeminist lens, interested in working with children, marginalized communities and women.
+Design Lead working on building futures literacy with a systemic and ecofeminist lens, interested in working with children, marginalized communities and women.
 
 **Alternative present**
-Citizens in Barcelona like myself (and especially younger generations and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective.
+Humans like myself (and especially younger generations, women and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective.
 
 Building futures is an active ongoing exercise that exists in education spaces, inside homes and in social gatherings through collage creation, story building and participatory games that welcome differences of perception and thought. This helps combat echo chambers and filter bubbles since the futures are created welcoming and exploring the complex nuances of difference of thought.
 
 **Old bio**
-Design Lead & Communications strategist with over 7 years of experience in innovation projects, venture building and cultural transformation initiatives.
+Design Lead & Communications strategist with over 8 years of experience in innovation projects, venture building and cultural transformation initiatives.
 
 My passion is to design solutions that empower and unlock opportunities for underserved demographics. My dream is to devote my professional life to solving inequalities, challenging structural gaps through design and storytelling. I have focused my career on helping new education ventures and cultural transformation projects thrive by leading and participating in cross-disciplinary design projects. But these methodologies have gaps, when a solid research base is not present and when leaders are not committed to questioning the status quo. Seven years into this journey, I have realized the importance of complementing the human-centered design methodology with insights that take into account the complex nuances of structural inequality.
 
