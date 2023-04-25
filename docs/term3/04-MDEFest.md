@@ -18,3 +18,6 @@ We also deep dived on a concept festival. Me, Wen and Ariel came up with the con
 In this Miro board you can find our first draft.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMVMmtdU=/?moveToViewport=-4524,-2835,18880,8155&embedId=36789642039" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+##Week 2 Day 1 - Defining an umbrella
+In this session the importance of defining locations and my team collaborated with Marc, Ahmed and Caglar under the Education umbrella. They wanted to focus on crafts and maker education while our focus is on defining futures with children.
