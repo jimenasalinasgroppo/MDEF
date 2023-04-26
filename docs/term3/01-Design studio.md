@@ -17,4 +17,8 @@ This is our first draft of the workshop we are planning to run with students as 
 
 [First draft here](https://docs.google.com/document/d/1oL71yZQzWA71ws4Rr8KWr7-Eeh0ljLj6PJy49fh3j8g/edit?usp=sharing)
 
-Our next steps will be to co-create design sessions with Fab Lab team working with K-12 schools and school teachers. 
+Our next steps will be to co-create design sessions with Fab Lab team working with K-12 schools and school teachers.
+
+We are also working on wrapping up and documenting our process to scale the project and pitch to competitions.
+
+[Figma Landing site](https://www.figma.com/file/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?node-id=46%3A2&t=Lr7tCo9V2w7nYxTp-1)

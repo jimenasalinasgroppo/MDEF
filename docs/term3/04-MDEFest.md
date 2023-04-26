@@ -21,3 +21,8 @@ In this Miro board you can find our first draft.
 
 ##Week 2 Day 1 - Defining an umbrella
 In this session the importance of defining locations and my team collaborated with Marc, Ahmed and Caglar under the Education umbrella. They wanted to focus on crafts and maker education while our focus is on defining futures with children.
+
+[Planning document here](https://docs.google.com/presentation/d/1X14zRZvAVfgtzuTa1oFfpnCUDmSkGqiOTAVvGtUgqs8/edit?usp=share_link)
+
+##Week 2 Day 2 - xxxxx
+xxxxx
