@@ -24,5 +24,7 @@ In this session the importance of defining locations and my team collaborated wi
 
 [Planning document here](https://docs.google.com/presentation/d/1X14zRZvAVfgtzuTa1oFfpnCUDmSkGqiOTAVvGtUgqs8/edit?usp=share_link)
 
-##Week 2 Day 2 - xxxxx
-xxxxx
+##Week 2 Day 2 - Finding common themes and spheres
+Today we collectively used a Miro board to find topics in common, synthesize and also look for patterns across the projects the whole class is working on. My project with Carolina around ecofeminism fit under Nature and Craft umbrellas while my project with Wen and Ariel fits under Education sphere.
+
+[Miro board here](https://miro.com/app/board/uXjVMVMmtdU=/)
