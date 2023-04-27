@@ -30,3 +30,6 @@ During this class, Xavi shared his background and how he became part of the Futu
 We were then introduced to the work of Citlali Hernandez. She shared her work using Fab Lab tools to create wearable electronics merging conceptual art. Blending choreography and dancing with electronics and how she has showcased her work in cities such as Valencia and in Santiago de Chile. Some questions raised where the body as complexity and what is the body? It was also interesting to see how she incorporated the Raspberry pi to her own body of work.
 
 We also played around with Hydra (https://hydra.ojack.xyz/) changing the shapes to play around with circles and oscilloscopes. Hydra is a livecoding video synth that works on the browser. It is open source and works for both beginners and experts.
+
+##Day 4 - Blender as interface
+During this session Victor showed us integrations of Python and Blender. The one that stood out for me the most was using the cell phone's sensors to make the Blender image move as the cell phone is also rotated and moved. I did not know these types of syncs were possible using Blender and Python and gave me curiosity to explore more, especially since I'm interested in learning how to model on Blender animations and renders that can be used for product design and pitching product ideas.
