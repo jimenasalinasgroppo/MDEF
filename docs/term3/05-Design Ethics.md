@@ -5,7 +5,7 @@ hide:
 
 # Design Ethics
 
-##Day 1
+##Day 1 - Intro
 In this class, Ariel discussed various topics related to naturalism, technology, design, and systems thinking. Ariel highlighted how technology has become an inherent part of our existence and how it is not neutral but carries underlying values and ethics.
 
 The idea of "design is ethics by other means" was introduced, emphasizing how design choices can reflect the ethical values of those who create them. The concept of the iceberg model was also discussed, which suggests that what we see on the surface is only a small part of a larger system, and that there are underlying layers that relate to different things. Overall, this class emphasized the importance of understanding the assumptions and values that underlie the technology we use, and the ethical implications of design choices in our increasingly technological world.
@@ -15,3 +15,6 @@ In this class, we explored the idea of technological neutrality and how it can b
 We also explored the values and assumptions that are inscribed in our designs and how they can shape the products we create with the example of the product that cradles newborn babies. We discussed the importance of promoting care and support for families, rather than relying solely on techno-solutionism as the norm. We also delved into the negative consequences that can arise from designing for simplicity and convenience, rather than considering the complexity of the issue at hand.
 
  Overall, this class challenged us to think more critically about the values we want to promote in our designs and how we can mitigate tensions that arise as a result.
+
+##Day 2 - Types of Design Ethics
+xxxx
