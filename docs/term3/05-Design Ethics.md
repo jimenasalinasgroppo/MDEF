@@ -19,6 +19,8 @@ We also explored the values and assumptions that are inscribed in our designs an
 ![](../images/MT03/ethics.jpeg)
 
 ##Day 2 - Types of Design Ethics
-John Culkin, "We become what we behold. We shape our tools and then our tools shape us."
+>>John Culkin, "We become what we behold. We shape our tools and then our tools shape us."
 
 My biggest takeaway of this class was mentioned at the end when Ariel made us question: What is design's purpose? It is unclear when you compare to medicine or law and other professions that have more clarity of their goal and purpose. We looked at definitions from different purposes and ways of thought trying to analyze if they could serve different professions or if they spoke only of design.
+
+Another important takeaway for me was looking at AI technology and how it perpetuates racism and bias even as an uninteded consequence.
