@@ -16,5 +16,7 @@ We also explored the values and assumptions that are inscribed in our designs an
 
  Overall, this class challenged us to think more critically about the values we want to promote in our designs and how we can mitigate tensions that arise as a result.
 
+![](../images/MT03/ethics.jpeg)
+
 ##Day 2 - Types of Design Ethics
 John Culkin, "We become what we behold. We shape our tools and then our tools shape us."
