@@ -5,7 +5,7 @@
 **Updated bio**
 Design Lead exploring futures literacy with a systemic and ecofeminist lens. I specialise in designing closely with users and communities while incorporating principles of design justice. I've worked in design challenges related to sexual harrassment, salary inequality, digital gap in Latin America and futures literacy in children and migrants. Overall I am interested in designing for care as opposed to a reactionary approach to design. My design process wishes to address the root causes of any design challenge and acknowledges that climate justice cannot occur without gender equality.
 
->> “To dismantle structural inequality and advance collective liberation and ecological survival.”
+> “To dismantle structural inequality and advance collective liberation and ecological survival.”
 Sasha Constanza-Chock, Design Justice
 
 
