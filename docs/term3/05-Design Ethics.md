@@ -21,8 +21,14 @@ We also explored the values and assumptions that are inscribed in our designs an
 ##Day 2 - Types of Design Ethics
 >John Culkin, "We become what we behold. We shape our tools and then our tools shape us."
 
+The overarching theme of the class was to avoid exploiting others and to find ways to align ethical principles with technological and design advancements.
+
+One philosopher, Gudnyas, from Uruguay, recognized the importance of feminist critical theory and environmentalism in shaping ethical principles. This aligns with Donna Haraway's idea of bringing together diverse perspectives to address complex issues. This was especially relevant to my work trying to push gender justice through design interventions.
+
+Similarly, in the context of AI, an open letter was discussed, calling for a pause on giant AI experiments, and the dangers of eugenics and scientific racism were explored. Another important takeaway for me was looking at AI technology and how it perpetuates racism and bias even as an uninteded consequence.
+
+The class also discussed how design can be used to promote key human goods. Victor Papanek's book "Design for the Real World" emphasizes how everyone designs in their everyday lives. However, the profession of design is often seen as exclusive, and the class questioned what the key human good of design is. Mariana Mazucatto's perspective on the business value of design was explored, along with the concept of design justice by Sasha Constanza-Chock. We were also introduced to the notion of care applied to design, looking at examples like Lekshmy Parameswaran from The Care Lab. We also looked at dark patterns in UI design (i.e. shaming user for not choosing a specific option) and how this affects the ethics of the design process itself.
+
+Ultimately, the class emphasized the importance of deep thought and intention in all aspects of life, including design and technological advancements. The goal is to move towards a more preferred state, where ethical principles are aligned with advancements in technology and design.
+
 My biggest takeaway of this class was mentioned at the end when Ariel made us question: What is design's purpose? It is unclear when you compare to medicine or law and other professions that have more clarity of their goal and purpose. We looked at definitions from different purposes and ways of thought trying to analyze if they could serve different professions or if they spoke only of design.
-
-Another important takeaway for me was looking at AI technology and how it perpetuates racism and bias even as an uninteded consequence.
-
-We ended the class introducing the notion of care applied to design, looking at examples like Lekshmy Parameswaran from The Care Lab. We also looked at dark patterns in UI design (i.e. shaming user for not choosing a specific option). 
