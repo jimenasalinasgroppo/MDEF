@@ -31,4 +31,4 @@ The class also discussed how design can be used to promote key human goods. Vict
 
 Ultimately, the class emphasized the importance of deep thought and intention in all aspects of life, including design and technological advancements. The goal is to move towards a more preferred state, where ethical principles are aligned with advancements in technology and design.
 
-My biggest takeaway of this class was mentioned at the end when Ariel made us question: What is design's purpose? It is unclear when you compare to medicine or law and other professions that have more clarity of their goal and purpose. We looked at definitions from different purposes and ways of thought trying to analyze if they could serve different professions or if they spoke only of design.
+My biggest takeaway of this class was mentioned at the end when Ariel made us question: What is design's purpose? It is unclear when you compare to medicine or law and other professions that have more clarity of their goal and purpose. 
