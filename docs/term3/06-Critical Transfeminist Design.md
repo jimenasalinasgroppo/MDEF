@@ -6,7 +6,7 @@ hide:
 # Critical Transfeminist Design
 
 ##Day 1 - Intro
->> “En un mundo donde el lenguaje y el nombrar las cosas son poder... el silencio es opresión y violencia.”
+> “En un mundo donde el lenguaje y el nombrar las cosas son poder... el silencio es opresión y violencia.”
 Adrienne Rich
 
 ![](../images/MT03/transf.jpeg)
