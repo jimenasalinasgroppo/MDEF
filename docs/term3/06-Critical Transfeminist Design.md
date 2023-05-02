@@ -6,6 +6,9 @@ hide:
 # Critical Transfeminist Design
 
 ##Day 1 - Intro
+>> “En un mundo donde el lenguaje y el nombrar las cosas son poder... el silencio es opresión y violencia.”
+adrienne Rich
+
 The importance of acknowledging the colonial background and systemic racism in our structures was a central theme in a recent class. The discussion explored the concept of eugenics and how it has been used to justify terrible acts in the name of moral duty. The use of men to refer to humankind and the British Eugenics Society were also touched upon. Julian Huxley, a biologist and one of the most important thinkers of the British Eugenics Society, promoted the idea of enhancing the human race through genetics. However, eugenics policies were used to sterilize women from ethnic minorities without consent and even with consent, state forces convinced women in precarious situations why they wouldn't be good mothers, etc.
 
 The class also delved into the importance of paying attention to the use of terms, terminology, narrative, and discourses. Spinoza's philosophy, which distinguishes power as negative, restrictive, and oppressive (potestas) from power as positive, affirmative, and empowering (potentia), was also discussed. The idea that politics cannot be split from ethics and epistemology was also highlighted.
