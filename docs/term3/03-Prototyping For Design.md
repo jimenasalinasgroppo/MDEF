@@ -44,8 +44,7 @@ During this session Victor showed us integrations of Python and Blender. The one
 ![](../images/MT03/blender3.jpeg)
 
 Code to receive data:
->> # Check if the data is complete (sometimes the app sends only some of the sensors)
-if len(message.split(b',')) == 17:
+>> if len(message.split(b',')) == 17:
 x = float(message.split(b',')[-2]) * 0.01745
 y = float(message.split(b',')[-1]) * 0.01745
 z = float(message.split(b',')[-3]) * 0.01745 # print(x,y,z)
