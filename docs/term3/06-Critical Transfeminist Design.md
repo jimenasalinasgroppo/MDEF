@@ -22,3 +22,7 @@ The class also explored the concept of the subaltern, which refers to the experi
 The class concluded by emphasizing the importance of being aware of one's own privileges and contradictions, using tools from Western philosophy to open up critical cracks on what topics to address, and acknowledging who occupies the place of enunciation.
 
 The discussion also explored bioethics and biohacking within a queer perspective, emphasizing that there are no universal rules or methodologies.
+
+Mary Magic's idea of synthesizing hormones for queer bodies raises important questions about control and ownership of our bodies, particularly in the context of colonization and bioethics. She proposes that open source hormones could be developed as an alternative to biomedically-produced hormones, which have been shown to contain xenoestrogens that disrupt hormonal balance.
+
+Overall, Mary Magic's proposal opens up important conversations about control, ownership, and autonomy over our own bodies, particularly in the context of colonization and queer bodies. It challenges us to rethink dominant medical narratives and to consider alternative ways of taking care of ourselves and our bodies.
