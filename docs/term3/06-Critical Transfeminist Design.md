@@ -7,7 +7,9 @@ hide:
 
 ##Day 1 - Intro
 >> “En un mundo donde el lenguaje y el nombrar las cosas son poder... el silencio es opresión y violencia.”
-adrienne Rich
+Adrienne Rich
+
+![](../images/MT03/transf.jpeg)
 
 The importance of acknowledging the colonial background and systemic racism in our structures was a central theme in this seminar. The discussion explored the concept of eugenics and how it has been used to justify terrible acts in the name of moral duty. The use of men to refer to humankind and the British Eugenics Society were also touched upon. Julian Huxley, a biologist and one of the most important thinkers of the British Eugenics Society, promoted the idea of enhancing the human race through genetics. However, eugenics policies were used to sterilize women from ethnic minorities without consent and even with consent, state forces convinced women in precarious situations why they wouldn't be good mothers. This resonated with me personally because in Peru during Alberto Fujimori's regime many indigenous women were sterilized without their consent and this practice is still justified by large parts of the Peruvian population.
 
