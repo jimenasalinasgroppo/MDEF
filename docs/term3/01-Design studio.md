@@ -23,7 +23,13 @@ We are also working on wrapping up and documenting our process to scale the proj
 
 [Figma Landing site](https://www.figma.com/file/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?node-id=46%3A2&t=Lr7tCo9V2w7nYxTp-1)
 
-## Sharing back Collage Intervention with Mamás que Leen
+## Ecofeminism
+### Sharing back Collage Intervention with Mamás que Leen
 One of my priorities for this trimester is to share back with a larger community the work related on ecofeminism that I explored during the Second Trimester.
 
 For this reason, I partnered with Carolina to co-create a Medium Publication called Intersectional Tomorrows where we will share reflections and thougths related to our process and results of the intervention. Initially we found ourselves overwhelmed by what to communicate and on what platform but we then decided to start small with one blog post on Medium.
+
+## Perception Board - Futures Literacy in children
+
+### Intervention 1 - Co-creation session with Future Learning at Fab Lab (Xavi and Julia)
+xxxxxx
