@@ -22,6 +22,9 @@ We are also working on wrapping up and documenting our process to scale the proj
 
 [Figma Landing site](https://www.figma.com/file/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?node-id=46%3A2&t=Lr7tCo9V2w7nYxTp-1)
 
+##Ways of drifting
+Jana and Roger made a recap of the "Ways of drifting" that were presented during the second week of the Masters.
+
 ## Ecofeminism
 ### Sharing back Collage Intervention with Mamás que Leen
 One of my priorities for this trimester is to share back with a larger community the work related on ecofeminism that I explored during the Second Trimester.
