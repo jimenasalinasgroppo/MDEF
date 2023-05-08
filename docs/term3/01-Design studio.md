@@ -25,6 +25,12 @@ We are also working on wrapping up and documenting our process to scale the proj
 ##Ways of drifting - Scalability roadmap
 Jana and Roger made a recap of the "Ways of drifting" that were presented during the second week of the Masters. The content resonated with me, in particular the Expansive approach to drifting which I feel has been the way I have been evolving my design practice during MDEF.
 
+Interventions and way of drifting:
+- **Innerbot - Comparative:** Me and Wen found common areas and ways to apply chat GPT4 to help with mental health and IPV healing.
+- **Imagining futures with children - Comparative:** We also approached this design intervention trying to find commonalities between climate change, gender equality and mental health and finding intersections through futures literacy.
+- **Ecofeminism - Probing:** Me and Carolina tried to use arts and crafts as a means to begin conversations around ecofeminism and futures literacy with migrant women.
+- **Perception Board workshop with children - Serial:** We tried to do a second iteration that builds on the learnings from the initial collage creation workshop and deep dive more on the topic areas we have chosen as a group with Ariel and Wen.
+
 **Scalability roadmap**
 Create a distributed network of educators and innovators working at the intersection of design, maker culture, fab labs and integrating design technology into classrooms. With Ariel and Wen we plan on launching this initiative with other MDEF alumni that have also collaborated with schools. We plan to map opportunity areas (such as a repository of schools to collaborate with, open source databases of workshops and tools).
 
