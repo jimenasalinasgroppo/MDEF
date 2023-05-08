@@ -22,8 +22,13 @@ We are also working on wrapping up and documenting our process to scale the proj
 
 [Figma Landing site](https://www.figma.com/file/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?node-id=46%3A2&t=Lr7tCo9V2w7nYxTp-1)
 
-##Ways of drifting
-Jana and Roger made a recap of the "Ways of drifting" that were presented during the second week of the Masters.
+##Ways of drifting - Scalability roadmap
+Jana and Roger made a recap of the "Ways of drifting" that were presented during the second week of the Masters. The content resonated with me, in particular the Expansive approach to drifting which I feel has been the way I have been evolving my design practice during MDEF.
+
+**Scalability roadmap**
+Create a distributed network of educators and innovators working at the intersection of design, maker culture, fab labs and integrating design technology into classrooms. With Ariel and Wen we plan on launching this initiative with other MDEF alumni that have also collaborated with schools. We plan to map opportunity areas (such as a repository of schools to collaborate with, open source databases of workshops and tools).
+
+This relates to my initial interest in gender equality since using new tools can be triggers to having new conversations and discussions. Working with children is also a prevention and care approach to approaching the issue while helping frame conversations.
 
 ## Ecofeminism
 ### Sharing back Collage Intervention with Mamás que Leen
