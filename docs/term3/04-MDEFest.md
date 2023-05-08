@@ -28,3 +28,6 @@ In this session the importance of defining locations and my team collaborated wi
 Today we collectively used a Miro board to find topics in common, synthesize and also look for patterns across the projects the whole class is working on. My project with Carolina around ecofeminism fit under Nature and Craft umbrellas while my project with Wen and Ariel fits under Education sphere.
 
 [Miro board here](https://miro.com/app/board/uXjVMVMmtdU=/)
+
+##Week 4 Day 1 - Brainstorming a common name
+During this session we ideated as a collective on potential names for MDEFest around the concept of the body and futures.
