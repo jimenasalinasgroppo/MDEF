@@ -37,3 +37,7 @@ We also looked at the Aquaforensics project by Robertina Šebjanič and Gjino Š
 Finally, we explored the concept of Design Justice, which emphasizes the need for designers to be more accountable and responsible for their work. The Myconnect project was an example of this approach, where a post-human interconnected planetary perspective was taken to view everything as co-habitants of the planet, rather than resources for exploitation.
 
 Overall, these projects and references challenged my thinking on power dynamics, the illusion of purity, and the importance of collective care. They also emphasized the need for situated epistemologies and the importance of addressing toxic and pure concepts to create a more equitable society.
+
+**Storytelling as a non-extractive research method**
+> As I sit with his stories, I value how storytelling can be a caring way for researchers and participants to collaborate as equal partners. I further wonder, isn’t it ironic to refer to some
+people as‘participants’ and some as ‘researchers’ when there’s a deep two-way exchange of energy and wisdom?
