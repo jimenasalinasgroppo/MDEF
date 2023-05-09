@@ -28,4 +28,12 @@ Mary Magic's idea of synthesizing hormones for queer bodies raises important que
 Overall, Mary Magic's proposal opens up important conversations about control, ownership, and autonomy over our own bodies, particularly in the context of colonization and queer bodies. It challenges us to rethink dominant medical narratives and to consider alternative ways of taking care of ourselves and our bodies.
 
 ##Day 2 - Looking at projects hacking the binary and concepts of pureness
-xxxxx
+During this seminar, we delved into several exciting projects and references that challenged my thinking on various topics. One of the most inspiring projects we looked at was the work of Quimera Rosa and their experimental wet lab in Barcelona. They experiment on themselves and their work is based on the principle of consent and dissent. Their approach gave me a new perspective on accessibility and the possibility of being in touch with other communities and perspectives.
+
+Another reference that resonated with me was Lynn Margulis' book "Symbiotic Planet," which challenged the conventional social neo-darwinist conception of evolution based on struggle. Instead, Margulis proposed the concept of symbiotic interdependence, which can lead to a more harmonious co-existence. This concept reinforced the importance of interconnections and the need to work towards collective care practices.
+
+We also looked at the Aquaforensics project by Robertina Šebjanič and Gjino Šutić, which explored the impact of sound pollution on ocean dwellers. This project pushed the boundaries of where design practice and philosophy start and end and highlighted the need to address privilege, gender roles, and citizenship in our approach to sustainability.
+
+Finally, we explored the concept of Design Justice, which emphasizes the need for designers to be more accountable and responsible for their work. The Myconnect project was an example of this approach, where a post-human interconnected planetary perspective was taken to view everything as co-habitants of the planet, rather than resources for exploitation.
+
+Overall, these projects and references challenged my thinking on power dynamics, the illusion of purity, and the importance of collective care. They also emphasized the need for situated epistemologies and the importance of addressing toxic and pure concepts to create a more equitable society.
