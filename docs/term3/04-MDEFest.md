@@ -30,4 +30,4 @@ Today we collectively used a Miro board to find topics in common, synthesize and
 [Miro board here](https://miro.com/app/board/uXjVMVMmtdU=/)
 
 ##Week 4 Day 1 - Brainstorming a common name
-During this session we ideated as a collective on potential names for MDEFest around the concept of the body and futures.
+During this session we ideated as a collective on potential names for MDEFest around the concept of the body and futures. "No body knows" was the winning title, focusing on the Monster and individual body parts relevant to each of the interventions.
