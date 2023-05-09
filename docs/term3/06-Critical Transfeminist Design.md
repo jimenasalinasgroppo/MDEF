@@ -26,3 +26,6 @@ The discussion also explored bioethics and biohacking within a queer perspective
 Mary Magic's idea of synthesizing hormones for queer bodies raises important questions about control and ownership of our bodies, particularly in the context of colonization and bioethics. She proposes that open source hormones could be developed as an alternative to biomedically-produced hormones, which have been shown to contain xenoestrogens that disrupt hormonal balance.
 
 Overall, Mary Magic's proposal opens up important conversations about control, ownership, and autonomy over our own bodies, particularly in the context of colonization and queer bodies. It challenges us to rethink dominant medical narratives and to consider alternative ways of taking care of ourselves and our bodies.
+
+##Day 2 - Looking at projects hacking the binary and concepts of pureness
+xxxxx
