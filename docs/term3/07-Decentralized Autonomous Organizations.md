@@ -24,4 +24,13 @@ We then did an exercise of reverse engineering our digital lives, understanding 
 
 ![](../images/MT03/dao2.jpeg)
 
-## Session with Mar Canet
+## Sessions with Mar Canet
+In a recent class, we explored the intersection of AI, art, and media technology, particularly in relation to NFTs. The session was led by Mar Canet, who shared his insights on AI-aided ceramic sculptures and their potential for bridging deep learning with materiality.
+
+One of the highlights of the session was the discussion on NFTs and how they are transforming the art world. We learned about an NFT shop located in an abandoned gas station, which sells video performances created using artist-made Snapchat filters as NFTs. Mar also emphasized the importance of using all available tools, including text-to-image generators and chat GPT, to create and sell NFTs.
+
+We then delved into the world of cryptocurrency, specifically Ethereum and its predecessor, Cryptokitties. We learned about the role of miners in blockchain infrastructure and how Ethereum funded Cryptokitties to slow down their operations. Mar also explained the different types of blockchain wallets, including hardware and cold wallets, and how they are essential for securely storing cryptocurrencies.
+
+We discussed the various types of tokens, including fungible, semi-fungible, and non-fungible tokens. Mar highlighted the importance of understanding the technology behind NFTs and how it enables the creation of unique, one-of-a-kind digital assets.
+
+Finally, we created our own wallets using Temple Wallet and learned about IPFS as a good place to store our digital assets. Overall, the session was eye-opening and highlighted the importance of understanding the underlying technology behind NFTs and cryptocurrency in general.
