@@ -44,8 +44,11 @@ Image URL
 Uploaded image to IPFS  - web3 server
 [Uploaded image](https://ipfs.io/ipfs/QmYi7A9X6Cu7sMGG5w2F3efKtYFAUDBYfRGJombVC48Rn2?filename=nft.jpg)
 
-Created profile on Tezos 
+Created profile on Tezos
 https://tzprofiles.com/
 
 Then this gave us a smart contract
 [Smart contract](https://tzkt.io/KT18pfxXapKvRNwWkRdmAaV9q71J8oYhrHvf/operations/)
+
+## Session 3 with Mar Canet
+xxxx
