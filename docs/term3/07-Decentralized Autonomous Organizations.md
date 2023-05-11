@@ -24,7 +24,7 @@ We then did an exercise of reverse engineering our digital lives, understanding 
 
 ![](../images/MT03/dao2.jpeg)
 
-## Sessions with Mar Canet
+## Session 1 with Mar Canet
 In a recent class, we explored the intersection of AI, art, and media technology, particularly in relation to NFTs. The session was led by Mar Canet, who shared his insights on AI-aided ceramic sculptures and their potential for bridging deep learning with materiality.
 
 One of the highlights of the session was the discussion on NFTs and how they are transforming the art world. We learned about an NFT shop located in an abandoned gas station, which sells video performances created using artist-made Snapchat filters as NFTs.
@@ -35,6 +35,17 @@ We then delved into the world of cryptocurrency, specifically Ethereum and its p
 
 We discussed the various types of tokens, including fungible, semi-fungible, and non-fungible tokens. Mar highlighted the importance of understanding the technology behind NFTs and how it enables the creation of unique, one-of-a-kind digital assets.
 
-Finally, we created our own wallets using Temple Wallet and learned about IPFS as a good place to store our digital assets. Overall, the session was eye-opening and highlighted the importance of understanding the underlying technology behind NFTs and cryptocurrency in general.
+## Session 2 with Mar Canet
+We created our own wallets using Temple Wallet and learned about IPFS as a good place to store our digital assets. Overall, the session was eye-opening and highlighted the importance of understanding the underlying technology behind NFTs and cryptocurrency in general.
 
 ![](../images/MT03/dao4.jpeg)
+
+Image URL
+Uploaded image to IPFS  - web3 server
+[Uploaded image](https://ipfs.io/ipfs/QmYi7A9X6Cu7sMGG5w2F3efKtYFAUDBYfRGJombVC48Rn2?filename=nft.jpg)
+
+Created profile on Tezos profile
+https://tzprofiles.com/
+
+Then this gave us a smart contract
+[Smart contract](https://tzkt.io/KT18pfxXapKvRNwWkRdmAaV9q71J8oYhrHvf/operations/)
