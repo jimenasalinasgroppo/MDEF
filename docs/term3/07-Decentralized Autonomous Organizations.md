@@ -50,5 +50,7 @@ https://tzprofiles.com/
 Then this gave us a smart contract
 [Smart contract](https://tzkt.io/KT18pfxXapKvRNwWkRdmAaV9q71J8oYhrHvf/operations/)
 
+[My NFT](https://objkt.com/asset/KT1NznDEUb8SJBSkU5toxRjgxc5ML6LJf5n5/0)
+
 ## Session 3 with Mar Canet
 xxxx
