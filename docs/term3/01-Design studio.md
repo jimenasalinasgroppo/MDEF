@@ -73,8 +73,11 @@ As a group, we are also planning on hosting a Zoom session with MDEF alumni that
 Ariel contacted Merce, the school director, to coordinate having a session with 3rd grade students during June. Merce offered us a one hour slot during June 8th for 90 students.
 
 This has brought the following design constraints:
+
 - Because of the large quantity, we might need to divide ourselves up or just run a super quick exercise with each of the 3 classes.
+
 - We can do a train the trainers program for teachers to see if they want to implement in their own schedules. This was Xavi's suggestion.
+
 - Unfortunately the school does not have other time slots to offer because of the dates and reaching out to a new school is not a possibility at this stage.
 
 Our challenge right now is to iterate the workshop to fit the new constraints.
