@@ -53,3 +53,6 @@ z = float(message.split(b',')[-3]) * 0.01745 # print(x,y,z)
 context.object.rotation_euler.x = x
 context.object.rotation_euler.y = y
 context.object.rotation_euler.z = z
+
+##Day 3 - Digital Prototyping for Design - Final challenge
+For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artefacts to be handled by teachers during the implementation of our Perception Board.
