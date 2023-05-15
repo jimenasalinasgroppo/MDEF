@@ -31,3 +31,11 @@ Today we collectively used a Miro board to find topics in common, synthesize and
 
 ##Week 4 Day 1 - Brainstorming a common name
 During this session we ideated as a collective on potential names for MDEFest around the concept of the body and futures. "No body knows" was the winning title, focusing on the Monster and individual body parts relevant to each of the interventions.
+
+##Week 4 Day 2 - Choosing a Name
+During this session we collectively chose a winning name "No body knows the future" and did a voting session for the specific body parts. We also started drafting a table were we deep dived on the specifics for my MDEFest intervention with Wen and Ariel.
+
+##Week 5 Day 1 - Comms and Design Brief
+During this session we did a branding and communication exercise to think of the visual brand and look and feel for "No body knows the future". We also came up with the caption "Fantastic quimeras of the future". It is exciting to see how MDEFest is taking shape and starting to look like a collective effort.
+
+[Miro board here](https://miro.com/app/board/uXjVMVMmtdU=/)
