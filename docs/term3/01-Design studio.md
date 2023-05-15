@@ -68,3 +68,13 @@ Some learnings that emerged from the conversation.
 After the session we emailed the director of the school hoping we can schedule a session during May or early June.
 
 As a group, we are also planning on hosting a Zoom session with MDEF alumni that have also worked with schools, bringing all of us together to share experiences and also officially launch our tools to map perceptions and design futures collaboratively with children. As next steps, we are gathering the emails of the students and defining the theme of the conversation during the MDEFest sessions.
+
+### Intervention 2 - Async planning with teachers from Sant Andreu School in Badalona
+Ariel contacted Merce, the school director, to coordinate having a session with 3rd grade students during June. Merce offered us a one hour slot during June 8th for 90 students.
+
+This has brought the following design constraints:
+- Because of the large quantity, we might need to divide ourselves up or just run a super quick exercise with each of the 3 classes.
+- We can do a train the trainers program for teachers to see if they want to implement in their own schedules. This was Xavi's suggestion.
+- Unfortunately the school does not have other time slots to offer because of the dates and reaching out to a new school is not a possibility at this stage.
+
+Our challenge right now is to iterate the workshop to fit the new constraints.
