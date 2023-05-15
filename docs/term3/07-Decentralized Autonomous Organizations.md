@@ -53,4 +53,17 @@ Then this gave us a smart contract
 [My NFT](https://objkt.com/asset/KT1NznDEUb8SJBSkU5toxRjgxc5ML6LJf5n5/0)
 
 ## Session 3 with Mar Canet
-xxxx
+Reflecting on the final seminar taught by Mar Canet, one topic that stood out to me was the concept of decentralized autonomous organizations (DAOs). These organizations utilize blockchain technology to enforce rules and protocols in a transparent and autonomous manner. What fascinated me the most was the idea that DAOs enable millions of dollars to be invested in art through collective decision-making processes.
+
+During the seminar, we were introduced to an intriguing example of a decentralized autonomous artist called Botto, whose works of art are created based on feedback from the community.
+
+Another highlight of the seminar was the discussion on the concept of latent space. Latent space refers to hidden or emerging aspects that cannot be directly studied in any field.
+
+Additionally, we discussed Jonas Lund, an artist who has incorporated DAOs into his work. Lund's chatbot, "Talk with Jonas Lund," sparked interesting conversations about the intersection of AI and art.
+
+Overall, this final seminar with Mar Canet left a lasting impression on me. The concepts of DAOs, decentralized artists, latent space, and the integration of AI in art have broadened my understanding of the evolving relationship between technology and creativity.
+
+**Draft proposal for NFT Collection Project using children's imagined futures**
+We hope to implement this during the Fab Lab challenge.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7rJwWXSReQExywpBW0bKPvWJt6kfyu8u5uicM768OtuHFyZ6dbZo0FX_O9AjlF3kmqMihafSfdh_j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
