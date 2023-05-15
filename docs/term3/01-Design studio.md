@@ -46,6 +46,11 @@ One of my priorities for this trimester is to share back with a larger community
 
 For this reason, I partnered with Carolina to co-create a Medium Publication called Intersectional Tomorrows where we will share reflections and thougths related to our process and results of the intervention. Initially we found ourselves overwhelmed by what to communicate and on what platform but we then decided to start small with one blog post on Medium.
 
+###Medium Article
+Me and Carolina quickly worked on writing a Medium article. We found the task to be quite easy since we had already documented our learnings for Design Studio purposes. We focused on channeling the depth of the insights we gained as a result of working closely with Mamás que Leen.
+
+[You can read the article here](https://medium.com/tomorrows/ecofeminism-and-collage-creation-workshop-with-mam%C3%A1s-que-leen-an-invitation-to-create-and-be-part-f8e28d05dd30)
+
 ## Perception Board - Futures Literacy in children
 
 ### Intervention 1 - Co-creation session with Future Learning at Fab Lab (Xavi)
