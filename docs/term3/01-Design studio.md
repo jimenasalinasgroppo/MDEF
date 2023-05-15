@@ -49,6 +49,8 @@ For this reason, I partnered with Carolina to co-create a Medium Publication cal
 ###Medium Article
 Me and Carolina quickly worked on writing a Medium article. We found the task to be quite easy since we had already documented our learnings for Design Studio purposes. We focused on channeling the depth of the insights we gained as a result of working closely with Mamás que Leen.
 
+![](../images/MT03/article.jpeg)
+
 [You can read the article here](https://medium.com/tomorrows/ecofeminism-and-collage-creation-workshop-with-mam%C3%A1s-que-leen-an-invitation-to-create-and-be-part-f8e28d05dd30)
 
 ## Perception Board - Futures Literacy in children
