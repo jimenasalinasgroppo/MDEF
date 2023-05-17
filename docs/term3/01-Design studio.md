@@ -94,8 +94,10 @@ During this week we focused on building a digital interface where children could
 
 In parallel, we also iterated our workshop with children looking at the design constraints of working with 90 children.
 
-Some alternatives we have explored.
+**Some alternatives we have explored.**
+
 - Having a one-hour session in one same big space and dividing them all into smaller groups + relying on teachers for facilitation.
+
 - Iterate our session to a quick product demo and go into each classroom for quick 20 minutes slots to gather their opinions and feedback.
 
 Overall, we want to loosen control of the workshop and see what emerges of just bringing the product and choosing a specific topic to discuss such as climate change and deforestation.
