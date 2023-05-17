@@ -88,3 +88,14 @@ This has brought the following design constraints:
 - Unfortunately the school does not have other time slots to offer because of the dates and reaching out to a new school is not a possibility at this stage.
 
 Our challenge right now is to iterate the workshop to fit the new constraints.
+
+### Prototyping for Design Challenge week
+During this week we focused on building a digital interface where children could map their invented futures and pick one out of two Dall-E generated images to feed an interactive gallery.
+
+In parallel, we also iterated our workshop with children looking at the design constraints of working with 90 children.
+
+Some alternatives we have explored.
+- Having a one-hour session in one same big space and dividing them all into smaller groups + relying on teachers for facilitation.
+- Iterate our session to a quick product demo and go into each classroom for quick 20 minutes slots to gather their opinions and feedback.
+
+Overall, we want to loosen control of the workshop and see what emerges of just bringing the product and choosing a specific topic to discuss such as climate change and deforestation.

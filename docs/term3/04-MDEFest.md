@@ -39,3 +39,8 @@ During this session we collectively chose a winning name "No body knows the futu
 During this session we did a branding and communication exercise to think of the visual brand and look and feel for "No body knows the future". We also came up with the caption "Fantastic quimeras of the future". It is exciting to see how MDEFest is taking shape and starting to look like a collective effort.
 
 [Miro board here](https://miro.com/app/board/uXjVMVMmtdU=/)
+
+**We also updated our event description and details:**
+🌍 Join the Perception Board Workshop: Unleash Your Voice for Change! Calling all visionary high school students ready to amplify their impact! Step into an immersive learning adventure with the Perception Board—an interactive map that empowers you to share your opinions on climate change, mental health, and equality. Engage in thought-provoking discussions, challenge the status quo, and shape the future you want to see. Let's map a better future together! 🌟
+
+**Date:** June 8th from 10:15 to 11:15 AM

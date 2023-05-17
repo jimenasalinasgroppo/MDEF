@@ -59,4 +59,10 @@ For this week, me, Wen and Ariel were planning to push forward the creation of A
 
 This was the challenge where we had the least clarity of what we wanted our output to be. This affected our planning the first day but we later figured out ways to embrace the ambiguity of the process.
 
-One strategic action we took during this week was to prioritize and choose the most complicated task first and invest most of our time on figuring how to set up the text-to-image web app. 
+One strategic action we took during this week was to prioritize and choose the most complicated task first and invest most of our time on figuring how to set up the text-to-image web app.
+
+The result was a Web app that allows children to input their futures, generate 2 images that they can choose from and then generate a gallery or repository of all the futures.
+
+My role during the week was to prototype with different ways to make the web app work and focus on documenting and prepping all the assets required for the intervention with the schools. Ariel was in charge of coding the product and Wen in charge of facilitating and solving bugs in the code. We were very time efficient and tried to focus on being very intentional with the digital interface we were building.
+
+![](../images/MT03/futures.jpeg)
