@@ -55,4 +55,8 @@ context.object.rotation_euler.y = y
 context.object.rotation_euler.z = z
 
 ##Day 3 - Digital Prototyping for Design - Final challenge
-For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artefacts to be handled by teachers during the implementation of our Perception Board.
+For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artifacts to be handled by teachers during the implementation of our Perception Board.
+
+This was the challenge where we had the least clarity of what we wanted our output to be. This affected our planning the first day but we later figured out ways to embrace the ambiguity of the process.
+
+One strategic action we took during this week was to prioritize and choose the most complicated task first and invest most of our time on figuring how to set up the text-to-image web app. 
