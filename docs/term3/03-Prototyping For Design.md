@@ -67,7 +67,6 @@ My role during the week was to prototype with different ways to make the web app
 
 **How the project links to my research project** (Design studio)
 
-
 ![](../images/MT03/futures.jpeg)
 
 [Project Repo](https://github.com/jimenasalinasgroppo/microchallenge-03)
