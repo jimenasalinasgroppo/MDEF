@@ -54,7 +54,7 @@ context.object.rotation_euler.x = x
 context.object.rotation_euler.y = y
 context.object.rotation_euler.z = z
 
-##Challenge Week Term III - Digital Prototyping for Design 
+##Challenge Week Term III - Digital Prototyping for Design
 For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artifacts to be handled by teachers during the implementation of our Perception Board.
 
 This was the challenge where we had the least clarity of what we wanted our output to be. This affected our planning the first day but we later figured out ways to embrace the ambiguity of the process.
@@ -65,4 +65,9 @@ The result was a Web app that allows children to input their futures, generate 2
 
 My role during the week was to prototype with different ways to make the web app work and focus on documenting and prepping all the assets required for the intervention with the schools. Ariel was in charge of coding the product and Wen in charge of facilitating and solving bugs in the code. We were very time efficient and tried to focus on being very intentional with the digital interface we were building.
 
+**How the project links to my research project** (Design studio)
+
+
 ![](../images/MT03/futures.jpeg)
+
+[Project Repo](https://github.com/jimenasalinasgroppo/microchallenge-03)
