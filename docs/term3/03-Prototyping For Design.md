@@ -66,6 +66,7 @@ The result was a Web app that allows children to input their futures, generate 2
 My role during the week was to prototype with different ways to make the web app work and focus on documenting and prepping all the assets required for the intervention with the schools. Ariel was in charge of coding the product and Wen in charge of facilitating and solving bugs in the code. We were very time efficient and tried to focus on being very intentional with the digital interface we were building.
 
 **How the project links to my research project** (Design studio)
+This digital interface relates to my research project since my initial hypothesis was to work at the service of children's visions regarding equality. If we conduct a session focused more on inclusion and gender equality, I could use the digital interface to visualize their own futures in regards to these subjects.
 
 ![](../images/MT03/futures.jpeg)
 
