@@ -66,6 +66,8 @@ One strategic action we took during this week was to prioritize and choose the m
 
 The result was a Web app that allows children to input their futures, generate 2 images that they can choose from as a result and then generate a gallery or repository of all the compiled futures. We felt this gallery could then be used to sell either NFTs or physical posters of the output as a fundraising mechanism for parent associations.
 
+![](../images/MT03/screen0.jpeg)
+
 **My personal contribution**
 
 My role during the week was to prototype with different ways to make the web app work and focus on documenting and prepping all the assets required for the intervention with the schools using Figma and getting ready the print assets. Ariel was in charge of coding the product and coordinating with the school director. Wen was in charge of facilitating and solving bugs in the code while also making sure our prompts to chat GPT4 were as close to what we required as possible. We were very time efficient and tried to focus on being very intentional with the digital interface we were building.
