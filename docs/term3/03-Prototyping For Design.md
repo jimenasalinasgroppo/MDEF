@@ -85,6 +85,7 @@ This digital interface relates to my research project since my initial hypothesi
 ![](../images/MT03/screen3.png)
 
 **Final interface**
+
 Our final interface looks like the images below. We tried to make the copy as easy to understand as possible while making the UI visually attractive as well.
 
 ![](../images/MT03/screen.png)
