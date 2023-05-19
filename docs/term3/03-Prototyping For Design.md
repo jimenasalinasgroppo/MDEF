@@ -55,19 +55,28 @@ context.object.rotation_euler.y = y
 context.object.rotation_euler.z = z
 
 ##Challenge Week Term III - Digital Prototyping for Design
-For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artifacts to be handled by teachers during the implementation of our Perception Board.
+For this week, me, Wen and Ariel were planning to push forward the creation of AI-generated imagery using the children's imagined futures as inputs. We want to also focus on outlining the systems design of integrating digital artifacts to be handled by students during the implementation of our Perception Board.
 
 This was the challenge where we had the least clarity of what we wanted our output to be. This affected our planning the first day but we later figured out ways to embrace the ambiguity of the process.
 
 One strategic action we took during this week was to prioritize and choose the most complicated task first and invest most of our time on figuring how to set up the text-to-image web app.
 
-The result was a Web app that allows children to input their futures, generate 2 images that they can choose from and then generate a gallery or repository of all the futures.
+The result was a Web app that allows children to input their futures, generate 2 images that they can choose from and then generate a gallery or repository of all the compiled futures.
 
 My role during the week was to prototype with different ways to make the web app work and focus on documenting and prepping all the assets required for the intervention with the schools. Ariel was in charge of coding the product and Wen in charge of facilitating and solving bugs in the code. We were very time efficient and tried to focus on being very intentional with the digital interface we were building.
+
+**Feedback received during challenge week**
+As we had a functioning product, we had very useful feedback related to the ethical implications of using Dall-E with children and how that can affect our own learning outcomes. What stood out for me the most was how our collage creation exercise is actually analog to how algorithms are created with specific inputs. In that sense, introducing the Digital interface of creation of futures can be used, having a conversation around the ethical implications of AI with children.
 
 **How the project links to my research project** (Design studio)
 This digital interface relates to my research project since my initial hypothesis was to work at the service of children's visions regarding equality. If we conduct a session focused more on inclusion and gender equality, I could use the digital interface to visualize their own futures in regards to these subjects.
 
 ![](../images/MT03/futures.jpeg)
+
+![](../images/MT03/screen3.png)
+
+![](../images/MT03/screen.png)
+
+![](../images/MT03/screen2.png)
 
 [Project Repo](https://github.com/jimenasalinasgroppo/microchallenge-03)
