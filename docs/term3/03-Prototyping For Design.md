@@ -92,4 +92,6 @@ Our final interface looks like the images below. We tried to make the copy as ea
 
 ![](../images/MT03/screen2.png)
 
+![](../images/MT03/presentation.jpeg)
+
 [Project Repo](https://github.com/jimenasalinasgroppo/microchallenge-03)
