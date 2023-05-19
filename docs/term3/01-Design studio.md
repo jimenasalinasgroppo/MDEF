@@ -36,6 +36,7 @@ Interventions and way of drifting:
 - **Perception Board workshop with children - Serial:** We tried to do a second iteration that builds on the learnings from the initial collage creation workshop and deep dive more on the topic areas we have chosen as a group with Ariel and Wen.
 
 **Scalability roadmap**
+
 Create a distributed network of educators and innovators working at the intersection of design, maker culture, fab labs and integrating design technology into classrooms. With Ariel and Wen we plan on launching this initiative with other MDEF alumni that have also collaborated with schools. We plan to map opportunity areas (such as a repository of schools to collaborate with, open source databases of workshops and tools).
 
 This relates to my initial interest in gender equality since using new tools can be triggers to having new conversations and discussions. Working with children is also a prevention and care approach to approaching the issue while helping frame conversations.
