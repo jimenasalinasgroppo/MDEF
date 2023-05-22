@@ -117,25 +117,48 @@ Overall, we want to loosen control of the workshop and see what emerges of just 
 
 **Why?**
 
-Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems.
-Generate content around ecofeminism and bring together designers, academics and/or makers working in this intersection with communities around the World.
+- Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems.
+
+- Generate content around ecofeminism and bring together designers, academics and/or makers working in this intersection with communities around the World.
 
 **What?**
 
-Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere.
-Blog posts, videos and online conferences around the topic of ecofeminism.
+- Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere.
+
+- Blog posts, videos and online conferences around the topic of ecofeminism.
 
 **Who?**
 
-Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
-Designers, activists and artists working on ecofeminism from a climate change / nature perspective or gender equality.
+- Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+
+- Designers, activists and artists working on ecofeminism from a climate change / nature perspective or gender equality.
 
 **Where?**
 
-Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces.
-Online community that echoes physical interventions in local community spaces.
+- Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces.
+
+- Online community that echoes physical interventions in local community spaces.
 
 **When?**
 
-In the short term, activities in school in Badalona, long term activities replicated by external participants.
-Release of online community during 2023.
+- In the short term, activities in school in Badalona, long term activities replicated by external participants.
+
+- Release of online community during 2023.
+
+These are our combined answers with Wen and Ariel for Little Big Futures project.
+
+**Why?**
+
+Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems. To reimagine future tools of education creating alternative ways for children and teenagers to talk about difficult topics and improve the dialogue skills in the society
+
+**What?**
+Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere. Perception Board and Tools, both physical and digital
+
+**Who?**
+Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+
+**Where?**
+Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces. Could also happen online.
+
+**When?**
+In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
