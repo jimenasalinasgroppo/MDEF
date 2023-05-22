@@ -112,3 +112,30 @@ In parallel, we also iterated our workshop with children looking at the design c
 - Iterate our session to a quick product demo and go into each classroom for quick 20 minutes slots to gather their opinions and feedback.
 
 Overall, we want to loosen control of the workshop and see what emerges of just bringing the product and choosing a specific topic to discuss such as climate change and deforestation.
+
+###The 5Ws of scaling
+
+**Why?**
+
+Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems.
+Generate content around ecofeminism and bring together designers, academics and/or makers working in this intersection with communities around the World.
+
+**What?**
+
+Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere.
+Blog posts, videos and online conferences around the topic of ecofeminism.
+
+**Who?**
+
+Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+Designers, activists and artists working on ecofeminism from a climate change / nature perspective or gender equality.
+
+**Where?**
+
+Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces.
+Online community that echoes physical interventions in local community spaces.
+
+**When?**
+
+In the short term, activities in school in Badalona, long term activities replicated by external participants.
+Release of online community during 2023.
