@@ -93,6 +93,8 @@ Our challenge right now is to iterate the workshop to fit the new constraints.
 ### Prototyping for Design Challenge week
 During this week we focused on building a digital interface where children could map their invented futures and pick one out of two Dall-E generated images to feed an interactive gallery.
 
+[Our challenge documentation](https://github.com/jimenasalinasgroppo/microchallenge-03)
+
 In parallel, we also iterated our workshop with children looking at the design constraints of working with 90 children.
 
 **Some alternatives we have explored.**
