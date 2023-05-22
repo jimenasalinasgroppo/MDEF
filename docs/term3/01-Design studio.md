@@ -37,9 +37,17 @@ Interventions and way of drifting:
 
 **Scalability roadmap**
 
-Create a distributed network of educators and innovators working at the intersection of design, maker culture, fab labs and integrating design technology into classrooms. With Ariel and Wen we plan on launching this initiative with other MDEF alumni that have also collaborated with schools. We plan to map opportunity areas (such as a repository of schools to collaborate with, open source databases of workshops and tools).
+My scalability strategy will revolve around creating a network of experts collaborating in the field and generating content tailored to this community.
+
+- Create a distributed network of educators and innovators working at the intersection of design, maker culture, fab labs and integrating design technology into classrooms. With Ariel and Wen we plan on launching this initiative with other MDEF alumni that have also collaborated with schools. We plan to map opportunity areas (such as a repository of schools to collaborate with, open source databases of workshops and tools).
 
 This relates to my initial interest in gender equality since using new tools can be triggers to having new conversations and discussions. Working with children is also a prevention and care approach to approaching the issue while helping frame conversations.
+
+- Create a Medium publication with Carolina around Ecofeminist futures to generate a virtual following of professionals also interested in this design intersection.
+
+- Continue my bimonthly newsletter on designing for gender-inclusive futures.
+
+- Submit Little Big Futures project to design competitions including Duth Design Week, Vienna Design Week and Prototypes for Humanity Design Competition in Dubai.
 
 ## Ecofeminism
 ### Sharing back Collage Intervention with Mamás que Leen
