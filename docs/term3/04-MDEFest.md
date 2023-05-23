@@ -44,3 +44,6 @@ During this session we did a branding and communication exercise to think of the
 🌍 Join the Perception Board Workshop: Unleash Your Voice for Change! Calling all visionary high school students ready to amplify their impact! Step into an immersive learning adventure with the Perception Board—an interactive map that empowers you to share your opinions on climate change, mental health, and equality. Engage in thought-provoking discussions, challenge the status quo, and shape the future you want to see. Let's map a better future together! 🌟
 
 **Date:** June 8th from 10:15 to 11:15 AM
+
+##Week 5 Day 1 - Comms and Design Brief
+AS a group, we voted on the branding proposals made by Manu. One was more tech-focused and AI-driven and the other more hand-drawn illustrated. The voting proposal was the tech/AI-driven one. Me, Wen and Ariel will think of how to make it more attractive for children and school teachers.
