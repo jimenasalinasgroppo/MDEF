@@ -167,10 +167,10 @@ In the short term, activities in school in Badalona, long term activities are re
 
 Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
 
-![](../images/MT03/polarization.jpeg)
-
 ### Designing the workshop - Getting feedback from experts
 This week I focused on gathering feedback from Mariana, Tomás and Rachel, who is an expert in GBV and designing programs with NGOs. For both sessions, I told them rapidly about the workshop plan, inspired by a 2x2 image I found on the Internet that shows a polarization map in regards to sentiments and perceptions of people in different countries. I was inspired by how it does not speak of solutions but of narratives and sentiments. One thought I had was how can we bring that back to the workshop with 90 teenagers.
+
+![](../images/MT03/polarization.jpeg)
 
 **Some reflections after gathering feedback:**
 
