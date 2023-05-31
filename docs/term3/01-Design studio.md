@@ -166,3 +166,20 @@ In the short term, activities in school in Badalona, long term activities are re
 ###Activity 2: How?
 
 Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
+
+![](../images/MT03/polarization.jpeg)
+
+### Designing the workshop - Getting feedback from experts
+This week I focused on gathering feedback from Mariana, Tomás and Rachel, who is an expert in GBV and designing programs with NGOs. For both sessions, I told them rapidly about the workshop plan, inspired by a 2x2 image I found on the Internet that shows a polarization map in regards to sentiments and perceptions of people in different countries. I was inspired by how it does not speak of solutions but of narratives and sentiments. One thought I had was how can we bring that back to the workshop with 90 teenagers.
+
+**Some reflections after gathering feedback:**
+
+- Perception mapping relates to Reality Tunnels - since teenagers especially are increasingly exposed to confirmation biases via TikTok where algorithms work almost instantly.
+
+- There is an opportunity to embed critical hope when discussing the state of the world, especially in regards to pressing issues such as climate change, equality and mental health. While it is vital to be critical, it is equally as important to have an agenda of hope and leave the workshop assistants with a positive note about the state of the world and how it can change for good.
+
+- Mariana shared how the Atlas of Weak Signals all have positive trends and signals intentionally and made me think of what type of educator I want to be.
+
+- Rachel shared a podcast episode of Hidden Brain called “How Your Beliefs Shape Reality” where this is also relevant since it uses evidence-backed neuroscience studies to show how humans' perception about the Universe being just and being beautiful affect how they relate to the world and how they even show up in certain spaces.
+
+- In regards to my project with Wen and Ariel this made me think how we can not only talk about filter bubbles and echo chambers and designing solutions using co-creation, but that this project also relates to how teenagers feel towards the World and the state of things. Thus, it is important to embed critical hope and while it is important to show how opinions are malleable, it is also important to embed hope into the workshop.
