@@ -113,7 +113,7 @@ In parallel, we also iterated our workshop with children looking at the design c
 
 Overall, we want to loosen control of the workshop and see what emerges of just bringing the product and choosing a specific topic to discuss such as climate change and deforestation.
 
-###Activity 1: The 5Ws of scaling
+## Scaling: Activity 1- The 5Ws of scaling
 
 **Why?**
 
@@ -163,7 +163,7 @@ Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin Americ
 **When?**
 In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
 
-###Activity 2: How?
+## Scaling: Activity 2- How?
 
 Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
 

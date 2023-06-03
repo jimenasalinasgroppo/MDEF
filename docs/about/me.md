@@ -8,6 +8,8 @@ Design Lead born in Lima, Perú and currently living in Barcelona. I am interest
 > “To dismantle structural inequality and advance collective liberation and ecological survival.”
 Sasha Constanza-Chock, Design Justice
 
+> "Feminist objectivity means quite simply situated knowledges."
+Donna J. Haraway
 
 **Alternative present**
 Humans like myself (and especially younger generations, women and migrants) have the tools, skills and designated spaces to not only imagine but actively co-create futures with an ecofeminist perspective.
