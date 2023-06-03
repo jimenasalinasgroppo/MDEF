@@ -183,3 +183,5 @@ This week I focused on gathering feedback from Mariana, Tomás and Rachel, who i
 - Rachel shared a podcast episode of Hidden Brain called “How Your Beliefs Shape Reality” where this is also relevant since it uses evidence-backed neuroscience studies to show how humans' perception about the Universe being just and being beautiful affect how they relate to the world and how they even show up in certain spaces.
 
 - In regards to my project with Wen and Ariel this made me think how we can not only talk about filter bubbles and echo chambers and designing solutions using co-creation, but that this project also relates to how teenagers feel towards the World and the state of things. Thus, it is important to embed critical hope and while it is important to show how opinions are malleable, it is also important to embed hope into the workshop.
+
+- During my conversation with Tomás, he gave us some actionable feedback. To use more concise prompts, simple language and make it more visual. He also suggested we get to know the class before to understand our users better. He mentioned the work of Ugur Gallenkus as a photographic reference and the book “Adversarial Design.”
