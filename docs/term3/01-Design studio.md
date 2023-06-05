@@ -187,3 +187,11 @@ This week I focused on gathering feedback from Mariana, Tomás and Rachel, who i
 - During my conversation with Tomás, he gave us some actionable feedback. To use more concise prompts, simple language and make it more visual. He also suggested we get to know the class before to understand our users better. He mentioned the work of Ugur Gallenkus as a photographic reference and the book “Adversarial Design.”
 
 - An interesting reference I found online is The World Talks. The World Talks is an online experiment where 2 strangers around the world are connected online based on survey answers and a matchmaking algorithm. The intention is to match people with opposite political views in relation to climate change and migration and is an exercise to counter polarization. In essence, it is very similar to what we are trying to achieve as a group. They also have a guide of top 10 rules for a good discussion that we will apply with the children.
+
+### Workshop prep - Setting up the agenda and presentation
+
+With Wen and Ariel we dedicated a work session to refining our agenda, detailed script and presentation.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSatTTImB0ZxQ1Hkg6_JTX6yDSupz8rt0FjpkDVNE3fW-p71X0p3GyZAL97MltnWsWoTea4EGs6HjOl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+We will also be visiting the school on Tuesday to introduce ourselves to the teachers, have a look at the space and infrastructure and meet the students (if possible).
