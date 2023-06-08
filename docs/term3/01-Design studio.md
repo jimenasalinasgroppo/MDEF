@@ -49,6 +49,60 @@ This relates to my initial interest in gender equality since using new tools can
 
 - Submit Little Big Futures project to design competitions including Duth Design Week, Vienna Design Week and Prototypes for Humanity Design Competition in Dubai.
 
+## Design studio class Scaling: Activity 1- The 5Ws of scaling
+
+**Why?**
+
+- Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems.
+
+- Generate content around ecofeminism and bring together designers, academics and/or makers working in this intersection with communities around the World.
+
+**What?**
+
+- Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere.
+
+- Blog posts, videos and online conferences around the topic of ecofeminism.
+
+**Who?**
+
+- Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+
+- Designers, activists and artists working on ecofeminism from a climate change / nature perspective or gender equality.
+
+**Where?**
+
+- Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces.
+
+- Online community that echoes physical interventions in local community spaces.
+
+**When?**
+
+- In the short term, activities in school in Badalona, long term activities replicated by external participants.
+
+- Release of online community during 2023.
+
+These are our combined answers with Wen and Ariel for Little Big Futures project.
+
+**Why?**
+
+Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems. To reimagine future tools of education creating alternative ways for children and teenagers to talk about difficult topics and improve the dialogue skills in the society
+
+**What?**
+Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere. Perception Board and Tools, both physical and digital
+
+**Who?**
+Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+
+**Where?**
+Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces. Could also happen online.
+
+**When?**
+In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
+
+## Scaling: Activity 2- How?
+
+Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
+
 ## Ecofeminism
 ### Sharing back Collage Intervention with Mamás que Leen
 One of my priorities for this trimester is to share back with a larger community the work related on ecofeminism that I explored during the Second Trimester.
@@ -216,57 +270,3 @@ They marked both yes and no, interesting to see they don’t fully agree on this
 For future iterations of the workshop, we would focus more on one specific topic, reduce the quantity of students and allow for more in-depth discussion. I personally feel the Perception Board is a conversation starter to address taboo topics or generate an excuse to have debate sessions within the classrooms.
 
 Overall, I feel this intervention was a good wrap up for our MDEF experience. It combined all of our interests and was also proof of the trust we had built with the school teachers and directors. The format itself was quite challenging with 90 teenagers and only one hour but it was a great stress test for our product. I feel there is a huge opportunity area in developing workshops that aim to improve soft skills and futures literacy, while engaging with children as empowered actors with points of view that should be integrated into the design of goods and services.
-
-## Design studio class Scaling: Activity 1- The 5Ws of scaling
-
-**Why?**
-
-- Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems.
-
-- Generate content around ecofeminism and bring together designers, academics and/or makers working in this intersection with communities around the World.
-
-**What?**
-
-- Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere.
-
-- Blog posts, videos and online conferences around the topic of ecofeminism.
-
-**Who?**
-
-- Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
-
-- Designers, activists and artists working on ecofeminism from a climate change / nature perspective or gender equality.
-
-**Where?**
-
-- Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces.
-
-- Online community that echoes physical interventions in local community spaces.
-
-**When?**
-
-- In the short term, activities in school in Badalona, long term activities replicated by external participants.
-
-- Release of online community during 2023.
-
-These are our combined answers with Wen and Ariel for Little Big Futures project.
-
-**Why?**
-
-Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems. To reimagine future tools of education creating alternative ways for children and teenagers to talk about difficult topics and improve the dialogue skills in the society
-
-**What?**
-Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere. Perception Board and Tools, both physical and digital
-
-**Who?**
-Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
-
-**Where?**
-Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces. Could also happen online.
-
-**When?**
-In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
-
-## Scaling: Activity 2- How?
-
-Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
