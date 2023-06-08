@@ -267,6 +267,16 @@ They marked both yes and no, interesting to see they don’t fully agree on this
 
 - The teacher mentioned that we should include gender equality during the session. We added a question last minute, but found out that the wording was a bit too complicated for them and we should keep it as simple as possible.
 
+**Opinions from students:**
+
+- Chat GPT can’t be used as an alternative to therapy because it can’t empathize and has no feelings. Therapy should be subsidized or made more accessible but not through that type of technology.
+
+- Humans and animals know how to coexist. However, humans should find ways to not kill animals in excess and be less cruel. They also feel veganism is not a solution and that some people even do it more because it’s a trend.
+
+- It was interesting to see one female student speak up and share that she had been bullied by 2 students from the class and that chat GPT had helped her express herself and feel understood during class because she could not call her parents during class time. She felt Chat GPT had really helped her.
+
+- At some point, the discussions got very heated and Ariel had to remind them of the rules of engagement. After each argument, students would clap one another and we actually found that we were doing the opposite of what we intended (polarizing the class more). Something to keep in mind is how to manage the energy in the classroom because these types of arguments tend to get personal and resonate emotionally wit some students.
+
 For future iterations of the workshop, we would focus more on one specific topic, reduce the quantity of students and allow for more in-depth discussion. I personally feel the Perception Board is a conversation starter to address taboo topics or generate an excuse to have debate sessions within the classrooms.
 
 Overall, I feel this intervention was a good wrap up for our MDEF experience. It combined all of our interests and was also proof of the trust we had built with the school teachers and directors. The format itself was quite challenging with 90 teenagers and only one hour but it was a great stress test for our product. I feel there is a huge opportunity area in developing workshops that aim to improve soft skills and futures literacy, while engaging with children as empowered actors with points of view that should be integrated into the design of goods and services.
