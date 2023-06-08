@@ -253,11 +253,9 @@ Yes and No - 3 (21%)
 Observation:
 They marked both yes and no, interesting to see they don’t fully agree on this one. We personally feel some tension is good for the exercise.
 
-![](../images/MT03/IMG_1303.jpg)
+![](../images/MT03/workshop3.JPG)
 
-![](../images/MT03/IMG_1304.jpg)
-
-![](../images/MT03/IMG_1307.jpg)
+![](../images/MT03/workshop4.JPG)
 
 **Workshop learnings:**
 
@@ -283,11 +281,9 @@ They marked both yes and no, interesting to see they don’t fully agree on this
 
 - At some point, the discussions got very heated and Ariel had to remind them of the rules of engagement. After each argument, students would clap one another and we actually found that we were doing the opposite of what we intended (polarizing the class more). Something to keep in mind is how to manage the energy in the classroom because these types of arguments tend to get personal and resonate emotionally wit some students.
 
-![](../images/MT03/IMG_9240.JPG)
+![](../images/MT03/workshop5.JPG)
 
-![](../images/MT03/IMG_9248.JPG)
-
-![](../images/MT03/IMG_9272.JPG)
+![](../images/MT03/workshop6.JPG)
 
 For future iterations of the workshop, we would focus more on one specific topic, reduce the quantity of students and allow for more in-depth discussion. I personally feel the Perception Board is a conversation starter to address taboo topics or generate an excuse to have debate sessions within the classrooms.
 
