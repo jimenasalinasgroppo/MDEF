@@ -113,7 +113,111 @@ In parallel, we also iterated our workshop with children looking at the design c
 
 Overall, we want to loosen control of the workshop and see what emerges of just bringing the product and choosing a specific topic to discuss such as climate change and deforestation.
 
-## Scaling: Activity 1- The 5Ws of scaling
+### Designing the workshop - Getting feedback from experts
+This week I focused on gathering feedback from Mariana, Tomás and Rachel, who is an expert in GBV and designing programs with NGOs. For both sessions, I told them rapidly about the workshop plan, inspired by a 2x2 image I found on the Internet that shows a polarization map in regards to sentiments and perceptions of people in different countries. I was inspired by how it does not speak of solutions but of narratives and sentiments. One thought I had was how can we bring that back to the workshop with 90 teenagers.
+
+![](../images/MT03/polarization.jpeg)
+
+**Some reflections after gathering feedback:**
+
+- Perception mapping relates to Reality Tunnels - since teenagers especially are increasingly exposed to confirmation biases via TikTok where algorithms work almost instantly.
+
+- There is an opportunity to embed critical hope when discussing the state of the world, especially in regards to pressing issues such as climate change, equality and mental health. While it is vital to be critical, it is equally as important to have an agenda of hope and leave the workshop assistants with a positive note about the state of the world and how it can change for good.
+
+- Mariana shared how the Atlas of Weak Signals all have positive trends and signals intentionally and made me think of what type of educator I want to be.
+
+- Rachel shared a podcast episode of Hidden Brain called “How Your Beliefs Shape Reality” where this is also relevant since it uses evidence-backed neuroscience studies to show how humans' perception about the Universe being just and being beautiful affect how they relate to the world and how they even show up in certain spaces.
+
+- In regards to my project with Wen and Ariel this made me think how we can not only talk about filter bubbles and echo chambers and designing solutions using co-creation, but that this project also relates to how teenagers feel towards the World and the state of things. Thus, it is important to embed critical hope and while it is important to show how opinions are malleable, it is also important to embed hope into the workshop.
+
+- During my conversation with Tomás, he gave us some actionable feedback. To use more concise prompts, simple language and make it more visual. He also suggested we get to know the class before to understand our users better. He mentioned the work of Ugur Gallenkus as a photographic reference and the book “Adversarial Design.”
+
+- An interesting reference I found online is The World Talks. The World Talks is an online experiment where 2 strangers around the world are connected online based on survey answers and a matchmaking algorithm. The intention is to match people with opposite political views in relation to climate change and migration and is an exercise to counter polarization. In essence, it is very similar to what we are trying to achieve as a group. They also have a guide of top 10 rules for a good discussion that we will apply with the children.
+
+### Workshop prep - Setting up the agenda and presentation
+
+With Wen and Ariel we dedicated a work session to refining our agenda, detailed script and presentation.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSatTTImB0ZxQ1Hkg6_JTX6yDSupz8rt0FjpkDVNE3fW-p71X0p3GyZAL97MltnWsWoTea4EGs6HjOl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+We will also be visiting the school on Tuesday to introduce ourselves to the teachers, have a look at the space and infrastructure and meet the students (if possible).
+
+###Visiting the school and co-creating with teachers
+On Tuesday of the week of the workshop, we visited Saint Andreu’s secondary school in a building nearby to the Primary school. We were welcomed by the director and school teacher, who showed us around and showed us where we will be conducting the workshop.
+
+**Some decisions that were made:**
+
+- Since tables and chairs are hard to arrange, teenagers will work in circles on the floor, using the printed perception boards and pens.
+We will have a projector to connect to our laptops.
+
+- Teacher really liked emotional regulation as a subject and mentioned that the students had previously mapped their emotions and what sensations they felt in their body using a similar exercise.
+The space is quite big and will allow us to run the workshop properly.
+
+- The teachers were very open to collaborating with ideas for the prompts and topics explored and they will assist us with co-facilitating the workshop.
+
+###MDEFEST - Perception Board workshop with 90 teenagers at Sant Andreu (08/06)
+We conducted the workshop at Sant Andreu’s gymnasium area with around 90 15 year-olds. Our objective was to facilitate healthy debate, welcome differences of thought amongst them and challenge them to change their opinions regarding climate change, mental health and gender equality during the one-hour session. We were scheduled during the morning and we thought this was a positive decision since their brains would be more fresh.
+
+**Feedback survey results:**
+At the end of the session, we gathered their feedback through a printed survey that they answered as a group. For us, it was a quick way to gather their impressions with the limited time we had assigned and get some insights into what outcomes we had accomplished and what were our areas of improvement.
+
+**Results:**
+- Do you want to discuss more about the topics after the exercise?
+Yes - 12 (86%)
+No - 2 (14%)
+
+- Did you move the pointer more than 4 times?
+Yes - 11 (79%)
+No - 3 (21%)
+
+- Do you think your mind is more open after this exercise?
+Yes - 9 (64%)
+No -  5 (36%)
+
+- From 1 to 10, how satisfied are you with your experience with the Perception Board?
+8
+8
+10
+5
+8
+8
+7
+7
+8
+7
+5
+8
+7.5
+8
+
+**Average: 7.5**
+
+- Do you feel uncomfortable seeing the opinions of others?
+Yes - 11 (79%)
+Yes and No - 3 (21%)
+
+Observation:
+They marked both yes and no, interesting to see they don’t fully agree on this one. We personally feel some tension is good for the exercise.
+
+**Workshop learnings:**
+
+- **Diverse Groups:** Create groups independently to prevent echo chambers and the reluctance to express different opinions among friends.
+
+- **Address Acoustic Challenges:** Consider space limitations and aim for a format that accommodates around 30 people for optimal communication.
+
+- **Ample Space for Questions:** Allow sufficient room for questions and prompts, keeping them simple and gradually increasing complexity.
+
+- **Follow Rules of Engagement:** Refer to established guidelines to manage potentially heated arguments effectively.
+
+- **Teacher Co-Facilitators:** Teachers should assist in question design and setting ground rules as active co-facilitators.
+
+- The teacher mentioned that we should include gender equality during the session. We added a question last minute, but found out that the wording was a bit too complicated for them and we should keep it as simple as possible.
+
+For future iterations of the workshop, we would focus more on one specific topic, reduce the quantity of students and allow for more in-depth discussion. I personally feel the Perception Board is a conversation starter to address taboo topics or generate an excuse to have debate sessions within the classrooms.
+
+Overall, I feel this intervention was a good wrap up for our MDEF experience. It combined all of our interests and was also proof of the trust we had built with the school teachers and directors. The format itself was quite challenging with 90 teenagers and only one hour but it was a great stress test for our product. I feel there is a huge opportunity area in developing workshops that aim to improve soft skills and futures literacy, while engaging with children as empowered actors with points of view that should be integrated into the design of goods and services.
+
+## Design studio class Scaling: Activity 1- The 5Ws of scaling
 
 **Why?**
 
@@ -166,32 +270,3 @@ In the short term, activities in school in Badalona, long term activities are re
 ## Scaling: Activity 2- How?
 
 Our structure for Little Big Futures fits under documentation / guide since we are interested in packaging everything into a Landing site and then sharing back with teachers and school children with the objective of urging schools around Barcelona to replicate our workshops on futures literacy with different school children. Our current challenge is to make it as simple as possible so that schools can easily replicate and implement our model since we won’t be able to facilitate sessions in the future and we want this to fit under a distributed model.
-
-### Designing the workshop - Getting feedback from experts
-This week I focused on gathering feedback from Mariana, Tomás and Rachel, who is an expert in GBV and designing programs with NGOs. For both sessions, I told them rapidly about the workshop plan, inspired by a 2x2 image I found on the Internet that shows a polarization map in regards to sentiments and perceptions of people in different countries. I was inspired by how it does not speak of solutions but of narratives and sentiments. One thought I had was how can we bring that back to the workshop with 90 teenagers.
-
-![](../images/MT03/polarization.jpeg)
-
-**Some reflections after gathering feedback:**
-
-- Perception mapping relates to Reality Tunnels - since teenagers especially are increasingly exposed to confirmation biases via TikTok where algorithms work almost instantly.
-
-- There is an opportunity to embed critical hope when discussing the state of the world, especially in regards to pressing issues such as climate change, equality and mental health. While it is vital to be critical, it is equally as important to have an agenda of hope and leave the workshop assistants with a positive note about the state of the world and how it can change for good.
-
-- Mariana shared how the Atlas of Weak Signals all have positive trends and signals intentionally and made me think of what type of educator I want to be.
-
-- Rachel shared a podcast episode of Hidden Brain called “How Your Beliefs Shape Reality” where this is also relevant since it uses evidence-backed neuroscience studies to show how humans' perception about the Universe being just and being beautiful affect how they relate to the world and how they even show up in certain spaces.
-
-- In regards to my project with Wen and Ariel this made me think how we can not only talk about filter bubbles and echo chambers and designing solutions using co-creation, but that this project also relates to how teenagers feel towards the World and the state of things. Thus, it is important to embed critical hope and while it is important to show how opinions are malleable, it is also important to embed hope into the workshop.
-
-- During my conversation with Tomás, he gave us some actionable feedback. To use more concise prompts, simple language and make it more visual. He also suggested we get to know the class before to understand our users better. He mentioned the work of Ugur Gallenkus as a photographic reference and the book “Adversarial Design.”
-
-- An interesting reference I found online is The World Talks. The World Talks is an online experiment where 2 strangers around the world are connected online based on survey answers and a matchmaking algorithm. The intention is to match people with opposite political views in relation to climate change and migration and is an exercise to counter polarization. In essence, it is very similar to what we are trying to achieve as a group. They also have a guide of top 10 rules for a good discussion that we will apply with the children.
-
-### Workshop prep - Setting up the agenda and presentation
-
-With Wen and Ariel we dedicated a work session to refining our agenda, detailed script and presentation.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSatTTImB0ZxQ1Hkg6_JTX6yDSupz8rt0FjpkDVNE3fW-p71X0p3GyZAL97MltnWsWoTea4EGs6HjOl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-We will also be visiting the school on Tuesday to introduce ourselves to the teachers, have a look at the space and infrastructure and meet the students (if possible).
