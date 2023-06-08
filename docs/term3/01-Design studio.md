@@ -253,6 +253,12 @@ Yes and No - 3 (21%)
 Observation:
 They marked both yes and no, interesting to see they don’t fully agree on this one. We personally feel some tension is good for the exercise.
 
+![](../images/MT03/IMG_1303.jpeg)
+
+![](../images/MT03/IMG_1304.jpeg)
+
+![](../images/MT03/IMG_1307.jpeg)
+
 **Workshop learnings:**
 
 - **Diverse Groups:** Create groups independently to prevent echo chambers and the reluctance to express different opinions among friends.
@@ -277,6 +283,16 @@ They marked both yes and no, interesting to see they don’t fully agree on this
 
 - At some point, the discussions got very heated and Ariel had to remind them of the rules of engagement. After each argument, students would clap one another and we actually found that we were doing the opposite of what we intended (polarizing the class more). Something to keep in mind is how to manage the energy in the classroom because these types of arguments tend to get personal and resonate emotionally wit some students.
 
+![](../images/MT03/IMG_9240.jpg)
+
+![](../images/MT03/IMG_9248.jpg)
+
+![](../images/MT03/IMG_9272.jpg)
+
 For future iterations of the workshop, we would focus more on one specific topic, reduce the quantity of students and allow for more in-depth discussion. I personally feel the Perception Board is a conversation starter to address taboo topics or generate an excuse to have debate sessions within the classrooms.
+
+![](../images/MT03/workshop.jpeg)
+
+![](../images/MT03/workshop1.jpeg)
 
 Overall, I feel this intervention was a good wrap up for our MDEF experience. It combined all of our interests and was also proof of the trust we had built with the school teachers and directors. The format itself was quite challenging with 90 teenagers and only one hour but it was a great stress test for our product. I feel there is a huge opportunity area in developing workshops that aim to improve soft skills and futures literacy, while engaging with children as empowered actors with points of view that should be integrated into the design of goods and services.
