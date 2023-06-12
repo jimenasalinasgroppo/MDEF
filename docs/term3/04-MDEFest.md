@@ -47,3 +47,6 @@ During this session we did a branding and communication exercise to think of the
 
 ##Week 5 Day 1 - Comms and Design Brief
 AS a group, we voted on the branding proposals made by Manu. One was more tech-focused and AI-driven and the other more hand-drawn illustrated. The voting proposal was the tech/AI-driven one. Me, Wen and Ariel will think of how to make it more attractive for children and school teachers.
+
+##Production With Jana
+We worked closely with Jana to define our production requirements to hit the ground running. We had pretty simple production needs since the school would provide the location and the students. We only used 17 euros in Copiservei A2 prints.

@@ -216,6 +216,7 @@ We conducted the workshop at Sant Andreu’s gymnasium area with around 90 15 ye
 At the end of the session, we gathered their feedback through a printed survey that they answered as a group. For us, it was a quick way to gather their impressions with the limited time we had assigned and get some insights into what outcomes we had accomplished and what were our areas of improvement.
 
 **Results:**
+
 - Do you want to discuss more about the topics after the exercise?
 Yes - 12 (86%)
 No - 2 (14%)
@@ -243,11 +244,10 @@ No -  5 (36%)
 8
 7.5
 8
-
 **Average: 7.5**
 
 - Do you feel uncomfortable seeing the opinions of others?
-Yes - 11 (79%)
+No - 11 (79%)
 Yes and No - 3 (21%)
 
 Observation:
@@ -292,3 +292,8 @@ For future iterations of the workshop, we would focus more on one specific topic
 ![](../images/MT03/workshop1.jpeg)
 
 Overall, I feel this intervention was a good wrap up for our MDEF experience. It combined all of our interests and was also proof of the trust we had built with the school teachers and directors. The format itself was quite challenging with 90 teenagers and only one hour but it was a great stress test for our product. I feel there is a huge opportunity area in developing workshops that aim to improve soft skills and futures literacy, while engaging with children as empowered actors with points of view that should be integrated into the design of goods and services.
+
+Our Project Landing Site below.
+(We have submitted our Project to Distributed Design Awards and Dubai Design Week).
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuOMyI6194EmIxtUgXjSZdM%2FLittle-Big-Futures%3Ftype%3Ddesign%26node-id%3D307-20%26scaling%3Dscale-down-width%26page-id%3D46%253A2%26starting-point-node-id%3D307%253A20" allowfullscreen></iframe>
